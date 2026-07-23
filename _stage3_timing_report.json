@@ -1,0 +1,950 @@
+{
+  "version": 1,
+  "page_count": 25,
+  "total_page_seconds": 88.4054,
+  "average_page_seconds": 3.5362,
+  "phase_totals_seconds": {
+    "internal_links": 42.1624,
+    "content_assembly": 16.5743,
+    "youtube": 10.6177,
+    "media_svg": 9.2787,
+    "monetization": 7.0918,
+    "quality_write": 1.3812,
+    "preparation": 0.723,
+    "content_cleanup_final": 0.5608,
+    "content_cleanup_initial": 0.0149
+  },
+  "slowest_pages": [
+    {
+      "base_name": "black_projects_87e9a4_intelligence_sources_e3f298",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 8.2152,
+      "phases": {
+        "preparation": 0.0269,
+        "content_cleanup_initial": 0.0011,
+        "internal_links": 2.1018,
+        "content_cleanup_final": 0.054,
+        "media_svg": 0.165,
+        "youtube": 3.3025,
+        "content_assembly": 0.8886,
+        "monetization": 1.5376,
+        "quality_write": 0.1378
+      }
+    },
+    {
+      "base_name": "black_projects_87e9a4_a12_oxcart_73d759_a12_outrun_missiles_6655a0",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 8.0978,
+      "phases": {
+        "preparation": 0.0319,
+        "content_cleanup_initial": 0.0011,
+        "internal_links": 1.6044,
+        "content_cleanup_final": 0.0231,
+        "media_svg": 0.4201,
+        "youtube": 3.9022,
+        "content_assembly": 0.7823,
+        "monetization": 1.2553,
+        "quality_write": 0.0774
+      }
+    },
+    {
+      "base_name": "black_projects_87e9a4_have_blue_95f6fc_have_blue_to_f117_1e2f7d",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 7.7237,
+      "phases": {
+        "preparation": 0.0192,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.7626,
+        "content_cleanup_final": 0.0202,
+        "media_svg": 0.4268,
+        "youtube": 3.1347,
+        "content_assembly": 0.6517,
+        "monetization": 1.5765,
+        "quality_write": 0.1314
+      }
+    },
+    {
+      "base_name": "black_projects_87e9a4_black_budget_dea93a_black_budget_trend_r_546ef5",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.854,
+      "phases": {
+        "preparation": 0.1257,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 2.3027,
+        "content_cleanup_final": 0.0138,
+        "media_svg": 0.4103,
+        "youtube": 0.0149,
+        "content_assembly": 0.8361,
+        "monetization": 0.1034,
+        "quality_write": 0.0468
+      }
+    },
+    {
+      "base_name": "black_projects_87e9a4_b2_spirit_863e66_b2_stealth_not_invis_0687b7",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.7502,
+      "phases": {
+        "preparation": 0.0184,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6925,
+        "content_cleanup_final": 0.0179,
+        "media_svg": 0.4293,
+        "youtube": 0.032,
+        "content_assembly": 1.2903,
+        "monetization": 0.1811,
+        "quality_write": 0.0882
+      }
+    },
+    {
+      "base_name": "black_projects_87e9a4_area51_rumors_14a0e7_groom_lake_secret_ba_ba903e",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.3948,
+      "phases": {
+        "preparation": 0.0472,
+        "content_cleanup_initial": 0.0019,
+        "internal_links": 1.9331,
+        "content_cleanup_final": 0.0521,
+        "media_svg": 0.4121,
+        "youtube": 0.0149,
+        "content_assembly": 0.7004,
+        "monetization": 0.161,
+        "quality_write": 0.072
+      }
+    },
+    {
+      "base_name": "black_projects_87e9a4_area51_rumors_14a0e7_restricted_roads_myt_5ca775",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.2039,
+      "phases": {
+        "preparation": 0.1042,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.7846,
+        "content_cleanup_final": 0.0215,
+        "media_svg": 0.3747,
+        "youtube": 0.0118,
+        "content_assembly": 0.765,
+        "monetization": 0.0952,
+        "quality_write": 0.0462
+      }
+    },
+    {
+      "base_name": "black_projects_87e9a4_cover_stories_cb3f5f_visible_facility_foo_66692a",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.1108,
+      "phases": {
+        "preparation": 0.021,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.8329,
+        "content_cleanup_final": 0.0196,
+        "media_svg": 0.4834,
+        "youtube": 0.0105,
+        "content_assembly": 0.594,
+        "monetization": 0.1095,
+        "quality_write": 0.0395
+      }
+    },
+    {
+      "base_name": "black_projects_87e9a4_sr71_blackbird_3084c1_museum_blackbird_aft_4ce84e",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.875,
+      "phases": {
+        "preparation": 0.0236,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.7727,
+        "content_cleanup_final": 0.0149,
+        "media_svg": 0.3577,
+        "youtube": 0.0112,
+        "content_assembly": 0.5699,
+        "monetization": 0.0836,
+        "quality_write": 0.0409
+      }
+    },
+    {
+      "base_name": "black_projects_87e9a4_intelligence_sources_e3f298_mosaic_problem_secre_d28e78",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.8679,
+      "phases": {
+        "preparation": 0.0191,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.604,
+        "content_cleanup_final": 0.0187,
+        "media_svg": 0.3571,
+        "youtube": 0.012,
+        "content_assembly": 0.6057,
+        "monetization": 0.2101,
+        "quality_write": 0.0407
+      }
+    },
+    {
+      "base_name": "black_projects_87e9a4_popular_culture_myth_5d22b9_bob_lazar_claims_end_4de062",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.8287,
+      "phases": {
+        "preparation": 0.0193,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6308,
+        "content_cleanup_final": 0.0195,
+        "media_svg": 0.3714,
+        "youtube": 0.0095,
+        "content_assembly": 0.5838,
+        "monetization": 0.1469,
+        "quality_write": 0.047
+      }
+    },
+    {
+      "base_name": "black_projects_87e9a4_compartmented_teams_8af5ba_sanitized_interface_b7b1e4",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.8281,
+      "phases": {
+        "preparation": 0.018,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.6337,
+        "content_cleanup_final": 0.03,
+        "media_svg": 0.3586,
+        "youtube": 0.0113,
+        "content_assembly": 0.6067,
+        "monetization": 0.1208,
+        "quality_write": 0.0482
+      }
+    },
+    {
+      "base_name": "black_projects_87e9a4_popular_culture_myth_5d22b9_hollywood_area51_ali_765d16",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.8049,
+      "phases": {
+        "preparation": 0.0174,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6406,
+        "content_cleanup_final": 0.0191,
+        "media_svg": 0.3685,
+        "youtube": 0.0106,
+        "content_assembly": 0.6045,
+        "monetization": 0.1033,
+        "quality_write": 0.0405
+      }
+    },
+    {
+      "base_name": "black_projects_87e9a4_overclassification_t_f052cc_classification_damag_b750c5",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.7942,
+      "phases": {
+        "preparation": 0.0193,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.5515,
+        "content_cleanup_final": 0.0162,
+        "media_svg": 0.3655,
+        "youtube": 0.0108,
+        "content_assembly": 0.6544,
+        "monetization": 0.1339,
+        "quality_write": 0.0422
+      }
+    },
+    {
+      "base_name": "black_projects_87e9a4_intelligence_sources_e3f298_cover_companies_prog_9b74d4",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.7895,
+      "phases": {
+        "preparation": 0.0204,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.6139,
+        "content_cleanup_final": 0.0212,
+        "media_svg": 0.3608,
+        "youtube": 0.0121,
+        "content_assembly": 0.5948,
+        "monetization": 0.1239,
+        "quality_write": 0.0418
+      }
+    },
+    {
+      "base_name": "black_projects_87e9a4_hidden_budget_costs_798d69_classified_contracto_a2b4a6",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.7846,
+      "phases": {
+        "preparation": 0.0181,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.6147,
+        "content_cleanup_final": 0.0203,
+        "media_svg": 0.3622,
+        "youtube": 0.011,
+        "content_assembly": 0.604,
+        "monetization": 0.1107,
+        "quality_write": 0.0431
+      }
+    },
+    {
+      "base_name": "black_projects_87e9a4_beyond_aircraft_96c311_manhattan_compartmen_3094c1",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.7535,
+      "phases": {
+        "preparation": 0.0181,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.5606,
+        "content_cleanup_final": 0.0186,
+        "media_svg": 0.361,
+        "youtube": 0.01,
+        "content_assembly": 0.5971,
+        "monetization": 0.1435,
+        "quality_write": 0.0441
+      }
+    },
+    {
+      "base_name": "black_projects_87e9a4_operational_surprise_15e46e_adaptation_window_6a61f2",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.7529,
+      "phases": {
+        "preparation": 0.0197,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.5948,
+        "content_cleanup_final": 0.0221,
+        "media_svg": 0.3621,
+        "youtube": 0.0112,
+        "content_assembly": 0.5932,
+        "monetization": 0.106,
+        "quality_write": 0.0431
+      }
+    },
+    {
+      "base_name": "black_projects_87e9a4_recon_surprise_92a79_32341b_behavioral_counterme_2348e4",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.7402,
+      "phases": {
+        "preparation": 0.0194,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.6142,
+        "content_cleanup_final": 0.0244,
+        "media_svg": 0.3505,
+        "youtube": 0.0093,
+        "content_assembly": 0.5737,
+        "monetization": 0.1031,
+        "quality_write": 0.0451
+      }
+    },
+    {
+      "base_name": "black_projects_87e9a4_disclosure_timelines_f00941_f117_operational_sec_2dc439",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.7347,
+      "phases": {
+        "preparation": 0.0189,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.5593,
+        "content_cleanup_final": 0.0195,
+        "media_svg": 0.3714,
+        "youtube": 0.0135,
+        "content_assembly": 0.5773,
+        "monetization": 0.1289,
+        "quality_write": 0.0454
+      }
+    }
+  ],
+  "pages": [
+    {
+      "base_name": "black_projects_87e9a4_intelligence_sources_e3f298",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 8.2152,
+      "phases": {
+        "preparation": 0.0269,
+        "content_cleanup_initial": 0.0011,
+        "internal_links": 2.1018,
+        "content_cleanup_final": 0.054,
+        "media_svg": 0.165,
+        "youtube": 3.3025,
+        "content_assembly": 0.8886,
+        "monetization": 1.5376,
+        "quality_write": 0.1378
+      }
+    },
+    {
+      "base_name": "black_projects_87e9a4_have_blue_95f6fc_have_blue_to_f117_1e2f7d",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 7.7237,
+      "phases": {
+        "preparation": 0.0192,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.7626,
+        "content_cleanup_final": 0.0202,
+        "media_svg": 0.4268,
+        "youtube": 3.1347,
+        "content_assembly": 0.6517,
+        "monetization": 1.5765,
+        "quality_write": 0.1314
+      }
+    },
+    {
+      "base_name": "black_projects_87e9a4_b2_spirit_863e66_b2_stealth_not_invis_0687b7",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.7502,
+      "phases": {
+        "preparation": 0.0184,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6925,
+        "content_cleanup_final": 0.0179,
+        "media_svg": 0.4293,
+        "youtube": 0.032,
+        "content_assembly": 1.2903,
+        "monetization": 0.1811,
+        "quality_write": 0.0882
+      }
+    },
+    {
+      "base_name": "black_projects_87e9a4_a12_oxcart_73d759_a12_outrun_missiles_6655a0",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 8.0978,
+      "phases": {
+        "preparation": 0.0319,
+        "content_cleanup_initial": 0.0011,
+        "internal_links": 1.6044,
+        "content_cleanup_final": 0.0231,
+        "media_svg": 0.4201,
+        "youtube": 3.9022,
+        "content_assembly": 0.7823,
+        "monetization": 1.2553,
+        "quality_write": 0.0774
+      }
+    },
+    {
+      "base_name": "black_projects_87e9a4_black_budget_dea93a_black_budget_trend_r_546ef5",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.854,
+      "phases": {
+        "preparation": 0.1257,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 2.3027,
+        "content_cleanup_final": 0.0138,
+        "media_svg": 0.4103,
+        "youtube": 0.0149,
+        "content_assembly": 0.8361,
+        "monetization": 0.1034,
+        "quality_write": 0.0468
+      }
+    },
+    {
+      "base_name": "black_projects_87e9a4_area51_rumors_14a0e7_groom_lake_secret_ba_ba903e",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.3948,
+      "phases": {
+        "preparation": 0.0472,
+        "content_cleanup_initial": 0.0019,
+        "internal_links": 1.9331,
+        "content_cleanup_final": 0.0521,
+        "media_svg": 0.4121,
+        "youtube": 0.0149,
+        "content_assembly": 0.7004,
+        "monetization": 0.161,
+        "quality_write": 0.072
+      }
+    },
+    {
+      "base_name": "black_projects_87e9a4_area51_rumors_14a0e7_restricted_roads_myt_5ca775",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.2039,
+      "phases": {
+        "preparation": 0.1042,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.7846,
+        "content_cleanup_final": 0.0215,
+        "media_svg": 0.3747,
+        "youtube": 0.0118,
+        "content_assembly": 0.765,
+        "monetization": 0.0952,
+        "quality_write": 0.0462
+      }
+    },
+    {
+      "base_name": "black_projects_87e9a4_cover_stories_cb3f5f_visible_facility_foo_66692a",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.1108,
+      "phases": {
+        "preparation": 0.021,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.8329,
+        "content_cleanup_final": 0.0196,
+        "media_svg": 0.4834,
+        "youtube": 0.0105,
+        "content_assembly": 0.594,
+        "monetization": 0.1095,
+        "quality_write": 0.0395
+      }
+    },
+    {
+      "base_name": "black_projects_87e9a4_sr71_blackbird_3084c1_museum_blackbird_aft_4ce84e",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.875,
+      "phases": {
+        "preparation": 0.0236,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.7727,
+        "content_cleanup_final": 0.0149,
+        "media_svg": 0.3577,
+        "youtube": 0.0112,
+        "content_assembly": 0.5699,
+        "monetization": 0.0836,
+        "quality_write": 0.0409
+      }
+    },
+    {
+      "base_name": "black_projects_87e9a4_beyond_aircraft_96c311_manhattan_compartmen_3094c1",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.7535,
+      "phases": {
+        "preparation": 0.0181,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.5606,
+        "content_cleanup_final": 0.0186,
+        "media_svg": 0.361,
+        "youtube": 0.01,
+        "content_assembly": 0.5971,
+        "monetization": 0.1435,
+        "quality_write": 0.0441
+      }
+    },
+    {
+      "base_name": "black_projects_87e9a4_operational_surprise_15e46e_adaptation_window_6a61f2",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.7529,
+      "phases": {
+        "preparation": 0.0197,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.5948,
+        "content_cleanup_final": 0.0221,
+        "media_svg": 0.3621,
+        "youtube": 0.0112,
+        "content_assembly": 0.5932,
+        "monetization": 0.106,
+        "quality_write": 0.0431
+      }
+    },
+    {
+      "base_name": "black_projects_87e9a4_rumors_vs_evidence_258660_test_range_activity_5882c5",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.7338,
+      "phases": {
+        "preparation": 0.0195,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.581,
+        "content_cleanup_final": 0.0265,
+        "media_svg": 0.3611,
+        "youtube": 0.0115,
+        "content_assembly": 0.5875,
+        "monetization": 0.0986,
+        "quality_write": 0.0477
+      }
+    },
+    {
+      "base_name": "black_projects_87e9a4_compartmented_teams_8af5ba_sanitized_interface_b7b1e4",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.8281,
+      "phases": {
+        "preparation": 0.018,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.6337,
+        "content_cleanup_final": 0.03,
+        "media_svg": 0.3586,
+        "youtube": 0.0113,
+        "content_assembly": 0.6067,
+        "monetization": 0.1208,
+        "quality_write": 0.0482
+      }
+    },
+    {
+      "base_name": "black_projects_87e9a4_rumors_vs_evidence_258660_aurora_documentary_g_12e0f3",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.7147,
+      "phases": {
+        "preparation": 0.0176,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.5604,
+        "content_cleanup_final": 0.0171,
+        "media_svg": 0.3648,
+        "youtube": 0.0093,
+        "content_assembly": 0.5802,
+        "monetization": 0.1216,
+        "quality_write": 0.0432
+      }
+    },
+    {
+      "base_name": "black_projects_87e9a4_rumors_vs_evidence_258660_classified_budget_cl_5c99f3",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.6522,
+      "phases": {
+        "preparation": 0.0184,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.5236,
+        "content_cleanup_final": 0.0142,
+        "media_svg": 0.3594,
+        "youtube": 0.01,
+        "content_assembly": 0.5788,
+        "monetization": 0.1048,
+        "quality_write": 0.0427
+      }
+    },
+    {
+      "base_name": "black_projects_87e9a4_rumors_vs_evidence_258660_u2_a12_verifiable_tr_836c71",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.6786,
+      "phases": {
+        "preparation": 0.0208,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.5288,
+        "content_cleanup_final": 0.0153,
+        "media_svg": 0.3664,
+        "youtube": 0.017,
+        "content_assembly": 0.5733,
+        "monetization": 0.1143,
+        "quality_write": 0.0423
+      }
+    },
+    {
+      "base_name": "black_projects_87e9a4_hidden_budget_costs_798d69_classified_contracto_a2b4a6",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.7846,
+      "phases": {
+        "preparation": 0.0181,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.6147,
+        "content_cleanup_final": 0.0203,
+        "media_svg": 0.3622,
+        "youtube": 0.011,
+        "content_assembly": 0.604,
+        "monetization": 0.1107,
+        "quality_write": 0.0431
+      }
+    },
+    {
+      "base_name": "black_projects_87e9a4_disclosure_timelines_f00941_f117_operational_sec_2dc439",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.7347,
+      "phases": {
+        "preparation": 0.0189,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.5593,
+        "content_cleanup_final": 0.0195,
+        "media_svg": 0.3714,
+        "youtube": 0.0135,
+        "content_assembly": 0.5773,
+        "monetization": 0.1289,
+        "quality_write": 0.0454
+      }
+    },
+    {
+      "base_name": "black_projects_87e9a4_intelligence_sources_e3f298_cover_companies_prog_9b74d4",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.7895,
+      "phases": {
+        "preparation": 0.0204,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.6139,
+        "content_cleanup_final": 0.0212,
+        "media_svg": 0.3608,
+        "youtube": 0.0121,
+        "content_assembly": 0.5948,
+        "monetization": 0.1239,
+        "quality_write": 0.0418
+      }
+    },
+    {
+      "base_name": "black_projects_87e9a4_intelligence_sources_e3f298_mosaic_problem_secre_d28e78",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.8679,
+      "phases": {
+        "preparation": 0.0191,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.604,
+        "content_cleanup_final": 0.0187,
+        "media_svg": 0.3571,
+        "youtube": 0.012,
+        "content_assembly": 0.6057,
+        "monetization": 0.2101,
+        "quality_write": 0.0407
+      }
+    },
+    {
+      "base_name": "black_projects_87e9a4_operational_surprise_15e46e_capability_uncertain_b99d09",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.7215,
+      "phases": {
+        "preparation": 0.0209,
+        "content_cleanup_initial": 0.001,
+        "internal_links": 1.5632,
+        "content_cleanup_final": 0.021,
+        "media_svg": 0.3585,
+        "youtube": 0.0139,
+        "content_assembly": 0.581,
+        "monetization": 0.1182,
+        "quality_write": 0.0439
+      }
+    },
+    {
+      "base_name": "black_projects_87e9a4_overclassification_t_f052cc_classification_damag_b750c5",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.7942,
+      "phases": {
+        "preparation": 0.0193,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.5515,
+        "content_cleanup_final": 0.0162,
+        "media_svg": 0.3655,
+        "youtube": 0.0108,
+        "content_assembly": 0.6544,
+        "monetization": 0.1339,
+        "quality_write": 0.0422
+      }
+    },
+    {
+      "base_name": "black_projects_87e9a4_popular_culture_myth_5d22b9_bob_lazar_claims_end_4de062",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.8287,
+      "phases": {
+        "preparation": 0.0193,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6308,
+        "content_cleanup_final": 0.0195,
+        "media_svg": 0.3714,
+        "youtube": 0.0095,
+        "content_assembly": 0.5838,
+        "monetization": 0.1469,
+        "quality_write": 0.047
+      }
+    },
+    {
+      "base_name": "black_projects_87e9a4_popular_culture_myth_5d22b9_hollywood_area51_ali_765d16",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.8049,
+      "phases": {
+        "preparation": 0.0174,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6406,
+        "content_cleanup_final": 0.0191,
+        "media_svg": 0.3685,
+        "youtube": 0.0106,
+        "content_assembly": 0.6045,
+        "monetization": 0.1033,
+        "quality_write": 0.0405
+      }
+    },
+    {
+      "base_name": "black_projects_87e9a4_recon_surprise_92a79_32341b_behavioral_counterme_2348e4",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.7402,
+      "phases": {
+        "preparation": 0.0194,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.6142,
+        "content_cleanup_final": 0.0244,
+        "media_svg": 0.3505,
+        "youtube": 0.0093,
+        "content_assembly": 0.5737,
+        "monetization": 0.1031,
+        "quality_write": 0.0451
+      }
+    }
+  ],
+  "parallel": {
+    "enabled": true,
+    "mode": "process",
+    "worker_count": 3,
+    "workers_raw": "auto",
+    "max_workers": 3,
+    "progress_interval_seconds": 60.0,
+    "queued_rebuild_pages": 25,
+    "reused_pages": 186,
+    "rebuilt_pages": 25,
+    "error_pages": 0,
+    "page_work_wall_seconds": 62.8964,
+    "rebuilt_pages_per_minute": 23.8487,
+    "queued_rebuild_pages_per_minute": 23.8487,
+    "apparent_page_work_speedup": 1.4056,
+    "youtube_cache_prepare": {
+      "entries": 47471,
+      "updated": true,
+      "elapsed_seconds": 5.2992
+    },
+    "process_worker_diagnostics": {
+      "completed_pages": 25,
+      "successful_pages": 25,
+      "failed_pages": 0,
+      "worker_summary": {
+        "26736": {
+          "pages": 9,
+          "successes": 9,
+          "failures": 0,
+          "total_worker_seconds": 32.3831,
+          "max_worker_seconds": 8.272,
+          "last_base_name": "black_projects_87e9a4_popular_culture_myth_5d22b9_hollywood_area51_ali_765d16"
+        },
+        "19212": {
+          "pages": 8,
+          "successes": 8,
+          "failures": 0,
+          "total_worker_seconds": 29.0401,
+          "max_worker_seconds": 7.8099,
+          "last_base_name": "black_projects_87e9a4_popular_culture_myth_5d22b9_bob_lazar_claims_end_4de062"
+        },
+        "4432": {
+          "pages": 8,
+          "successes": 8,
+          "failures": 0,
+          "total_worker_seconds": 28.2754,
+          "max_worker_seconds": 8.1627,
+          "last_base_name": "black_projects_87e9a4_recon_surprise_92a79_32341b_behavioral_counterme_2348e4"
+        }
+      },
+      "slowest_worker_pages": [
+        {
+          "base_name": "black_projects_87e9a4_intelligence_sources_e3f298",
+          "level": 2,
+          "success": true,
+          "worker_pid": 26736,
+          "worker_duration_seconds": 8.272,
+          "total_seconds": 8.2152,
+          "worker_started_at_utc": "2026-07-23T14:25:11.870457Z",
+          "worker_finished_at_utc": "2026-07-23T14:25:20.085721Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "black_projects_87e9a4_a12_oxcart_73d759_a12_outrun_missiles_6655a0",
+          "level": 3,
+          "success": true,
+          "worker_pid": 4432,
+          "worker_duration_seconds": 8.1627,
+          "total_seconds": 8.0978,
+          "worker_started_at_utc": "2026-07-23T14:25:17.876122Z",
+          "worker_finished_at_utc": "2026-07-23T14:25:25.974027Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "black_projects_87e9a4_have_blue_95f6fc_have_blue_to_f117_1e2f7d",
+          "level": 3,
+          "success": true,
+          "worker_pid": 19212,
+          "worker_duration_seconds": 7.8099,
+          "total_seconds": 7.7237,
+          "worker_started_at_utc": "2026-07-23T14:25:14.908347Z",
+          "worker_finished_at_utc": "2026-07-23T14:25:22.632112Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "black_projects_87e9a4_black_budget_dea93a_black_budget_trend_r_546ef5",
+          "level": 3,
+          "success": true,
+          "worker_pid": 19212,
+          "worker_duration_seconds": 3.8988,
+          "total_seconds": 3.854,
+          "worker_started_at_utc": "2026-07-23T14:25:22.723218Z",
+          "worker_finished_at_utc": "2026-07-23T14:25:26.577291Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "black_projects_87e9a4_b2_spirit_863e66_b2_stealth_not_invis_0687b7",
+          "level": 3,
+          "success": true,
+          "worker_pid": 26736,
+          "worker_duration_seconds": 3.8508,
+          "total_seconds": 3.7502,
+          "worker_started_at_utc": "2026-07-23T14:25:20.144044Z",
+          "worker_finished_at_utc": "2026-07-23T14:25:23.894271Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "black_projects_87e9a4_area51_rumors_14a0e7_groom_lake_secret_ba_ba903e",
+          "level": 3,
+          "success": true,
+          "worker_pid": 26736,
+          "worker_duration_seconds": 3.469,
+          "total_seconds": 3.3948,
+          "worker_started_at_utc": "2026-07-23T14:25:23.997937Z",
+          "worker_finished_at_utc": "2026-07-23T14:25:27.392774Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "black_projects_87e9a4_area51_rumors_14a0e7_restricted_roads_myt_5ca775",
+          "level": 3,
+          "success": true,
+          "worker_pid": 4432,
+          "worker_duration_seconds": 3.2518,
+          "total_seconds": 3.2039,
+          "worker_started_at_utc": "2026-07-23T14:25:26.040289Z",
+          "worker_finished_at_utc": "2026-07-23T14:25:29.244261Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "black_projects_87e9a4_cover_stories_cb3f5f_visible_facility_foo_66692a",
+          "level": 3,
+          "success": true,
+          "worker_pid": 19212,
+          "worker_duration_seconds": 3.1559,
+          "total_seconds": 3.1108,
+          "worker_started_at_utc": "2026-07-23T14:25:26.623244Z",
+          "worker_finished_at_utc": "2026-07-23T14:25:29.734085Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "black_projects_87e9a4_sr71_blackbird_3084c1_museum_blackbird_aft_4ce84e",
+          "level": 3,
+          "success": true,
+          "worker_pid": 26736,
+          "worker_duration_seconds": 2.9195,
+          "total_seconds": 2.875,
+          "worker_started_at_utc": "2026-07-23T14:25:27.468834Z",
+          "worker_finished_at_utc": "2026-07-23T14:25:30.343898Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "black_projects_87e9a4_intelligence_sources_e3f298_mosaic_problem_secre_d28e78",
+          "level": 3,
+          "success": true,
+          "worker_pid": 19212,
+          "worker_duration_seconds": 2.9114,
+          "total_seconds": 2.8679,
+          "worker_started_at_utc": "2026-07-23T14:25:38.174530Z",
+          "worker_finished_at_utc": "2026-07-23T14:25:41.042453Z",
+          "result_merge_seconds": 0.0
+        }
+      ]
+    }
+  }
+}

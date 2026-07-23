@@ -1,0 +1,5079 @@
+{
+  "generated_at_utc": "2026-07-23T14:26:32.591921Z",
+  "mode": "warn_only",
+  "summary": {
+    "pages_with_stage2_metadata": 211,
+    "pages_review_recommended": 1,
+    "warning_reason_counts": {
+      "single_reader_role": 1
+    }
+  },
+  "pages": [
+    {
+      "basename": "black_projects_87e9a4_f117_nighthawk_75a3d9_f117_stealth_mainten_e98156",
+      "title": "Why Stealth Needed Meticulous Maintenance",
+      "infographic_count": 3,
+      "templates": [
+        "list_vertical",
+        "cards_grid",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "summary",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "F 117 Low Observable Maintenance Workflow",
+        "Critical Flaws Impacting F 117 Stealth",
+        "F 117 Stealth Engineering Hierarchy"
+      ],
+      "role_diversity_count": 1,
+      "max_title_similarity": 0.286,
+      "review_recommended": true,
+      "warning_reasons": [
+        "single_reader_role"
+      ]
+    },
+    {
+      "basename": "black_projects_87e9a4",
+      "title": "What Secret Programs Reveal Years Later",
+      "infographic_count": 3,
+      "templates": [
+        "versus",
+        "list_vertical",
+        "myth_facts"
+      ],
+      "roles": [
+        "comparison",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Anatomy of a Black Project",
+        "Evolution of Famous Stealth Aircraft",
+        "The Secrecy Oversight Tension"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_a12_oxcart_73d759",
+      "title": "Inside the A 12 OXCART Secrecy Machine",
+      "infographic_count": 3,
+      "templates": [
+        "list_vertical",
+        "fact_box_sidebar",
+        "versus"
+      ],
+      "roles": [
+        "summary",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "A 12 OXCART Engineering Evolution",
+        "OXCART Operational Mission Sequence",
+        "A 12 vs SR 71 Strategic Shift"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_a12_oxcart_73d759_a12_outrun_missiles_6655a0",
+      "title": "Could Speed Beat Soviet Air Defenses?",
+      "infographic_count": 3,
+      "templates": [
+        "grid_stats",
+        "timeline_history",
+        "cards_grid"
+      ],
+      "roles": [
+        "other",
+        "chronology",
+        "summary"
+      ],
+      "titles": [
+        "A 12 OXCART Survivability Architecture",
+        "Evolution of CIA Reconnaissance Strategy",
+        "OXCART Design Philosophy Hierarchy"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_a12_oxcart_73d759_a12_titanium_challen_509d4a",
+      "title": "Why Titanium Became the A 12's Survival Skin",
+      "infographic_count": 3,
+      "templates": [
+        "structure_taxonomy",
+        "process_steps",
+        "myth_facts"
+      ],
+      "roles": [
+        "taxonomy",
+        "process",
+        "comparison"
+      ],
+      "titles": [
+        "A 12 OXCART Titanium Structural Composition",
+        "Titanium Procurement and Manufacturing Pipeline",
+        "A 12 Thermal Management Innovations"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_a12_oxcart_73d759_a12_vs_sr71_tradeoff_d30373",
+      "title": "Was the A 12 Better Than the SR 71?",
+      "infographic_count": 3,
+      "templates": [
+        "versus",
+        "list_vertical",
+        "myth_facts"
+      ],
+      "roles": [
+        "comparison",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "A 12 OXCART vs SR 71 Blackbird",
+        "SR 71 Multi Sensor Capabilities",
+        "Factors in A 12 Retirement"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.222,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_a12_oxcart_73d759_black_shield_mission_ca4a2e",
+      "title": "What the A 12 Actually Did in Combat",
+      "infographic_count": 3,
+      "templates": [
+        "list_vertical",
+        "grid_stats",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "summary",
+        "other",
+        "summary"
+      ],
+      "titles": [
+        "A 12 BLACK SHIELD Mission Cycle",
+        "A 12 OXCART Technical Capabilities",
+        "Intelligence Yields from North Vietnam"
+      ],
+      "role_diversity_count": 1,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_a12_oxcart_73d759_groom_lake_oxcart_te_190944",
+      "title": "Why OXCART Needed a Hidden Desert Base",
+      "infographic_count": 3,
+      "templates": [
+        "venn",
+        "tree_map",
+        "satellite_map"
+      ],
+      "roles": [
+        "comparison",
+        "taxonomy",
+        "geography"
+      ],
+      "titles": [
+        "A 12 OXCART Development Time line",
+        "Groom Lake Security Infrastructure",
+        "OXCART Technical Testing Requirements"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_a12_oxcart_73d759_why_oxcart_ended_4be920",
+      "title": "Why a Record Breaking Spy Plane Was Retired",
+      "infographic_count": 3,
+      "templates": [
+        "comparison_columns",
+        "quadrant",
+        "tug_of_war"
+      ],
+      "roles": [
+        "comparison",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "A 12 OXCART Retirement Misconceptions",
+        "OXCART vs. Satellite Reconnaissance",
+        "Factors Driving OXCART Cancellation"
+      ],
+      "role_diversity_count": 1,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_area51_rumors_14a0e7",
+      "title": "Why Area 51 Became a Rumor Engine",
+      "infographic_count": 3,
+      "templates": [
+        "fact_box_sidebar",
+        "grid_stats",
+        "cards_grid"
+      ],
+      "roles": [
+        "summary",
+        "other",
+        "summary"
+      ],
+      "titles": [
+        "Evolution of Area 51 Mythology",
+        "Groom Lake Secrecy Mechanisms",
+        "U 2 and OXCART Testing Facts"
+      ],
+      "role_diversity_count": 1,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_area51_rumors_14a0e7_area51_late_disclosu_f97697",
+      "title": "Why late admissions made rumours stronger",
+      "infographic_count": 3,
+      "templates": [
+        "myth_facts",
+        "fact_box_sidebar",
+        "tree_map"
+      ],
+      "roles": [
+        "comparison",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Area 51 Declassification Paradox",
+        "Chronology of Area 51 Secrecy",
+        "Impact of Partial Declassification"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_area51_rumors_14a0e7_groom_lake_secret_ba_ba903e",
+      "title": "Why Groom Lake felt made for secrets",
+      "infographic_count": 3,
+      "templates": [
+        "list_vertical",
+        "cards_grid",
+        "grid_stats"
+      ],
+      "roles": [
+        "summary",
+        "summary",
+        "other"
+      ],
+      "titles": [
+        "Groom Lake Site Selection Criteria",
+        "Naming Complexity of Area 51",
+        "Factors Shaping the Area 51 Legend"
+      ],
+      "role_diversity_count": 1,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_area51_rumors_14a0e7_groom_lake_waste_exe_06576c",
+      "title": "The lawsuit secrecy that fed Area 51 suspicion",
+      "infographic_count": 3,
+      "templates": [
+        "structure_taxonomy",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "taxonomy",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Groom Lake Waste Dispute Time line",
+        "Secrecy vs. Public Accountability",
+        "Area 51 Myth Making Drivers"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_area51_rumors_14a0e7_restricted_roads_myt_5ca775",
+      "title": "How fences turn secrecy into theatre",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "venn",
+        "quadrant"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Myth Formation Near Secret Sites",
+        "Area 51 Perimeter Infrastructure",
+        "Cultural Artifacts of Secrecy"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_area51_rumors_14a0e7_storm_area51_spectac_a52fb2",
+      "title": "When Area 51 became an internet event",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Viral Feedback Loop of Area 51",
+        "Drivers of the Area 51 Meme",
+        "Modern Myth Making Lessons"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_area51_rumors_14a0e7_u2_ufo_reports_90e455",
+      "title": "Why the U 2 looked like a UFO",
+      "infographic_count": 3,
+      "templates": [
+        "list_vertical",
+        "versus",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "summary",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "U 2 Aircraft Visual Characteristics",
+        "Project Blue Book Investigation Logic",
+        "U 2 and OXCART Impact on UFO Culture"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_b2_spirit_863e66",
+      "title": "How the B 2 Scaled Up Stealth",
+      "infographic_count": 3,
+      "templates": [
+        "fact_box_sidebar",
+        "myth_facts",
+        "quadrant"
+      ],
+      "roles": [
+        "summary",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "B 2 Spirit Engineering Design Features",
+        "B 2 Spirit Operational History Milestones",
+        "B 2 Spirit Maintenance and Cost Constraints"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_b2_spirit_863e66_b2_1988_public_rollo_5a41f7",
+      "title": "When the secret bomber became visible",
+      "infographic_count": 3,
+      "templates": [
+        "list_vertical",
+        "tug_of_war",
+        "diverging_bars"
+      ],
+      "roles": [
+        "summary",
+        "other",
+        "data"
+      ],
+      "titles": [
+        "B 2 Spirit Stealth Design Elements",
+        "Selective Secrecy at Palmdale",
+        "B 2 Transition to Selective Secrecy"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.5,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_b2_spirit_863e66_b2_flying_wing_shape_bb4c87",
+      "title": "Why the B 2 had no tail",
+      "infographic_count": 3,
+      "templates": [
+        "list_vertical",
+        "logic_equation",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "summary",
+        "other",
+        "summary"
+      ],
+      "titles": [
+        "B 2 Spirit Flying Wing Architecture",
+        "Engineering Synergy of the B 2",
+        "Digital Flight Control Evolution"
+      ],
+      "role_diversity_count": 1,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_b2_spirit_863e66_b2_internal_weapons_18bbf0",
+      "title": "Why the B 2 hides its weapons",
+      "infographic_count": 3,
+      "templates": [
+        "quadrant",
+        "venn",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "comparison",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "External vs Internal Weapons Carriage",
+        "B 2 Spirit Weapons Release Sequence",
+        "Factors Defining B 2 Low Observability"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_b2_spirit_863e66_b2_stealth_cost_trad_332ef5",
+      "title": "Why B 2 stealth cost so much",
+      "infographic_count": 3,
+      "templates": [
+        "list_vertical",
+        "versus",
+        "process_steps"
+      ],
+      "roles": [
+        "summary",
+        "comparison",
+        "process"
+      ],
+      "titles": [
+        "B 2 Spirit Stealth Maintenance Drivers",
+        "B 2 Fleet Economic Trade offs",
+        "B 2 Stealth Sustainment Evolution"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_b2_spirit_863e66_b2_stealth_not_invis_0687b7",
+      "title": "The B 2 was not invisible",
+      "infographic_count": 3,
+      "templates": [
+        "grid_stats",
+        "myth_facts",
+        "timeline_history"
+      ],
+      "roles": [
+        "other",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "B 2 Spirit Signature Management Systems",
+        "Time line Compression in Air Defence",
+        "Multi Sensor Signature Management"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_b2_spirit_863e66_tacit_blue_curved_st_1b2084",
+      "title": "The odd aircraft behind B 2 stealth",
+      "infographic_count": 3,
+      "templates": [
+        "cards_grid",
+        "versus",
+        "process_steps"
+      ],
+      "roles": [
+        "summary",
+        "comparison",
+        "process"
+      ],
+      "titles": [
+        "Tacit Blue Stealth Design Features",
+        "Curved vs. Faceted Stealth Geometry",
+        "Tacit Blue to B 2 Spirit Evolution"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_beyond_aircraft_96c311",
+      "title": "Black Projects Are Not Just Aircraft",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Project AZORIAN Recovery Key Stages",
+        "Surveillance Systems vs. Weapons Research",
+        "Black Project Research Outcomes"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_beyond_aircraft_96c311_corona_cover_story_9dfdb1",
+      "title": "How a Science Mission Hid a Spy Satellite",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "diverging_bars",
+        "timeline_horizon"
+      ],
+      "roles": [
+        "process",
+        "data",
+        "chronology"
+      ],
+      "titles": [
+        "CORONA Film Recovery Process",
+        "Discoverer vs. CORONA Programs",
+        "CORONA Intelligence Chain Components"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_beyond_aircraft_96c311_directed_energy_tran_7d0857",
+      "title": "Why Laser Weapons Stall After Successful Tests",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "The DEW Prototype to Deployment Gap",
+        "Laser vs. Conventional Missile Systems",
+        "DEW Engineering and Logistics Requirements"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_beyond_aircraft_96c311_manhattan_compartmen_3094c1",
+      "title": "How Thousands Built a Bomb Without Knowing",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "quadrant",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Manhattan Project Production Chain",
+        "Security vs Technical Efficiency",
+        "Manhattan Project Security Pillars"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_beyond_aircraft_96c311_project_pluto_failur_225004",
+      "title": "The Nuclear Missile That Worked but Failed",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "myth_facts",
+        "tug_of_war"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Tory Reactor Development Time line",
+        "Project Pluto vs. ICBM Strategy",
+        "Barriers to Project Pluto Deployment"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_beyond_aircraft_96c311_signals_satellite_ra_dbe6b5",
+      "title": "How Satellites Found Radars Without Taking Pictures",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "versus",
+        "venn"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "GRAB Satellite Signal Processing Flow",
+        "Photographic vs. Electronic Reconnaissance",
+        "Intelligence Gains from POPPY Satellites"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_beyond_aircraft_96c311_surveillance_method_b2b9b7",
+      "title": "Why Revealing the Sensor Can Ruin the Mission",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "structure_taxonomy",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "taxonomy",
+        "summary"
+      ],
+      "titles": [
+        "CORONA Satellite Intelligence Lifecycle",
+        "Vulnerabilities in Optical Reconnaissance",
+        "Components of a Reconnaissance System"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.2,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_black_budget_dea93a",
+      "title": "What the Black Budget Reveals and Hides",
+      "infographic_count": 3,
+      "templates": [
+        "grid_stats",
+        "myth_facts",
+        "quadrant"
+      ],
+      "roles": [
+        "other",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Layered Disclosure of Intelligence Budgets",
+        "Public vs. Hidden Budget Data",
+        "Special Access Program Protections"
+      ],
+      "role_diversity_count": 1,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_black_budget_dea93a_black_budget_oversig_c52034",
+      "title": "Who Gets to See the Secret Budget?",
+      "infographic_count": 3,
+      "templates": [
+        "grid_stats",
+        "myth_facts",
+        "tree_map"
+      ],
+      "roles": [
+        "other",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Congressional Access to Black Budget",
+        "Oversight Data for Special Access Programs",
+        "Oversight Support Mechanisms"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_black_budget_dea93a_black_budget_trend_r_546ef5",
+      "title": "Does a Bigger Black Budget Mean More Secrets?",
+      "infographic_count": 3,
+      "templates": [
+        "diverging_bars",
+        "structure_taxonomy",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "data",
+        "taxonomy",
+        "summary"
+      ],
+      "titles": [
+        "Visible vs Hidden Intelligence Spending",
+        "Factors Driving Budget Growth",
+        "Evidence for Intelligence Analysis"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_black_budget_dea93a_classified_budget_an_43d95b",
+      "title": "How Public Law Can Hide Secret Spending",
+      "infographic_count": 3,
+      "templates": [
+        "list_vertical",
+        "fact_box_sidebar",
+        "versus"
+      ],
+      "roles": [
+        "summary",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Structure of Classified Annexes",
+        "Black Project Financial Concealment",
+        "Oversight vs Public Disclosure"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_black_budget_dea93a_hidden_contractor_ac_7e041c",
+      "title": "Can Hidden Contractors Be Held Accountable?",
+      "infographic_count": 3,
+      "templates": [
+        "quadrant",
+        "venn",
+        "tug_of_war"
+      ],
+      "roles": [
+        "comparison",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Public vs. Classified Contractor Data",
+        "Oversight Bodies for Black Projects",
+        "Weakened Market Discipline Effects"
+      ],
+      "role_diversity_count": 1,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_black_budget_dea93a_intelligence_budget_ac5a94",
+      "title": "When Secret Spending Moves Between Buckets",
+      "infographic_count": 3,
+      "templates": [
+        "earth_core",
+        "process_steps",
+        "cards_grid"
+      ],
+      "roles": [
+        "other",
+        "process",
+        "summary"
+      ],
+      "titles": [
+        "Structure of US Intelligence Funding",
+        "Drivers of Budget Category Shifts",
+        "Barriers to Public Accountability"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_black_budget_dea93a_intelligence_top_lin_56c51c",
+      "title": "What the Public Intelligence Totals Really Hide",
+      "infographic_count": 3,
+      "templates": [
+        "structure_taxonomy",
+        "diverging_bars",
+        "tug_of_war"
+      ],
+      "roles": [
+        "taxonomy",
+        "data",
+        "other"
+      ],
+      "titles": [
+        "NIP and MIP Budget Hierarchy",
+        "Omissions in Public Intelligence Totals",
+        "Interpreting Intelligence Spending Changes"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_compartmented_teams_8af5ba",
+      "title": "How Secret Teams Build Big Machines",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "comparison_columns",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Contractor Information Flow in Black Projects",
+        "Engineering Trade offs in Compartmented Design",
+        "Risk Mitigation for Secret Engineering"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_compartmented_teams_8af5ba_carve_out_contract_r_30ce25",
+      "title": "Do Carve Out Contracts Protect Secrets or Hide Weaknesses",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "diverging_bars",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "data",
+        "summary"
+      ],
+      "titles": [
+        "Carve Out Security Responsibility Transfer",
+        "Security Gains vs Governance Risks",
+        "Sponsoring Office Security Duties"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_compartmented_teams_8af5ba_need_to_know_enginee_6e1acc",
+      "title": "When Secrecy Blocks the Context Engineers Need",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "myth_facts",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Compartmented Engineering Decision Flow",
+        "Security vs. Engineering Trade offs",
+        "Sanitized Engineering Data Types"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_compartmented_teams_8af5ba_ownership_limits_cla_6a433f",
+      "title": "When a Cleared Company Cannot Trust Its Own Hierarchy",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "FOCI Mitigation Agreement Hierarchy",
+        "Corporate Authority vs. Security Boundaries",
+        "DCSA FOCI Evaluation Factors"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_compartmented_teams_8af5ba_oxcart_supplier_netw_cb6646",
+      "title": "How OXCART Built One Aircraft Across Many Secrets",
+      "infographic_count": 3,
+      "templates": [
+        "orbital_rings",
+        "quadrant",
+        "tug_of_war"
+      ],
+      "roles": [
+        "other",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "OXCART Specialized Contractor Network",
+        "OXCART Interface Management Strategy",
+        "OXCART Design Trade off Dynamics"
+      ],
+      "role_diversity_count": 1,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_compartmented_teams_8af5ba_prime_contractor_gat_64ce17",
+      "title": "Why the Prime Contractor Controls More Than Design",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "versus",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "DD Form 254 Security Flow",
+        "Engineering vs. Security Trade offs",
+        "Functional Information Compartmentation"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_compartmented_teams_8af5ba_sanitized_interface_b7b1e4",
+      "title": "Why Secret Components Fail When Finally Combined",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "myth_facts",
+        "satellite_map"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "geography"
+      ],
+      "titles": [
+        "Subsystem Integration Discovery Path",
+        "Sanitised vs. Full Interface Data",
+        "System Wide Integration Risks"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_congressional_oversi_ca0139",
+      "title": "Who Watches the Secret Programs?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "quadrant",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "B 2 Bomber Oversight Transition",
+        "Waived SAP Oversight Tradeoffs",
+        "Statutory SAP Reporting Requirements"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_congressional_oversi_ca0139_alternative_control_1dfe1a",
+      "title": "When Secret Programs Are Not Called SAPs",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "versus",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "New ACCM Program Notification Process",
+        "SAP vs. ACCM Oversight Comparison",
+        "10 U.S.C. §119 a Reporting Requirements"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_congressional_oversi_ca0139_annual_sap_reports_d395b4",
+      "title": "What Congress Gets About Secret Programs",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "timeline_genealogy",
+        "myth_facts"
+      ],
+      "roles": [
+        "chronology",
+        "chronology",
+        "comparison"
+      ],
+      "titles": [
+        "Annual SAP Reporting Time line",
+        "10 U.S.C. §119 Report Components",
+        "Public vs. Classified Oversight"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_congressional_oversi_ca0139_committee_staff_acce_d14cc7",
+      "title": "Can Congress Challenge Secrets Without Enough Experts?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "myth_facts",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Congressional Staff Oversight Workflow",
+        "Secrecy vs. Scrutiny Trade offs",
+        "Hidden Expertise Problem Dynamics"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_congressional_oversi_ca0139_new_sap_duplication_11b50c",
+      "title": "Can Secret Programs Accidentally Duplicate Each Other?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Annual SAP Reporting Time line",
+        "Compartmentation Risks vs. Benefits",
+        "Types of Duplication Risks"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_congressional_oversi_ca0139_sap_declassification_c4cd08",
+      "title": "Who Is Warned Before Secrets Go Public?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "structure_taxonomy",
+        "diverging_bars"
+      ],
+      "roles": [
+        "process",
+        "taxonomy",
+        "data"
+      ],
+      "titles": [
+        "Do D SAP Declassification Procedure",
+        "Congressional Oversight Committee Scope",
+        "Consequences of SAP Disclosure"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_congressional_oversi_ca0139_sapco_congressional_5fea75",
+      "title": "The Office Between Congress and Black Projects",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "list_vertical",
+        "versus"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "SAPCO Oversight Reporting Workflow",
+        "SAP Access Verification Requirements",
+        "SAPCO Administrative vs. Legal Roles"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_cover_stories_cb3f5f",
+      "title": "How Secret Programs Hide in Plain Sight",
+      "infographic_count": 3,
+      "templates": [
+        "venn",
+        "fact_box_sidebar",
+        "timeline_genealogy"
+      ],
+      "roles": [
+        "comparison",
+        "summary",
+        "chronology"
+      ],
+      "titles": [
+        "Layers of Black Project Cover",
+        "Operational Cover Case Studies",
+        "Facility Cover Protection Strategy"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_cover_stories_cb3f5f_carveout_contract_ov_d53022",
+      "title": "When Contract Secrecy Creates an Oversight Blind Spot",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Standard vs Carve Out Contract Flow",
+        "Secrecy Benefits vs Oversight Risks",
+        "GAO Identified Oversight Weaknesses"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_cover_stories_cb3f5f_classified_budget_at_05682a",
+      "title": "Where Does Black Project Money Appear on Paper",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "tug_of_war",
+        "earth_core"
+      ],
+      "roles": [
+        "chronology",
+        "other",
+        "other"
+      ],
+      "titles": [
+        "Budget Obscuration Workflow for Black Projects",
+        "Public vs. Classified Budget Accountability",
+        "Mechanisms of Budgetary Obscurity"
+      ],
+      "role_diversity_count": 1,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_cover_stories_cb3f5f_neutral_project_name_c4a598",
+      "title": "Why Secret Projects Use Such Boring Names",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "quadrant",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Administrative Workflow for Secret Projects",
+        "Administrative vs Operational Knowledge",
+        "The Manhattan Project Naming Strategy"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_cover_stories_cb3f5f_oak_ridge_compartmen_8cada5",
+      "title": "How Thousands Worked on a Secret They Could Not See",
+      "infographic_count": 3,
+      "templates": [
+        "lighthouse",
+        "fact_box_sidebar",
+        "timeline_horizon"
+      ],
+      "roles": [
+        "other",
+        "summary",
+        "chronology"
+      ],
+      "titles": [
+        "Oak Ridge Secrecy Architecture",
+        "Oak Ridge Uranium Processing Plants",
+        "Worker Knowledge Progression at Oak Ridge"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_cover_stories_cb3f5f_paradise_ranch_cover_dab71b",
+      "title": "Why Area 51 Was Once Called Paradise Ranch",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "myth_facts",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Branding Strategy for Groom Lake",
+        "Paradise Ranch vs. Reality",
+        "Security Features of Groom Lake"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_cover_stories_cb3f5f_visible_facility_foo_66692a",
+      "title": "What Secret Facilities Cannot Easily Conceal",
+      "infographic_count": 3,
+      "templates": [
+        "quadrant",
+        "venn",
+        "process_steps"
+      ],
+      "roles": [
+        "comparison",
+        "comparison",
+        "process"
+      ],
+      "titles": [
+        "Visible Infrastructure vs. Hidden Missions",
+        "Infrastructure Indicators of Secret Facilities",
+        "Satellite Imagery Analysis Workflow"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_crypto_cyber_secrecy_f6988a",
+      "title": "Why Some Digital Secrets Vanish Overnight",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "versus",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Lifecycle of a Cyber Secret",
+        "Cryptologic Value vs. Physical Assets",
+        "Cumulative Factors of Cryptologic Value"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_crypto_cyber_secrecy_f6988a_burning_secret_sourc_60fa1c",
+      "title": "When Acting on Intelligence Destroys the Access",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "tug_of_war",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "other",
+        "comparison"
+      ],
+      "titles": [
+        "Corroboration Methods to Protect Sources",
+        "Immediate Action vs. Continued Collection",
+        "Intelligence Safeguards and Compartmentation"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_crypto_cyber_secrecy_f6988a_enigma_operating_mis_db13e6",
+      "title": "Why Enigma Stayed Vulnerable Despite Constant Changes",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Bletchley Park Decryption Workflow",
+        "Theoretical vs Operational Security",
+        "Sources of Allied Intelligence"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_crypto_cyber_secrecy_f6988a_eternalblue_wannacry_978a49",
+      "title": "How Eternal Blue Became a Global Ransomware Weapon",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "timeline_genealogy"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Eternal Blue Disclosure and Wanna Cry Time line",
+        "Impact of Eternal Blue Secrecy vs Publication",
+        "Wanna Cry Autonomous Propagation Mechanism"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.2,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_crypto_cyber_secrecy_f6988a_traffic_analysis_sig_7c4daa",
+      "title": "What Encrypted Traffic Still Gives Away",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "myth_facts",
+        "quadrant"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Bletchley Park Cryptanalysis Workflow",
+        "Metadata Indicators in Traffic Analysis",
+        "Countermeasures for Signal Discipline"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_crypto_cyber_secrecy_f6988a_venona_pad_reuse_4f8e24",
+      "title": "How One Reused Pad Opened Soviet Communications",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "tree_map"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Soviet Cryptographic Vulnerability Key Stages",
+        "One Time Pad Security Requirements",
+        "Venona Intelligence Secrecy Hierarchy"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_crypto_cyber_secrecy_f6988a_zero_day_disclosure_97bf1a",
+      "title": "Why a Zero Day Can Vanish Overnight",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "structure_taxonomy",
+        "diverging_bars"
+      ],
+      "roles": [
+        "chronology",
+        "taxonomy",
+        "data"
+      ],
+      "titles": [
+        "Defensive Response to Zero Day Disclosure",
+        "Value Drivers of Undisclosed Vulnerabilities",
+        "Impact of Exposed Infrastructure vs. Exploits"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_declassified_records_facf11",
+      "title": "When Secret Records Finally Become History",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Pathways for Secret Record Release",
+        "Confirmed Data from CORONA and GAMBIT",
+        "Evidence Hierarchy in Black Projects"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_declassified_records_facf11_area51_records_2cc0c5",
+      "title": "What Area 51 Records Really Proved",
+      "infographic_count": 3,
+      "templates": [
+        "fact_box_sidebar",
+        "gem",
+        "bridge"
+      ],
+      "roles": [
+        "summary",
+        "other",
+        "other"
+      ],
+      "titles": [
+        "Evolution of Area 51 Secrecy",
+        "Documented Activities at Groom Lake",
+        "From Mythology to Documented Fact"
+      ],
+      "role_diversity_count": 1,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_declassified_records_facf11_corona_missile_gap_7_39a23a",
+      "title": "The Spy Satellite That Shrunk a Fear",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "venn",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "CORONA Satellite Mission Progression",
+        "Dismantling the Missile Gap Myth",
+        "CORONA Archive Utility Layers"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_declassified_records_facf11_gambit_hexagon_recor_bac072",
+      "title": "When Spy Satellites Became Public History",
+      "infographic_count": 3,
+      "templates": [
+        "versus",
+        "cards_grid",
+        "process_steps"
+      ],
+      "roles": [
+        "comparison",
+        "summary",
+        "process"
+      ],
+      "titles": [
+        "GAMBIT vs HEXAGON Satellite Roles",
+        "Layers of the 2011 NRO Declassification",
+        "The Architecture of Cold War Surveillance"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_declassified_records_facf11_release_pathways_121649",
+      "title": "How Secret Files Reach the Public",
+      "infographic_count": 3,
+      "templates": [
+        "list_vertical",
+        "fact_box_sidebar",
+        "versus"
+      ],
+      "roles": [
+        "summary",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Mandatory Declassification Review Pathway",
+        "Impact of Executive Order 12951",
+        "Sources of Black Project History"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_declassified_records_facf11_u2_cover_story_d7f6d5",
+      "title": "Why the U 2 Hid in Plain Sight",
+      "infographic_count": 3,
+      "templates": [
+        "grid_stats",
+        "venn",
+        "tree_map"
+      ],
+      "roles": [
+        "other",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "U 2 Program Cover Strategy",
+        "The 1960 Powers Incident Sequence",
+        "U 2 Secrecy Mechanisms"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_declassified_records_facf11_venona_intercepts_09b816",
+      "title": "When Secret Intercepts Became Public Evidence",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "versus",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "VENONA Project Public Release Time line",
+        "Pre Release vs. Post Release Historical Analysis",
+        "Layers of the VENONA Evidentiary Package"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_disclosure_timelines_f00941",
+      "title": "Why Secret Programs Emerge in Pieces",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "tug_of_war",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "other",
+        "summary"
+      ],
+      "titles": [
+        "Black Project Disclosure Lifecycle",
+        "F 117 vs B 2 Disclosure Paths",
+        "Factors Delaying Declassification"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_disclosure_timelines_f00941_acknowledgment_vs_de_c206ce",
+      "title": "Why Admitting a Secret Programme Is Not Declassification",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Staged Disclosure of Secret Programs",
+        "Public Knowledge vs. Classified Data",
+        "Protected Categories in Black Projects"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_disclosure_timelines_f00941_b2_early_public_roll_ce8951",
+      "title": "Why the B 2 Could Not Stay Hidden Until Service",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "B 2 Spirit Disclosure Time line",
+        "F 117 vs B 2 Secrecy Models",
+        "Protected B 2 Technical Data"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_disclosure_timelines_f00941_corona_imagery_decla_03380b",
+      "title": "Why CORONA's Secret Photographs Waited Until 1995",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "versus",
+        "quadrant"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "CORONA Satellite Program Time line",
+        "Secrecy vs. Public Disclosure Goals",
+        "Civilian Uses of CORONA Imagery"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_disclosure_timelines_f00941_f117_operational_sec_2dc439",
+      "title": "How the F 117 Operated Before Anyone Could Admit It",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "geode",
+        "diverging_bars"
+      ],
+      "roles": [
+        "chronology",
+        "other",
+        "data"
+      ],
+      "titles": [
+        "F 117 Nighthawk Secrecy Time line",
+        "Protected Stealth Capabilities",
+        "Secrecy vs. Operational Reality"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_disclosure_timelines_f00941_manhattan_selective_3ca2d7",
+      "title": "How Much Could the Manhattan Project Safely Reveal?",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "venn",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Smyth Report Disclosure Strategy",
+        "Smyth Report Disclosure Boundaries",
+        "Manhattan Project Industrial Components"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.6,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_disclosure_timelines_f00941_u2_forced_acknowledg_5c7d28",
+      "title": "The U 2 Was Exposed Long Before Its Files",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "structure_petal",
+        "myth_facts"
+      ],
+      "roles": [
+        "process",
+        "taxonomy",
+        "comparison"
+      ],
+      "titles": [
+        "U 2 Shootdown Disclosure Time line",
+        "U 2 Program Secrecy Pillars",
+        "Public Admission vs. Archival Secrecy"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_electronic_counterme_e00424",
+      "title": "The Hidden Electronics Behind Secret Aircraft",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "myth_facts",
+        "orbital_rings"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "B 2 Threat Emitter Locator Workflow",
+        "Stealth vs. Electronic Countermeasures Tension",
+        "Integrated Survivability System Architecture"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_electronic_counterme_e00424_changing_radar_threa_805040",
+      "title": "When Radar Changes Faster Than Threat Libraries",
+      "infographic_count": 3,
+      "templates": [
+        "prism",
+        "diverging_bars",
+        "process_steps"
+      ],
+      "roles": [
+        "taxonomy",
+        "data",
+        "process"
+      ],
+      "titles": [
+        "Threat Library Data Components",
+        "Static vs. Agile Radar Evolution",
+        "Risks of Outdated Threat Libraries"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_electronic_counterme_e00424_passive_radar_detect_b58a23",
+      "title": "How Stealth Aircraft Find Radars Without Transmitting",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "timeline_horizon"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Passive Radar Localization Workflow",
+        "Passive vs Active Detection Trade offs",
+        "Radar Fingerprint Measurement Parameters"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_electronic_counterme_e00424_radar_deception_fals_a726a4",
+      "title": "How Electronic Deception Makes Radar See Ghosts",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Range Gate Pull Off Mechanism",
+        "Deception vs. Noise Jamming",
+        "Radar Deception Techniques"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_electronic_counterme_e00424_stealth_jamming_emis_2a9292",
+      "title": "Why Powerful Jamming Can Betray a Stealth Aircraft",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "versus",
+        "tug_of_war"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Low Observable Emissions Management Key Stages",
+        "Noise vs. Deception Jamming Techniques",
+        "Defender Detection Mechanisms for Jammers"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_electronic_counterme_e00424_support_jamming_stea_2fe421",
+      "title": "Why Stealth Missions Still Need Support Jammers",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "myth_facts"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Electronic Warfare Layered Defense Key Stages",
+        "Stealth vs. Support Jammer Capabilities",
+        "Coordinated Force Package Components"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_electronic_counterme_e00424_tacit_blue_radar_ste_165b9a",
+      "title": "How Tacit Blue Used Radar Without Losing Stealth",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "quadrant",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Tacit Blue Development Roadmap",
+        "Radar vs Stealth Tradeoffs",
+        "Tacit Blue System Integration"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_f117_nighthawk_75a3d9",
+      "title": "How the F 117 Made Stealth Real",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "list_vertical",
+        "myth_facts"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "F 117 Nighthawk Development Time line",
+        "F 117 Signature Control Methods",
+        "F 117 Nighthawk Combat Realities"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_f117_nighthawk_75a3d9_f117_1988_reveal_068016",
+      "title": "The Murky Photo That Confirmed Stealth",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_history",
+        "versus",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "F 117 A Nighthawk Disclosure Time line",
+        "Controlled Disclosure Trade offs",
+        "F 117 A Image Deception Strategy"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_f117_nighthawk_75a3d9_f117_not_fighter_977458",
+      "title": "Why the Stealth Fighter Was Not a Fighter",
+      "infographic_count": 3,
+      "templates": [
+        "versus",
+        "fact_box_sidebar",
+        "grid_stats"
+      ],
+      "roles": [
+        "comparison",
+        "summary",
+        "other"
+      ],
+      "titles": [
+        "F 117 Nighthawk vs Conventional Fighters",
+        "F 117 Stealth Design Components",
+        "F 117 Gulf War Combat Impact"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_f117_nighthawk_75a3d9_faceted_stealth_fly_62185b",
+      "title": "How Computers Helped the F 117 Fly",
+      "infographic_count": 3,
+      "templates": [
+        "versus",
+        "comparison_columns",
+        "timeline_snake"
+      ],
+      "roles": [
+        "comparison",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "F 117 Fly By Wire Logic Flow",
+        "F 117 Stealth vs Aerodynamics",
+        "Evolution of Stealth Engineering"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_f117_nighthawk_75a3d9_have_blue_to_f117_1e2f7d",
+      "title": "How Have Blue Made the F 117 Possible",
+      "infographic_count": 3,
+      "templates": [
+        "fact_box_sidebar",
+        "versus",
+        "quadrant"
+      ],
+      "roles": [
+        "summary",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Have Blue to F 117 Evolution",
+        "Have Blue Technical Validations",
+        "Have Blue vs. F 117 Nighthawk"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.5,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_f117_nighthawk_75a3d9_tonopah_secret_base_bb506c",
+      "title": "The Desert Base That Hid the Nighthawk",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_history",
+        "list_vertical",
+        "cards_grid"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "F 117 Nighthawk Operational Transition",
+        "Stealth Maintenance at Tonopah Test Range",
+        "The Hidden Infrastructure of Secrecy"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_groom_lake_testing_db41d4",
+      "title": "Why Groom Lake Worked for Secret Aircraft",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "myth_facts",
+        "timeline_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "U 2 and A 12 Development Lifecycle",
+        "Groom Lake Engineering Advantages",
+        "Groom Lake Testing Capabilities"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_groom_lake_testing_db41d4_a12_groom_lake_expan_6d327f",
+      "title": "How the A 12 Transformed Groom Lake's Facilities",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "grid_stats",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "other",
+        "summary"
+      ],
+      "titles": [
+        "Groom Lake Infrastructure Evolution",
+        "A 12 OXCART Engineering Specifications",
+        "A 12 Support Infrastructure Categories"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_groom_lake_testing_db41d4_dry_lake_flight_safe_2604e6",
+      "title": "Why the Dry Lake Made Risky Flights Safer",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "diverging_bars",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "data",
+        "comparison"
+      ],
+      "titles": [
+        "U 2 and A 12 Flight Test Key Stages",
+        "Groom Lake Safety Advantages",
+        "Groom Lake Engineering Strategy"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_groom_lake_testing_db41d4_groom_lake_air_shutt_2c8879",
+      "title": "How Groom Lake Stayed Supplied Without Public Traffic",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "U 2 Component Transport Key Stages",
+        "Security Benefits of Air Shuttles",
+        "Groom Lake Logistics Categories"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_groom_lake_testing_db41d4_groom_lake_restricte_d8fb37",
+      "title": "Why Groom Lake Needed Thousands of Square Miles",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "myth_facts",
+        "prism"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Experimental Flight Testing Workflow",
+        "Restricted Airspace Operational Benefits",
+        "Groom Lake Engineering Advantages"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_groom_lake_testing_db41d4_groom_lake_stealth_t_ad4c61",
+      "title": "How Groom Lake Tested Aircraft Against Radar",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "tug_of_war",
+        "diverging_bars"
+      ],
+      "roles": [
+        "chronology",
+        "other",
+        "data"
+      ],
+      "titles": [
+        "Stealth Measurement Engineering Workflow",
+        "Groom Lake Instrumentation Suite",
+        "Security Risks of Radar Data"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_groom_lake_testing_db41d4_u2_testing_groom_lak_11a3cc",
+      "title": "How Groom Lake Prepared the U 2 for Missions",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "hub",
+        "quadrant"
+      ],
+      "roles": [
+        "chronology",
+        "other",
+        "comparison"
+      ],
+      "titles": [
+        "U 2 Development at Groom Lake",
+        "U 2 High Altitude Flight Metrics",
+        "Groom Lake Operational Advantages"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.4,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_have_blue_95f6fc",
+      "title": "The Prototype That Led to the F 117",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Have Blue Stealth Development Key Stages",
+        "Design Trade offs in Have Blue",
+        "Have Blue Technical Foundations"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_have_blue_95f6fc_have_blue_crashes_su_d6722f",
+      "title": "How Two Crashes Still Produced a Successful Programme",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "tug_of_war"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Have Blue Prototype Flight History",
+        "HB 1001 vs HB 1002 Failure Analysis",
+        "Have Blue Programme Objectives"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_have_blue_95f6fc_have_blue_fly_by_wir_b06687",
+      "title": "What Kept Have Blue from Falling Out of Control?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Have Blue Flight Control Logic",
+        "Faceted Airframe Design Trade offs",
+        "Have Blue Technical Foundations"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_have_blue_95f6fc_have_blue_radar_pred_e8de20",
+      "title": "Could Stealth Calculations Survive a Real Flight?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "myth_facts",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Have Blue Stealth Validation Key Stages",
+        "Predictive vs Experimental Design",
+        "Have Blue Stealth Design Features"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.375,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_have_blue_95f6fc_have_blue_stealth_de_0d31b0",
+      "title": "Where a Stealth Aircraft Could Give Itself Away",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "fact_box_sidebar",
+        "myth_facts"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Have Blue HB 1002 Signature Testing",
+        "Have Blue Stealth Engineering Risks",
+        "Have Blue Engine Concealment Methods"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_have_blue_95f6fc_have_blue_to_f117_1e2f7d",
+      "title": "How Have Blue Became the F 117's Crucial First Step",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "diverging_bars",
+        "venn"
+      ],
+      "roles": [
+        "process",
+        "data",
+        "comparison"
+      ],
+      "titles": [
+        "Have Blue to F 117 Development Path",
+        "Have Blue vs. Senior Trend Features",
+        "Risks Removed by Have Blue Testing"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_have_blue_95f6fc_hopeless_diamond_ste_bf5e7b",
+      "title": "Why the Hopeless Diamond Changed Aircraft Design",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "versus",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Lockheed's ECHO 1 Design Workflow",
+        "Faceted Geometry vs Aerodynamic Performance",
+        "Design Principles of the Hopeless Diamond"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_hidden_budget_costs_798d69",
+      "title": "Can Secret Programs Control Their Costs?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "A 12 Avenger II Project Failure Key Stages",
+        "Open vs. Classified Budget Oversight",
+        "Internal Safeguards for Black Projects"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_hidden_budget_costs_798d69_a12_fixed_price_fail_c11928",
+      "title": "Why the A 12's Fixed Price Failed",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "venn",
+        "myth_facts"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "A 12 Avenger II Contract Failure Key Stages",
+        "Risk Transfer vs. Reality Paradox",
+        "A 12 Programme Risk Factors"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_hidden_budget_costs_798d69_aggregate_budgets_hi_d3939d",
+      "title": "What Aggregate Black Budgets Cannot Reveal",
+      "infographic_count": 3,
+      "templates": [
+        "myth_facts",
+        "process_pipeline",
+        "quadrant"
+      ],
+      "roles": [
+        "comparison",
+        "process",
+        "comparison"
+      ],
+      "titles": [
+        "Aggregate vs. Programme Budget Data",
+        "Mechanism of Budgetary Absorption",
+        "Cleared Reviewer Data Requirements"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_hidden_budget_costs_798d69_b2_cost_surge_13a530",
+      "title": "What Drove the B 2 Cost Surge",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "tree_map"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "B 2 Spirit Cost Escalation Drivers",
+        "Impact of Program Classification",
+        "B 2 Spirit Acquisition Lessons"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_hidden_budget_costs_798d69_classified_contracto_a2b4a6",
+      "title": "Why Secret Contractors Are Hard to Replace",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "diverging_bars",
+        "comparison_columns"
+      ],
+      "roles": [
+        "chronology",
+        "data",
+        "comparison"
+      ],
+      "titles": [
+        "Knowledge Transfer Barriers in Black Projects",
+        "Contractor Lock in Drivers vs. Standard Procurement",
+        "Barriers to Entry for Black Projects"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.5,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_hidden_budget_costs_798d69_compartmentation_del_ef8fcb",
+      "title": "When Secrecy Delays the Bad News",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "tug_of_war",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "other",
+        "summary"
+      ],
+      "titles": [
+        "Technical Failure to Financial Overrun Key Stages",
+        "Standard vs. Compartmented Program Oversight",
+        "Cleared Oversight Early Warning Practices"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_hidden_budget_costs_798d69_secret_program_cost_42414b",
+      "title": "Which Controls Keep Black Projects Affordable",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "fact_box_sidebar",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "GAO Cost Estimating Best Practices",
+        "Internal Bias vs Independent Review",
+        "Earned Value Management Components"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_intelligence_sources_e3f298",
+      "title": "Why Intelligence Methods Stay Hidden",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "tree_map",
+        "tug_of_war"
+      ],
+      "roles": [
+        "process",
+        "taxonomy",
+        "other"
+      ],
+      "titles": [
+        "Engineering Secrecy for Black Projects",
+        "Intelligence Source and Method Categories",
+        "The Mosaic Problem and Disclosure Risks"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_intelligence_sources_e3f298_classification_guide_6884ea",
+      "title": "Who Decides Which Programme Details Stay Secret",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "comparison_columns"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Derivative Classification Workflow Steps",
+        "Categories in Security Classification Guides",
+        "Mosaic Effect vs. Individual Facts"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_intelligence_sources_e3f298_compartmentation_fra_ed4674",
+      "title": "Why Almost Nobody Sees the Whole Black Project",
+      "infographic_count": 3,
+      "templates": [
+        "list_vertical",
+        "venn",
+        "versus"
+      ],
+      "roles": [
+        "summary",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Layered Security for Special Access Programs",
+        "Independent Compartments in Black Projects",
+        "Security Gains of Fragmented Knowledge"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_intelligence_sources_e3f298_cover_companies_prog_9b74d4",
+      "title": "How Cover Companies Conceal a Secret Programme",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "tree_map",
+        "myth_facts"
+      ],
+      "roles": [
+        "chronology",
+        "taxonomy",
+        "comparison"
+      ],
+      "titles": [
+        "Compartmentalizing Secret Programme Contracts",
+        "Organizational Concealment Strategies",
+        "Procurement Traces and Detection Risks"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_intelligence_sources_e3f298_human_source_identif_91b97c",
+      "title": "How Indirect Clues Can Expose a Human Source",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "timeline_horizon",
+        "quadrant"
+      ],
+      "roles": [
+        "chronology",
+        "chronology",
+        "comparison"
+      ],
+      "titles": [
+        "Indirect Identifiers in Intelligence",
+        "Consequences of Source Exposure",
+        "Black Project Identification Risks"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_intelligence_sources_e3f298_mosaic_problem_secre_d28e78",
+      "title": "How Small Clues Reveal a Secret Programme",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "venn",
+        "comparison_columns"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "OSINT Mosaic Reconstruction Process",
+        "Clues for Mosaic Analysis",
+        "Mosaic Theory Policy Debate"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_intelligence_sources_e3f298_sensor_limits_real_s_1cdd95",
+      "title": "Why a Sensor's Limits Are the Real Secret",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "diverging_bars",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "data",
+        "summary"
+      ],
+      "titles": [
+        "Adversary Exploitation of Sensor Limits",
+        "Public Disclosure vs. Technical Secrets",
+        "Sensor Performance Constraints"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_operational_surprise_15e46e",
+      "title": "Why Surprise Can Be the Capability",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "venn",
+        "myth_facts"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "F 117 Nighthawk Combat Deployment Key Stages",
+        "Dimensions of Capability Surprise",
+        "Secrecy Costs vs. Operational Benefits"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_operational_surprise_15e46e_adaptation_window_6a61f2",
+      "title": "How Quickly Does Operational Surprise Wear Off?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "The Lifecycle of Operational Surprise",
+        "Technological vs. Procedural Adaptation",
+        "Factors Influencing Adaptation Speed"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_operational_surprise_15e46e_air_defence_network_25dfe1",
+      "title": "How Surprise Breaks an Air Defence Network",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "prism",
+        "diverging_bars"
+      ],
+      "roles": [
+        "process",
+        "taxonomy",
+        "data"
+      ],
+      "titles": [
+        "Operation Desert Storm Air Campaign",
+        "High Value IADS Network Nodes",
+        "Advantages of Integrated Defences"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_operational_surprise_15e46e_capability_uncertain_b99d09",
+      "title": "Why Hidden Capabilities Slow Defensive Decisions",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "structure_taxonomy",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "taxonomy",
+        "summary"
+      ],
+      "titles": [
+        "The Decay of Capability Uncertainty",
+        "Critical Unknowns in Capability Surprise",
+        "Defensive Dilemmas Under Uncertainty"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_operational_surprise_15e46e_f117_desert_storm_op_81811c",
+      "title": "How the F 117 Opened Desert Storm",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "versus",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "F 117 Strike Key Stages in Desert Storm",
+        "Conventional vs. Stealth Strike Planning",
+        "Sources of Operational Surprise"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.1,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_operational_surprise_15e46e_first_use_intelligen_8a2b8c",
+      "title": "What a Secret Weapon Reveals on First Use",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "venn",
+        "quadrant"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Erosion of Secret Military Surprise",
+        "Physical Clues from Battlefield Debris",
+        "Adaptation vs. Technological Imitation"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_operational_surprise_15e46e_u2_altitude_advantag_e1c4d6",
+      "title": "When Altitude Stopped Protecting the U 2",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "myth_facts",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "U 2 Program Evolution and Decline",
+        "U 2 vs. Satellite Reconnaissance",
+        "Soviet Defense Evolution Factors"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_overclassification_t_f052cc",
+      "title": "When Secrecy Starts to Cost Trust",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Mechanisms of Over Classification Spread",
+        "Legitimate Secrecy vs Over Classification",
+        "Proportionate Secrecy Requirements"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_overclassification_t_f052cc_classification_creep_a7c0fe",
+      "title": "How One Secret Marking Spreads Everywhere",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "tug_of_war",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "other",
+        "comparison"
+      ],
+      "titles": [
+        "Derivative Classification Chain Reaction",
+        "Classification Creep Trade offs",
+        "Precision Marking Safeguards"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_overclassification_t_f052cc_classification_damag_b750c5",
+      "title": "What Actually Deserves to Stay Secret?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "tug_of_war",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "other",
+        "taxonomy"
+      ],
+      "titles": [
+        "Black Project Lifecycle Secrecy Phases",
+        "Plausible Damage vs. Illegitimate Motives",
+        "Layered Disclosure for Black Projects"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_overclassification_t_f052cc_obsolete_secrets_3e6c57",
+      "title": "Why Old Secrets Refuse to Die",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "diverging_bars",
+        "comparison_columns"
+      ],
+      "roles": [
+        "chronology",
+        "data",
+        "comparison"
+      ],
+      "titles": [
+        "Declassification Obstacles in Black Projects",
+        "Classification vs. Declassification Dynamics",
+        "Risk Based Declassification Strategies"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_overclassification_t_f052cc_oversight_access_gap_de19f6",
+      "title": "Who Really Checks the Most Secret Programs?",
+      "infographic_count": 3,
+      "templates": [
+        "versus",
+        "process_pipeline",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "comparison",
+        "process",
+        "summary"
+      ],
+      "titles": [
+        "Legal Authority vs. Practical Scrutiny",
+        "Requirements for Effective SAP Oversight",
+        "Constraints on Secret Program Audits"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_overclassification_t_f052cc_redaction_inconsiste_87f626",
+      "title": "What Conflicting Redactions Reveal About Secrecy",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "quadrant",
+        "prism"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "The Declassification Review Lifecycle",
+        "Inconsistent Redactions vs. Official Rhetoric",
+        "Drivers of Classification Inconsistency"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_overclassification_t_f052cc_sharing_failures_42ac8d",
+      "title": "When Secrecy Blocks the People Who Need Access",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "myth_facts",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Cycle of Informal Workarounds",
+        "Compartmentation vs. Information Sharing",
+        "Risks of Rigid Compartmentation"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_popular_culture_myth_5d22b9",
+      "title": "Why Black Projects Became Pop Culture Fuel",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Evolution of Area 51 Mythology",
+        "UFO Sightings vs. Black Projects",
+        "Layers of Area 51 Misinformation"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_popular_culture_myth_5d22b9_blue_book_unidentifi_5a99e6",
+      "title": "What Blue Book's Unidentified Cases Really Mean",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Project Blue Book Investigation Workflow",
+        "Unresolved vs. Extraterrestrial Interpretations",
+        "Factors Hindering Definitive Identification"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_popular_culture_myth_5d22b9_bob_lazar_claims_end_4de062",
+      "title": "Why Bob Lazar's Story Still Persuades People",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "tug_of_war",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "other",
+        "taxonomy"
+      ],
+      "titles": [
+        "Bob Lazar's Narrative Evolution",
+        "Interpretations of Missing Evidence",
+        "Unverified Claims of S 4 Facility"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_popular_culture_myth_5d22b9_hollywood_area51_ali_765d16",
+      "title": "How Hollywood Rebuilt Area 51 as Alien Headquarters",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "fact_box_sidebar",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Evolution of Area 51 Mythology",
+        "Area 51 Interpretations Comparison",
+        "Attributes of the Area 51 Myth"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_popular_culture_myth_5d22b9_secrecy_ufo_credibil_3df960",
+      "title": "How Secrecy Created a Lasting Credibility Gap",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Cold War Secrecy and UFO Culture",
+        "Interpretations of Declassified Records",
+        "Factors Fueling the Credibility Gap"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_popular_culture_myth_5d22b9_secret_aircraft_ufo_0e47e7",
+      "title": "Why Secret Aircraft Looked Like UFOs",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "myth_facts",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "U 2 and OXCART Secret Flight Key Stages",
+        "Optical Distortions of High Altitude Flight",
+        "Project Blue Book Investigation Categories"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_popular_culture_myth_5d22b9_storm_area51_meme_fo_7b3054",
+      "title": "When the Storm Area 51 Joke Became Real",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "diverging_bars",
+        "rank_podium"
+      ],
+      "roles": [
+        "chronology",
+        "data",
+        "data"
+      ],
+      "titles": [
+        "Storm Area 51 Viral Progression",
+        "Area 51 Public Perception Models",
+        "Storm Area 51 Participation Metrics"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.429,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_recon_surprise_92a79_32341b",
+      "title": "Why Spy Platforms Need Surprise",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "structure_taxonomy",
+        "comparison_columns"
+      ],
+      "roles": [
+        "chronology",
+        "taxonomy",
+        "comparison"
+      ],
+      "titles": [
+        "Evolution of U.S. Reconnaissance Platforms",
+        "Core Elements of Sensor Secrecy",
+        "Flight Pattern Secrecy Priorities"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_recon_surprise_92a79_32341b_a12_east_asia_secrec_733d36",
+      "title": "How A 12 Missions Protected Their Operational Surprise",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "myth_facts",
+        "quadrant"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "A 12 OXCART Intelligence Cycle",
+        "A 12 vs. Satellite Reconnaissance",
+        "BLACK SHIELD Operational Security Pillars"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_recon_surprise_92a79_32341b_behavioral_counterme_2348e4",
+      "title": "How Targets Defeat Reconnaissance Without Firing",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "structure_taxonomy",
+        "quadrant"
+      ],
+      "roles": [
+        "process",
+        "taxonomy",
+        "comparison"
+      ],
+      "titles": [
+        "The Reconnaissance Adaptation Cycle",
+        "Passive Defensive Measures for OPSEC",
+        "Technical vs. Behavioral Defense"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_recon_surprise_92a79_32341b_hidden_sensor_limits_24f0d0",
+      "title": "What Hidden Sensors Force an Adversary to Assume",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "fact_box_sidebar",
+        "timeline_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "chronology"
+      ],
+      "titles": [
+        "Critical Sensor Capabilities for Defenders",
+        "Impact of Sensor Uncertainty on Defense",
+        "U 2 Reconnaissance Intelligence Pipeline"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_recon_surprise_92a79_32341b_satellite_acknowledg_0da4fd",
+      "title": "Why Even Admitting Spy Satellites Existed Mattered",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "tug_of_war"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "other"
+      ],
+      "titles": [
+        "Adversary Behavioral Shifts from Disclosure",
+        "NRO Classified Information Categories",
+        "CORONA Programme Secrecy Dynamics"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_recon_surprise_92a79_32341b_u2_surprise_window_638c3b",
+      "title": "When the U 2's Surprise Advantage Ended",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "versus",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Evolution of Soviet Air Defenses",
+        "U 2 Altitude Advantages vs. Soviet Countermeasures",
+        "Intelligence Gains from U 2 Overflights"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_recon_surprise_92a79_32341b_unpredictable_flight_b7669b",
+      "title": "Why Unpredictable Flights Reveal More Honest Activity",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "versus"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Impact of Predictable Reconnaissance",
+        "Variables in Irregular Flight Patterns",
+        "Intelligence Quality Indicators"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_remote_basing_418e55",
+      "title": "Where Secret Aircraft Can Actually Operate",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "tug_of_war",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "other",
+        "taxonomy"
+      ],
+      "titles": [
+        "U 2 and A 12 Operational Evolution",
+        "Remote Site vs. Foreign Base Trade offs",
+        "Requirements for Secret Foreign Basing"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.1,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_remote_basing_418e55_cover_units_secret_a_3da604",
+      "title": "How Ordinary Units Hid Extraordinary Aircraft",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "versus",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "F 117 Secrecy Lifecycle Time line",
+        "Cover Unit vs. Secret Mission",
+        "Layers of Organizational Camouflage"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_remote_basing_418e55_foreign_base_secrecy_1995b9",
+      "title": "Why Overseas Basing Made Secrecy More Fragile",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "U 2 Incident Diplomatic Fallout",
+        "Domestic vs. Overseas Secrecy",
+        "Overseas Detachment Support Infrastructure"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_remote_basing_418e55_kadena_a12_black_shi_5151dd",
+      "title": "How Kadena Made the A 12 Operational",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "versus",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "A 12 OXCART Intelligence Cycle at Kadena",
+        "A 12 OXCART vs CORONA Satellites",
+        "Kadena Air Base Support Infrastructure"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_remote_basing_418e55_peshawar_u2_routes_56131d",
+      "title": "Why Peshawar Became a Crucial U 2 Base",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "myth_facts",
+        "bullseye"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "U 2 Deep Penetration Mission Route",
+        "Turkey vs. Pakistan Basing Limits",
+        "High Priority Soviet Intelligence Targets"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_remote_basing_418e55_powers_transit_missi_7fb903",
+      "title": "The U 2 Route That Entangled Three Nations",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "tug_of_war",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "other",
+        "summary"
+      ],
+      "titles": [
+        "Operation GRAND SLAM Mission Flow",
+        "Operational Gains vs Diplomatic Risks",
+        "Distributed Secrecy Vulnerabilities"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_remote_basing_418e55_tonopah_f117_trainin_588a92",
+      "title": "When Secrecy Made F 117 Training Harder",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "diverging_bars",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "data",
+        "summary"
+      ],
+      "titles": [
+        "F 117 Transition to Holloman Base",
+        "Tonopah Secrecy vs. Operational Costs",
+        "Human Impacts of Tonopah Operations"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_rumors_vs_evidence_258660",
+      "title": "How to Tell Evidence From Folklore",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "U 2 and A 12 OXCART Development Key Stages",
+        "Black Project Evidence vs. Folklore",
+        "Markers of Authentic Black Projects"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_rumors_vs_evidence_258660_aurora_documentary_g_12e0f3",
+      "title": "Why the Aurora Story Still Lacks Proof",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "comparison_columns",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Evolution of the Aurora Narrative",
+        "Aurora Folklore vs. Documented Projects",
+        "Missing Evidence for Aurora Aircraft"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_rumors_vs_evidence_258660_classified_budget_cl_5c99f3",
+      "title": "When Does a Secret Budget Line Mean Anything?",
+      "infographic_count": 3,
+      "templates": [
+        "structure_taxonomy",
+        "quadrant",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "taxonomy",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Evidence Hierarchy for Secret Aircraft",
+        "Budget Anomalies vs. Confirmed Programs",
+        "Common Budget Analysis Pitfalls"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_rumors_vs_evidence_258660_f117_rumor_trail_0a755c",
+      "title": "Why the F 117 Rumors Proved Right",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "fact_box_sidebar",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "F 117 Nighthawk Development Time line",
+        "F 117 Rumor vs. Official Record",
+        "Evidence of Genuine Black Projects"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_rumors_vs_evidence_258660_retrospective_disclo_362089",
+      "title": "Did the Rumor Predict What Was Later Revealed?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "The Disclosure Test Workflow",
+        "OXCART vs. Aurora Comparison",
+        "Measurable Elements of Strong Claims"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_rumors_vs_evidence_258660_test_range_activity_5882c5",
+      "title": "What Does Strange Activity Near a Test Range Prove?",
+      "infographic_count": 3,
+      "templates": [
+        "comparison_columns",
+        "prism",
+        "quadrant"
+      ],
+      "roles": [
+        "comparison",
+        "taxonomy",
+        "comparison"
+      ],
+      "titles": [
+        "Visible Signs of Secret Aviation",
+        "Indicators of Experimental Flight Testing",
+        "A 12 OXCART Evidence vs. Rumor"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_rumors_vs_evidence_258660_u2_a12_verifiable_tr_836c71",
+      "title": "What Real Secret Aircraft Leave Behind",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "A 12 OXCART Development Key Stages",
+        "Documented Programs vs. Rumors",
+        "Visible Clues of Secret Aircraft"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_secrecy_accountabili_6ccbcd",
+      "title": "How Much Secrecy Can Democracy Hold?",
+      "infographic_count": 3,
+      "templates": [
+        "fact_box_sidebar",
+        "quadrant",
+        "timeline_vertical"
+      ],
+      "roles": [
+        "summary",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Layered Budget Transparency Model",
+        "Capability Secrecy vs Governance Transparency",
+        "The Democratic Accountability Test"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_secrecy_accountabili_6ccbcd_church_committee_ove_80452a",
+      "title": "How Intelligence Abuses Reshaped Democratic Oversight",
+      "infographic_count": 3,
+      "templates": [
+        "diverging_bars",
+        "versus",
+        "timeline_vertical"
+      ],
+      "roles": [
+        "data",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Abuses Uncovered by Church Committee",
+        "Executive Assurances vs. Independent Oversight",
+        "Institutionalizing Intelligence Oversight Legacy"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_secrecy_accountabili_6ccbcd_classification_misus_2e9415",
+      "title": "When Does Classification Become a Democratic Abuse?",
+      "infographic_count": 3,
+      "templates": [
+        "myth_facts",
+        "timeline_horizon",
+        "tree_map"
+      ],
+      "roles": [
+        "comparison",
+        "chronology",
+        "taxonomy"
+      ],
+      "titles": [
+        "Lawful vs. Unlawful Classification",
+        "Independent Oversight Mechanisms",
+        "Barriers to Detecting Misuse"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_secrecy_accountabili_6ccbcd_congress_special_acc_c71b4f",
+      "title": "How Does Congress Scrutinize the Most Secret Programs?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "timeline_genealogy"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "New SAP Establishment Protocol",
+        "SAP Reporting vs. Public Disclosure",
+        "SAP Oversight Constraints and Rules"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_secrecy_accountabili_6ccbcd_future_imagery_archi_d7fdd5",
+      "title": "What the Secret Satellite Failure Taught Oversight",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "FIA Optical Programme Failure Key Stages",
+        "Secrecy vs. Oversight Trade offs",
+        "FIA Technical Failure Categories"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_secrecy_accountabili_6ccbcd_intelligence_inspect_0b7573",
+      "title": "What Happens When Secret Oversight Inspections Stop?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "tug_of_war"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Restoring Reliable Oversight Reporting",
+        "Routine Inspections vs. Thematic Assessments",
+        "Consequences of Lapsed Inspection Cycles"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_secrecy_accountabili_6ccbcd_public_knowledge_sec_032e74",
+      "title": "What Should Citizens Know About Secret Programs?",
+      "infographic_count": 3,
+      "templates": [
+        "fact_box_sidebar",
+        "versus",
+        "list_vertical"
+      ],
+      "roles": [
+        "summary",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Safe Public Disclosure Categories",
+        "Disclosure Limits vs. Security Risks",
+        "Layered Oversight Mechanisms"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_skunk_works_3828a1",
+      "title": "How Skunk Works Built Secret Aircraft",
+      "infographic_count": 3,
+      "templates": [
+        "list_vertical",
+        "grid_stats",
+        "myth_facts"
+      ],
+      "roles": [
+        "summary",
+        "other",
+        "comparison"
+      ],
+      "titles": [
+        "Evolution of Skunk Works Aircraft",
+        "Skunk Works Secrecy Infrastructure",
+        "Black Project Development Layers"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_skunk_works_3828a1_a12_oxcart_mach3_sec_55c18b",
+      "title": "The Secret Jet Built for Mach 3",
+      "infographic_count": 3,
+      "templates": [
+        "list_vertical",
+        "versus",
+        "process_steps"
+      ],
+      "roles": [
+        "summary",
+        "comparison",
+        "process"
+      ],
+      "titles": [
+        "A 12 OXCART Engineering Milestones",
+        "U 2 vs. A 12 OXCART Strategy",
+        "OXCART Logistics and Testing Flow"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_skunk_works_3828a1_area51_secret_aircra_cd40b0",
+      "title": "Why Secret Aircraft Needed a Desert Base",
+      "infographic_count": 3,
+      "templates": [
+        "fact_box_sidebar",
+        "grid_stats",
+        "myth_facts"
+      ],
+      "roles": [
+        "summary",
+        "other",
+        "comparison"
+      ],
+      "titles": [
+        "Groom Lake Development Sequence",
+        "Aircraft Tested at Area 51",
+        "Mechanisms of Black Project Secrecy"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_skunk_works_3828a1_f117_supplier_secrec_fd8a35",
+      "title": "Could One Hidden Workshop Build Stealth?",
+      "infographic_count": 3,
+      "templates": [
+        "fact_box_sidebar",
+        "grid_stats",
+        "cards_grid"
+      ],
+      "roles": [
+        "summary",
+        "other",
+        "summary"
+      ],
+      "titles": [
+        "F 117 Nighthawk Secrecy Layers",
+        "F 117 Exhaust System Logistics",
+        "Black Project Management Tactics"
+      ],
+      "role_diversity_count": 1,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_skunk_works_3828a1_kelly_rules_contract_b0c585",
+      "title": "Why Small Secret Teams Moved Faster",
+      "infographic_count": 3,
+      "templates": [
+        "tree_map",
+        "myth_facts",
+        "quadrant"
+      ],
+      "roles": [
+        "taxonomy",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Skunk Works Engineering Workflow",
+        "Skunk Works vs Conventional Defense",
+        "Risks of Concentrated Authority"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_skunk_works_3828a1_rapid_timelines_hidd_4e12f8",
+      "title": "Did Secrecy Really Make Aircraft Faster?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "myth_facts"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "U 2 Dragon Lady Development Path",
+        "F 117 Nighthawk Stealth Advantages",
+        "Hidden Costs of Black Projects"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_skunk_works_3828a1_u2_contracting_cia_a_70105b",
+      "title": "How the CIA Let Lockheed Build Fast",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "list_vertical",
+        "cards_grid"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "CIA and Lockheed U 2 Procurement Path",
+        "Anatomy of the U 2 Development Model",
+        "Legacy of the U 2 Black Project"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_special_access_progr_550fe1",
+      "title": "How Special Access Programs Lock Down Secrets",
+      "infographic_count": 3,
+      "templates": [
+        "fact_box_sidebar",
+        "process_steps",
+        "orbital_rings"
+      ],
+      "roles": [
+        "summary",
+        "process",
+        "other"
+      ],
+      "titles": [
+        "Do D SAP Secrecy Hierarchy",
+        "SAP Access Indoctrination Workflow",
+        "SAP Security Control Mechanisms"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_special_access_progr_550fe1_acknowledged_unackno_d51f30",
+      "title": "When the Government Cannot Confirm a Project",
+      "infographic_count": 3,
+      "templates": [
+        "diverging_bars",
+        "tree_map",
+        "tree_roots"
+      ],
+      "roles": [
+        "data",
+        "taxonomy",
+        "taxonomy"
+      ],
+      "titles": [
+        "Acknowledged vs Unacknowledged SAPs",
+        "Security Layers of Unacknowledged SAPs",
+        "Reasons for Official Silence"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_special_access_progr_550fe1_sap_access_gates_ae9d2d",
+      "title": "Why Top Secret Still May Not Be Enough",
+      "infographic_count": 3,
+      "templates": [
+        "funnel_layers",
+        "comparison_columns",
+        "cards_grid"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "SAP Access Eligibility Pipeline",
+        "Clearance vs. SAP Authorization",
+        "SAP Security Safeguard Layers"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_special_access_progr_550fe1_sap_compartments_cbdf6f",
+      "title": "How Secret Projects Stay Split Apart",
+      "infographic_count": 3,
+      "templates": [
+        "grid_stats",
+        "quadrant",
+        "satellite_map"
+      ],
+      "roles": [
+        "other",
+        "comparison",
+        "geography"
+      ],
+      "titles": [
+        "Do D Special Access Program Hierarchy",
+        "Security vs Coordination Trade offs",
+        "SAP Maintenance and Controls"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_special_access_progr_550fe1_sap_oversight_watche_9d8ed9",
+      "title": "Who Watches the SAP Watchers?",
+      "infographic_count": 3,
+      "templates": [
+        "cards_grid",
+        "fact_box_sidebar",
+        "versus"
+      ],
+      "roles": [
+        "summary",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Executive Order 13526 Agency Obligations",
+        "ISOO Oversight Hierarchy for SAPs",
+        "Congressional Reporting for Do D SAPs"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_special_access_progr_550fe1_sap_read_in_training_290abe",
+      "title": "What Happens When Someone Is Read In",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "list_vertical",
+        "comparison_columns"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "SAP Read In Indoctrination Workflow",
+        "Standard SAP Security Documentation",
+        "SAP Security Training Lifecycle"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_special_access_progr_550fe1_waived_sap_reporting_36bd49",
+      "title": "The Most Restricted SAP Reporting Lane",
+      "infographic_count": 3,
+      "templates": [
+        "venn",
+        "structure_taxonomy",
+        "decision_fork"
+      ],
+      "roles": [
+        "comparison",
+        "taxonomy",
+        "other"
+      ],
+      "titles": [
+        "Hierarchy of Waived SAP Restrictions",
+        "Restricted Recipients for Waived SAPs",
+        "Reporting Logic for Do D SAPs"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_sr71_blackbird_3084c1",
+      "title": "Why the SR 71 Still Defines Secret Speed",
+      "infographic_count": 3,
+      "templates": [
+        "fact_box_sidebar",
+        "grid_stats",
+        "cards_grid"
+      ],
+      "roles": [
+        "summary",
+        "other",
+        "summary"
+      ],
+      "titles": [
+        "Evolution of the Blackbird Lineage",
+        "SR 71 Engineering and Performance",
+        "Layers of Black Project Secrecy"
+      ],
+      "role_diversity_count": 1,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_sr71_blackbird_3084c1_a11_selective_disclo_de2de3",
+      "title": "Why the Blackbird Was Revealed Sideways",
+      "infographic_count": 3,
+      "templates": [
+        "myth_facts",
+        "umbrella",
+        "list_vertical"
+      ],
+      "roles": [
+        "comparison",
+        "other",
+        "summary"
+      ],
+      "titles": [
+        "The 1964 A 11 Public Disclosure",
+        "Concealed Elements of Project OXCART",
+        "Selective Disclosure Tactics"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_sr71_blackbird_3084c1_a12_oxcart_roots_b3f992",
+      "title": "The Hidden Aircraft Behind the Blackbird",
+      "infographic_count": 3,
+      "templates": [
+        "orbital_rings",
+        "diverging_bars",
+        "tree_map"
+      ],
+      "roles": [
+        "other",
+        "data",
+        "taxonomy"
+      ],
+      "titles": [
+        "Engineering Foundations of the A 12 OXCART",
+        "A 12 OXCART vs. SR 71 Blackbird",
+        "The OXCART Operational Legacy"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_sr71_blackbird_3084c1_mach32_design_secrec_636b35",
+      "title": "Why the SR 71 Looked Impossible",
+      "infographic_count": 3,
+      "templates": [
+        "orbital_rings",
+        "versus",
+        "cards_grid"
+      ],
+      "roles": [
+        "other",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "SR 71 Blackbird Engineering Systems",
+        "Mach 3.2 Operating Regime Effects",
+        "SR 71 Credibility Indicators"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_sr71_blackbird_3084c1_museum_blackbird_aft_4ce84e",
+      "title": "Why Museum Blackbirds Still Feel Secret",
+      "infographic_count": 3,
+      "templates": [
+        "list_vertical",
+        "timeline_history",
+        "comparison_columns"
+      ],
+      "roles": [
+        "summary",
+        "chronology",
+        "comparison"
+      ],
+      "titles": [
+        "SR 71 Blackbird Engineering Features",
+        "Museum Custodians of Blackbird History",
+        "Visible Hardware vs. Hidden Intelligence"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_sr71_blackbird_3084c1_sr71_early_stealth_eff988",
+      "title": "Was the SR 71 Really Stealthy?",
+      "infographic_count": 3,
+      "templates": [
+        "diverging_bars",
+        "fact_box_sidebar",
+        "grid_stats"
+      ],
+      "roles": [
+        "data",
+        "summary",
+        "other"
+      ],
+      "titles": [
+        "SR 71 Survivability Design Pillars",
+        "Lockheed Skunk Works Engineering Features",
+        "Evolution of Stealth Doctrine"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_sr71_blackbird_3084c1_sr71_record_proof_f8f9e7",
+      "title": "How Records Made Secrecy Measurable",
+      "infographic_count": 3,
+      "templates": [
+        "myth_facts",
+        "quadrant",
+        "tug_of_war"
+      ],
+      "roles": [
+        "comparison",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "SR 71 1976 Record Achievements",
+        "Controlled Disclosure Strategy Pillars",
+        "Blackbird Public Identity Factors"
+      ],
+      "role_diversity_count": 1,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_stealth_secrecy_6c60c7",
+      "title": "Why Stealth Works Best Before It Is Known",
+      "infographic_count": 3,
+      "templates": [
+        "versus",
+        "list_vertical",
+        "comparison_columns"
+      ],
+      "roles": [
+        "comparison",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "F 117 Nighthawk Operational Secrecy Time line",
+        "Layers of Stealth Design Protection",
+        "Mechanisms of Radar Surprise Advantage"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_stealth_secrecy_6c60c7_air_defense_stealth_2db532",
+      "title": "How defenders learn to hunt stealth",
+      "infographic_count": 3,
+      "templates": [
+        "puzzle",
+        "process_steps",
+        "myth_facts"
+      ],
+      "roles": [
+        "other",
+        "process",
+        "comparison"
+      ],
+      "titles": [
+        "NATO Integrated Air and Missile Defence Fusion",
+        "Serbian F 117 Shoot down Tactical Sequence",
+        "Operator Training for Stealth Detection"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_stealth_secrecy_6c60c7_b2_stealth_design_le_5b5056",
+      "title": "Why one stealth leak can matter",
+      "infographic_count": 3,
+      "templates": [
+        "list_vertical",
+        "versus",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "summary",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "B 2 Spirit Stealth Integration Components",
+        "The Gowadia Espionage Case Risks",
+        "Security Protocols for Black Projects"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_stealth_secrecy_6c60c7_f117_first_exposure_577a18",
+      "title": "Why the F 117 stayed hidden so long",
+      "infographic_count": 3,
+      "templates": [
+        "tug_of_war",
+        "quadrant",
+        "cards_grid"
+      ],
+      "roles": [
+        "other",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "F 117 Nighthawk Operational Time line",
+        "Data Protected by Secrecy",
+        "Strategic Value of Stealth Secrecy"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_stealth_secrecy_6c60c7_f117_serbia_predicta_f68eab",
+      "title": "When stealth met a prepared ambush",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "grid_stats",
+        "cards_grid"
+      ],
+      "roles": [
+        "chronology",
+        "other",
+        "summary"
+      ],
+      "titles": [
+        "F 117 A Nighthawk Shootdown Sequence",
+        "Tactics Used by Serbian Defenders",
+        "Operational Secrecy Requirements"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_stealth_secrecy_6c60c7_radar_cross_section_5ee169",
+      "title": "Why radar clues can weaken stealth",
+      "infographic_count": 3,
+      "templates": [
+        "grid_stats",
+        "diverging_bars",
+        "venn"
+      ],
+      "roles": [
+        "other",
+        "data",
+        "comparison"
+      ],
+      "titles": [
+        "Mechanisms of Radar Scattering",
+        "Radar Wavelength and Stealth",
+        "Defensive Search Optimization Steps"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.2,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_stealth_secrecy_6c60c7_stealth_weak_points_7ed267",
+      "title": "The small details that can betray stealth",
+      "infographic_count": 3,
+      "templates": [
+        "comparison_columns",
+        "process_steps",
+        "tree_map"
+      ],
+      "roles": [
+        "comparison",
+        "process",
+        "taxonomy"
+      ],
+      "titles": [
+        "Hidden Engineering of Stealth Aircraft",
+        "Managing Weapons Bay Signature Risks",
+        "F 35 Low Observability Design Features"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_tacit_blue_b94c60",
+      "title": "The Strange Aircraft Behind B 2 Stealth",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "orbital_rings"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Tacit Blue Development Time line",
+        "Faceted vs Curved Stealth Design",
+        "Tacit Blue Systems Integration"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_tacit_blue_b94c60_tacit_blue_all_aspec_7f7942",
+      "title": "Why Tacit Blue Had to Hide From Every Angle",
+      "infographic_count": 3,
+      "templates": [
+        "list_vertical",
+        "fact_box_sidebar",
+        "process_steps"
+      ],
+      "roles": [
+        "summary",
+        "summary",
+        "process"
+      ],
+      "titles": [
+        "Tacit Blue All Aspect Stealth Features",
+        "Strike vs. Surveillance Stealth Logic",
+        "Tacit Blue to B 2 Development Path"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_tacit_blue_b94c60_tacit_blue_b2_protot_036ae0",
+      "title": "Was Tacit Blue Really a B 2 Prototype?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Development Time line of Stealth Aircraft",
+        "Tacit Blue vs. B 2 Spirit Missions",
+        "Tacit Blue Technical Contributions"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_tacit_blue_b94c60_tacit_blue_curved_st_1b2084",
+      "title": "How Tacit Blue Made Curved Stealth Practical",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "diverging_bars",
+        "hub"
+      ],
+      "roles": [
+        "chronology",
+        "data",
+        "other"
+      ],
+      "titles": [
+        "Evolution of Stealth Geometry",
+        "Faceted vs. Curved Stealth",
+        "Tacit Blue Systems Integration"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_tacit_blue_b94c60_tacit_blue_digital_f_f194a4",
+      "title": "How Computers Kept Tacit Blue in the Air",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "myth_facts",
+        "quadrant"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Tacit Blue Flight Control Logic",
+        "Stealth vs. Aerodynamic Stability",
+        "Quadruple Redundant System Architecture"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_tacit_blue_b94c60_tacit_blue_hidden_ra_011613",
+      "title": "Could Tacit Blue Use Radar Without Giving Itself Away?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "versus",
+        "gem"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Tacit Blue Stealth Integration Process",
+        "Conventional vs LPI Radar Emissions",
+        "Tacit Blue Signature Management Domains"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_tacit_blue_b94c60_tacit_blue_radar_fir_64d99d",
+      "title": "Why Tacit Blue Was Built Around Its Radar",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "myth_facts",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Tacit Blue Radar First Design Key Stages",
+        "Tacit Blue vs. Conventional Aircraft",
+        "Tacit Blue Mission Requirements"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_u2_spy_plane_88d3f3",
+      "title": "How the U 2 Became a Secret Spy Plane",
+      "infographic_count": 3,
+      "templates": [
+        "venn",
+        "structure_taxonomy",
+        "myth_facts"
+      ],
+      "roles": [
+        "comparison",
+        "taxonomy",
+        "comparison"
+      ],
+      "titles": [
+        "U 2 Aircraft Design Components",
+        "U 2 Secrecy and Logistics Chain",
+        "Intelligence vs. Diplomatic Risk"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_u2_spy_plane_88d3f3_area51_u2_test_site_985c6d",
+      "title": "Why the U 2 Needed Area 51",
+      "infographic_count": 3,
+      "templates": [
+        "cards_grid",
+        "timeline_vertical",
+        "versus"
+      ],
+      "roles": [
+        "summary",
+        "chronology",
+        "comparison"
+      ],
+      "titles": [
+        "Groom Lake Site Advantages",
+        "U 2 Aircraft Development Time line",
+        "Standard Bases vs. Area 51"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_u2_spy_plane_88d3f3_eisenhower_u2_approv_96e190",
+      "title": "Why Eisenhower Kept U 2 Flights So Tight",
+      "infographic_count": 3,
+      "templates": [
+        "grid_stats",
+        "diverging_bars",
+        "process_steps"
+      ],
+      "roles": [
+        "other",
+        "data",
+        "process"
+      ],
+      "titles": [
+        "U 2 Mission Authorization Hierarchy",
+        "U 2 Intelligence vs. Soviet Claims",
+        "Decision Logic for Soviet Overflights"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_u2_spy_plane_88d3f3_powers_u2_shootdown_66f7be",
+      "title": "The Crash That Exposed the U 2",
+      "infographic_count": 3,
+      "templates": [
+        "fact_box_sidebar",
+        "comparison_columns",
+        "tug_of_war"
+      ],
+      "roles": [
+        "summary",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "The Collapse of U 2 Secrecy",
+        "U 2 Strategy vs. Soviet Response",
+        "Paris Summit Diplomatic Fallout"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_u2_spy_plane_88d3f3_u2_bomber_gap_photos_2fa0f2",
+      "title": "How U 2 Photos Challenged the Bomber Gap",
+      "infographic_count": 3,
+      "templates": [
+        "myth_facts",
+        "list_vertical",
+        "quadrant"
+      ],
+      "roles": [
+        "comparison",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Debunking the Soviet Bomber Gap",
+        "U 2 Reconnaissance Observation Targets",
+        "Pre U 2 Intelligence Collection Methods"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_u2_spy_plane_88d3f3_u2_civilian_cover_st_5c5602",
+      "title": "Why the Weather Plane Story Failed",
+      "infographic_count": 3,
+      "templates": [
+        "fact_box_sidebar",
+        "list_vertical",
+        "quadrant"
+      ],
+      "roles": [
+        "summary",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "U 2 Aircraft Cover Story Components",
+        "Collapse of the Weather Cover",
+        "Secrecy vs. Physical Evidence"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "black_projects_87e9a4_u2_spy_plane_88d3f3_u2_to_spy_satellites_c954f7",
+      "title": "Why Spy Satellites Overtook the U 2",
+      "infographic_count": 3,
+      "templates": [
+        "venn",
+        "myth_facts",
+        "summit"
+      ],
+      "roles": [
+        "comparison",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Vulnerabilities of U 2 Manned Overflights",
+        "U 2 Aircraft vs. CORONA Satellites",
+        "CORONA Program Strategic Milestones"
+      ],
+      "role_diversity_count": 1,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    }
+  ]
+}

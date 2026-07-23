@@ -1,0 +1,2928 @@
+{
+  "generated_at": "2026-07-23T15:26:36",
+  "passed": true,
+  "baseline": {
+    "article_pages": 242,
+    "amazon_specific_pages": 211,
+    "amazon_fallback_pages": 0,
+    "ebay_specific_pages": 57,
+    "ebay_fallback_pages": 0,
+    "pages": {
+      "black_projects_87e9a4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_a12_oxcart_73d759": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_a12_oxcart_73d759_a12_outrun_missiles_6655a0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_a12_oxcart_73d759_a12_titanium_challen_509d4a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_a12_oxcart_73d759_a12_vs_sr71_tradeoff_d30373": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_a12_oxcart_73d759_black_shield_mission_ca4a2e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_a12_oxcart_73d759_groom_lake_oxcart_te_190944": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_a12_oxcart_73d759_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_a12_oxcart_73d759_why_oxcart_ended_4be920": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_area51_rumors_14a0e7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_area51_rumors_14a0e7_area51_late_disclosu_f97697": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_area51_rumors_14a0e7_groom_lake_secret_ba_ba903e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_area51_rumors_14a0e7_groom_lake_waste_exe_06576c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_area51_rumors_14a0e7_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_area51_rumors_14a0e7_restricted_roads_myt_5ca775": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_area51_rumors_14a0e7_storm_area51_spectac_a52fb2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_area51_rumors_14a0e7_u2_ufo_reports_90e455": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_b2_spirit_863e66": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_b2_spirit_863e66_b2_1988_public_rollo_5a41f7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_b2_spirit_863e66_b2_flying_wing_shape_bb4c87": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_b2_spirit_863e66_b2_internal_weapons_18bbf0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_b2_spirit_863e66_b2_stealth_cost_trad_332ef5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_b2_spirit_863e66_b2_stealth_not_invis_0687b7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_b2_spirit_863e66_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_b2_spirit_863e66_tacit_blue_curved_st_1b2084": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_beyond_aircraft_96c311": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_beyond_aircraft_96c311_corona_cover_story_9dfdb1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_beyond_aircraft_96c311_directed_energy_tran_7d0857": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_beyond_aircraft_96c311_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_beyond_aircraft_96c311_manhattan_compartmen_3094c1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_beyond_aircraft_96c311_project_pluto_failur_225004": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_beyond_aircraft_96c311_signals_satellite_ra_dbe6b5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_beyond_aircraft_96c311_surveillance_method_b2b9b7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_black_budget_dea93a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_black_budget_dea93a_black_budget_oversig_c52034": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_black_budget_dea93a_black_budget_trend_r_546ef5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_black_budget_dea93a_classified_budget_an_43d95b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_black_budget_dea93a_hidden_contractor_ac_7e041c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_black_budget_dea93a_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_black_budget_dea93a_intelligence_budget_ac5a94": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_black_budget_dea93a_intelligence_top_lin_56c51c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_compartmented_teams_8af5ba": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_compartmented_teams_8af5ba_carve_out_contract_r_30ce25": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_compartmented_teams_8af5ba_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_compartmented_teams_8af5ba_need_to_know_enginee_6e1acc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_compartmented_teams_8af5ba_ownership_limits_cla_6a433f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_compartmented_teams_8af5ba_oxcart_supplier_netw_cb6646": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_compartmented_teams_8af5ba_prime_contractor_gat_64ce17": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_compartmented_teams_8af5ba_sanitized_interface_b7b1e4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_congressional_oversi_ca0139": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_congressional_oversi_ca0139_alternative_control_1dfe1a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_congressional_oversi_ca0139_annual_sap_reports_d395b4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_congressional_oversi_ca0139_committee_staff_acce_d14cc7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_congressional_oversi_ca0139_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_congressional_oversi_ca0139_new_sap_duplication_11b50c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_congressional_oversi_ca0139_sapco_congressional_5fea75": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_congressional_oversi_ca0139_sap_declassification_c4cd08": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_cover_stories_cb3f5f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_cover_stories_cb3f5f_carveout_contract_ov_d53022": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_cover_stories_cb3f5f_classified_budget_at_05682a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_cover_stories_cb3f5f_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_cover_stories_cb3f5f_neutral_project_name_c4a598": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_cover_stories_cb3f5f_oak_ridge_compartmen_8cada5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_cover_stories_cb3f5f_paradise_ranch_cover_dab71b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_cover_stories_cb3f5f_visible_facility_foo_66692a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_crypto_cyber_secrecy_f6988a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_crypto_cyber_secrecy_f6988a_burning_secret_sourc_60fa1c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_crypto_cyber_secrecy_f6988a_enigma_operating_mis_db13e6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_crypto_cyber_secrecy_f6988a_eternalblue_wannacry_978a49": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_crypto_cyber_secrecy_f6988a_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_crypto_cyber_secrecy_f6988a_traffic_analysis_sig_7c4daa": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_crypto_cyber_secrecy_f6988a_venona_pad_reuse_4f8e24": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_crypto_cyber_secrecy_f6988a_zero_day_disclosure_97bf1a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_declassified_records_facf11": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_declassified_records_facf11_area51_records_2cc0c5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_declassified_records_facf11_corona_missile_gap_7_39a23a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_declassified_records_facf11_gambit_hexagon_recor_bac072": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_declassified_records_facf11_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_declassified_records_facf11_release_pathways_121649": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_declassified_records_facf11_u2_cover_story_d7f6d5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_declassified_records_facf11_venona_intercepts_09b816": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_disclosure_timelines_f00941": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_disclosure_timelines_f00941_acknowledgment_vs_de_c206ce": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_disclosure_timelines_f00941_b2_early_public_roll_ce8951": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_disclosure_timelines_f00941_corona_imagery_decla_03380b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_disclosure_timelines_f00941_f117_operational_sec_2dc439": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_disclosure_timelines_f00941_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_disclosure_timelines_f00941_manhattan_selective_3ca2d7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_disclosure_timelines_f00941_u2_forced_acknowledg_5c7d28": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_electronic_counterme_e00424": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_electronic_counterme_e00424_changing_radar_threa_805040": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_electronic_counterme_e00424_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_electronic_counterme_e00424_passive_radar_detect_b58a23": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_electronic_counterme_e00424_radar_deception_fals_a726a4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_electronic_counterme_e00424_stealth_jamming_emis_2a9292": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_electronic_counterme_e00424_support_jamming_stea_2fe421": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_electronic_counterme_e00424_tacit_blue_radar_ste_165b9a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_f117_nighthawk_75a3d9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_f117_nighthawk_75a3d9_f117_1988_reveal_068016": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_f117_nighthawk_75a3d9_f117_not_fighter_977458": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_f117_nighthawk_75a3d9_f117_stealth_mainten_e98156": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_f117_nighthawk_75a3d9_faceted_stealth_fly_62185b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_f117_nighthawk_75a3d9_have_blue_to_f117_1e2f7d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_f117_nighthawk_75a3d9_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_f117_nighthawk_75a3d9_tonopah_secret_base_bb506c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_groom_lake_testing_db41d4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_groom_lake_testing_db41d4_a12_groom_lake_expan_6d327f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_groom_lake_testing_db41d4_dry_lake_flight_safe_2604e6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_groom_lake_testing_db41d4_groom_lake_air_shutt_2c8879": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_groom_lake_testing_db41d4_groom_lake_restricte_d8fb37": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_groom_lake_testing_db41d4_groom_lake_stealth_t_ad4c61": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_groom_lake_testing_db41d4_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_groom_lake_testing_db41d4_u2_testing_groom_lak_11a3cc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_have_blue_95f6fc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_have_blue_95f6fc_have_blue_crashes_su_d6722f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_have_blue_95f6fc_have_blue_fly_by_wir_b06687": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_have_blue_95f6fc_have_blue_radar_pred_e8de20": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_have_blue_95f6fc_have_blue_stealth_de_0d31b0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_have_blue_95f6fc_have_blue_to_f117_1e2f7d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_have_blue_95f6fc_hopeless_diamond_ste_bf5e7b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_have_blue_95f6fc_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_hidden_budget_costs_798d69": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_hidden_budget_costs_798d69_a12_fixed_price_fail_c11928": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_hidden_budget_costs_798d69_aggregate_budgets_hi_d3939d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_hidden_budget_costs_798d69_b2_cost_surge_13a530": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_hidden_budget_costs_798d69_classified_contracto_a2b4a6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_hidden_budget_costs_798d69_compartmentation_del_ef8fcb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_hidden_budget_costs_798d69_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_hidden_budget_costs_798d69_secret_program_cost_42414b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_intelligence_sources_e3f298": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_intelligence_sources_e3f298_classification_guide_6884ea": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_intelligence_sources_e3f298_compartmentation_fra_ed4674": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_intelligence_sources_e3f298_cover_companies_prog_9b74d4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_intelligence_sources_e3f298_human_source_identif_91b97c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_intelligence_sources_e3f298_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_intelligence_sources_e3f298_mosaic_problem_secre_d28e78": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_intelligence_sources_e3f298_sensor_limits_real_s_1cdd95": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_operational_surprise_15e46e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_operational_surprise_15e46e_adaptation_window_6a61f2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_operational_surprise_15e46e_air_defence_network_25dfe1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_operational_surprise_15e46e_capability_uncertain_b99d09": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_operational_surprise_15e46e_f117_desert_storm_op_81811c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_operational_surprise_15e46e_first_use_intelligen_8a2b8c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_operational_surprise_15e46e_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_operational_surprise_15e46e_u2_altitude_advantag_e1c4d6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_overclassification_t_f052cc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_overclassification_t_f052cc_classification_creep_a7c0fe": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_overclassification_t_f052cc_classification_damag_b750c5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_overclassification_t_f052cc_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_overclassification_t_f052cc_obsolete_secrets_3e6c57": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_overclassification_t_f052cc_oversight_access_gap_de19f6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_overclassification_t_f052cc_redaction_inconsiste_87f626": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_overclassification_t_f052cc_sharing_failures_42ac8d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_popular_culture_myth_5d22b9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_popular_culture_myth_5d22b9_blue_book_unidentifi_5a99e6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_popular_culture_myth_5d22b9_bob_lazar_claims_end_4de062": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_popular_culture_myth_5d22b9_hollywood_area51_ali_765d16": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_popular_culture_myth_5d22b9_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_popular_culture_myth_5d22b9_secrecy_ufo_credibil_3df960": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_popular_culture_myth_5d22b9_secret_aircraft_ufo_0e47e7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_popular_culture_myth_5d22b9_storm_area51_meme_fo_7b3054": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_recon_surprise_92a79_32341b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_recon_surprise_92a79_32341b_a12_east_asia_secrec_733d36": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_recon_surprise_92a79_32341b_behavioral_counterme_2348e4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_recon_surprise_92a79_32341b_hidden_sensor_limits_24f0d0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_recon_surprise_92a79_32341b_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_recon_surprise_92a79_32341b_satellite_acknowledg_0da4fd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_recon_surprise_92a79_32341b_u2_surprise_window_638c3b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_recon_surprise_92a79_32341b_unpredictable_flight_b7669b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_remote_basing_418e55": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_remote_basing_418e55_cover_units_secret_a_3da604": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_remote_basing_418e55_foreign_base_secrecy_1995b9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_remote_basing_418e55_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_remote_basing_418e55_kadena_a12_black_shi_5151dd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_remote_basing_418e55_peshawar_u2_routes_56131d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_remote_basing_418e55_powers_transit_missi_7fb903": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_remote_basing_418e55_tonopah_f117_trainin_588a92": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_rumors_vs_evidence_258660": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_rumors_vs_evidence_258660_aurora_documentary_g_12e0f3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_rumors_vs_evidence_258660_classified_budget_cl_5c99f3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_rumors_vs_evidence_258660_f117_rumor_trail_0a755c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_rumors_vs_evidence_258660_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_rumors_vs_evidence_258660_retrospective_disclo_362089": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_rumors_vs_evidence_258660_test_range_activity_5882c5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_rumors_vs_evidence_258660_u2_a12_verifiable_tr_836c71": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_secrecy_accountabili_6ccbcd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_secrecy_accountabili_6ccbcd_church_committee_ove_80452a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_secrecy_accountabili_6ccbcd_classification_misus_2e9415": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_secrecy_accountabili_6ccbcd_congress_special_acc_c71b4f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_secrecy_accountabili_6ccbcd_future_imagery_archi_d7fdd5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_secrecy_accountabili_6ccbcd_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_secrecy_accountabili_6ccbcd_intelligence_inspect_0b7573": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_secrecy_accountabili_6ccbcd_public_knowledge_sec_032e74": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_skunk_works_3828a1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_skunk_works_3828a1_a12_oxcart_mach3_sec_55c18b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_skunk_works_3828a1_area51_secret_aircra_cd40b0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_skunk_works_3828a1_f117_supplier_secrec_fd8a35": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_skunk_works_3828a1_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_skunk_works_3828a1_kelly_rules_contract_b0c585": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_skunk_works_3828a1_rapid_timelines_hidd_4e12f8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_skunk_works_3828a1_u2_contracting_cia_a_70105b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_special_access_progr_550fe1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_special_access_progr_550fe1_acknowledged_unackno_d51f30": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_special_access_progr_550fe1_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_special_access_progr_550fe1_sap_access_gates_ae9d2d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_special_access_progr_550fe1_sap_compartments_cbdf6f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_special_access_progr_550fe1_sap_oversight_watche_9d8ed9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_special_access_progr_550fe1_sap_read_in_training_290abe": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_special_access_progr_550fe1_waived_sap_reporting_36bd49": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_sr71_blackbird_3084c1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_sr71_blackbird_3084c1_a11_selective_disclo_de2de3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_sr71_blackbird_3084c1_a12_oxcart_roots_b3f992": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_sr71_blackbird_3084c1_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_sr71_blackbird_3084c1_mach32_design_secrec_636b35": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_sr71_blackbird_3084c1_museum_blackbird_aft_4ce84e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_sr71_blackbird_3084c1_sr71_early_stealth_eff988": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_sr71_blackbird_3084c1_sr71_record_proof_f8f9e7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_stealth_secrecy_6c60c7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_stealth_secrecy_6c60c7_air_defense_stealth_2db532": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_stealth_secrecy_6c60c7_b2_stealth_design_le_5b5056": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_stealth_secrecy_6c60c7_f117_first_exposure_577a18": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_stealth_secrecy_6c60c7_f117_serbia_predicta_f68eab": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_stealth_secrecy_6c60c7_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_stealth_secrecy_6c60c7_radar_cross_section_5ee169": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_stealth_secrecy_6c60c7_stealth_weak_points_7ed267": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_tacit_blue_b94c60": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_tacit_blue_b94c60_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_tacit_blue_b94c60_tacit_blue_all_aspec_7f7942": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_tacit_blue_b94c60_tacit_blue_b2_protot_036ae0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_tacit_blue_b94c60_tacit_blue_curved_st_1b2084": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_tacit_blue_b94c60_tacit_blue_digital_f_f194a4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_tacit_blue_b94c60_tacit_blue_hidden_ra_011613": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_tacit_blue_b94c60_tacit_blue_radar_fir_64d99d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_u2_spy_plane_88d3f3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_u2_spy_plane_88d3f3_area51_u2_test_site_985c6d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_u2_spy_plane_88d3f3_eisenhower_u2_approv_96e190": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_u2_spy_plane_88d3f3_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_u2_spy_plane_88d3f3_powers_u2_shootdown_66f7be": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_u2_spy_plane_88d3f3_u2_bomber_gap_photos_2fa0f2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_u2_spy_plane_88d3f3_u2_civilian_cover_st_5c5602": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_u2_spy_plane_88d3f3_u2_to_spy_satellites_c954f7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      }
+    }
+  },
+  "current": {
+    "article_pages": 242,
+    "amazon_specific_pages": 211,
+    "amazon_fallback_pages": 0,
+    "ebay_specific_pages": 57,
+    "ebay_fallback_pages": 0,
+    "pages": {
+      "black_projects_87e9a4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_a12_oxcart_73d759": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_a12_oxcart_73d759_a12_outrun_missiles_6655a0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_a12_oxcart_73d759_a12_titanium_challen_509d4a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_a12_oxcart_73d759_a12_vs_sr71_tradeoff_d30373": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_a12_oxcart_73d759_black_shield_mission_ca4a2e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_a12_oxcart_73d759_groom_lake_oxcart_te_190944": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_a12_oxcart_73d759_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_a12_oxcart_73d759_why_oxcart_ended_4be920": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_area51_rumors_14a0e7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_area51_rumors_14a0e7_area51_late_disclosu_f97697": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_area51_rumors_14a0e7_groom_lake_secret_ba_ba903e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_area51_rumors_14a0e7_groom_lake_waste_exe_06576c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_area51_rumors_14a0e7_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_area51_rumors_14a0e7_restricted_roads_myt_5ca775": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_area51_rumors_14a0e7_storm_area51_spectac_a52fb2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_area51_rumors_14a0e7_u2_ufo_reports_90e455": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_b2_spirit_863e66": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_b2_spirit_863e66_b2_1988_public_rollo_5a41f7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_b2_spirit_863e66_b2_flying_wing_shape_bb4c87": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_b2_spirit_863e66_b2_internal_weapons_18bbf0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_b2_spirit_863e66_b2_stealth_cost_trad_332ef5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_b2_spirit_863e66_b2_stealth_not_invis_0687b7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_b2_spirit_863e66_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_b2_spirit_863e66_tacit_blue_curved_st_1b2084": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_beyond_aircraft_96c311": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_beyond_aircraft_96c311_corona_cover_story_9dfdb1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_beyond_aircraft_96c311_directed_energy_tran_7d0857": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_beyond_aircraft_96c311_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_beyond_aircraft_96c311_manhattan_compartmen_3094c1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_beyond_aircraft_96c311_project_pluto_failur_225004": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_beyond_aircraft_96c311_signals_satellite_ra_dbe6b5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_beyond_aircraft_96c311_surveillance_method_b2b9b7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_black_budget_dea93a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_black_budget_dea93a_black_budget_oversig_c52034": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_black_budget_dea93a_black_budget_trend_r_546ef5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_black_budget_dea93a_classified_budget_an_43d95b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_black_budget_dea93a_hidden_contractor_ac_7e041c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_black_budget_dea93a_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_black_budget_dea93a_intelligence_budget_ac5a94": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_black_budget_dea93a_intelligence_top_lin_56c51c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_compartmented_teams_8af5ba": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_compartmented_teams_8af5ba_carve_out_contract_r_30ce25": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_compartmented_teams_8af5ba_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_compartmented_teams_8af5ba_need_to_know_enginee_6e1acc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_compartmented_teams_8af5ba_ownership_limits_cla_6a433f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_compartmented_teams_8af5ba_oxcart_supplier_netw_cb6646": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_compartmented_teams_8af5ba_prime_contractor_gat_64ce17": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_compartmented_teams_8af5ba_sanitized_interface_b7b1e4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_congressional_oversi_ca0139": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_congressional_oversi_ca0139_alternative_control_1dfe1a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_congressional_oversi_ca0139_annual_sap_reports_d395b4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_congressional_oversi_ca0139_committee_staff_acce_d14cc7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_congressional_oversi_ca0139_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_congressional_oversi_ca0139_new_sap_duplication_11b50c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_congressional_oversi_ca0139_sapco_congressional_5fea75": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_congressional_oversi_ca0139_sap_declassification_c4cd08": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_cover_stories_cb3f5f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_cover_stories_cb3f5f_carveout_contract_ov_d53022": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_cover_stories_cb3f5f_classified_budget_at_05682a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_cover_stories_cb3f5f_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_cover_stories_cb3f5f_neutral_project_name_c4a598": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_cover_stories_cb3f5f_oak_ridge_compartmen_8cada5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_cover_stories_cb3f5f_paradise_ranch_cover_dab71b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_cover_stories_cb3f5f_visible_facility_foo_66692a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_crypto_cyber_secrecy_f6988a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_crypto_cyber_secrecy_f6988a_burning_secret_sourc_60fa1c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_crypto_cyber_secrecy_f6988a_enigma_operating_mis_db13e6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_crypto_cyber_secrecy_f6988a_eternalblue_wannacry_978a49": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_crypto_cyber_secrecy_f6988a_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_crypto_cyber_secrecy_f6988a_traffic_analysis_sig_7c4daa": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_crypto_cyber_secrecy_f6988a_venona_pad_reuse_4f8e24": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_crypto_cyber_secrecy_f6988a_zero_day_disclosure_97bf1a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_declassified_records_facf11": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_declassified_records_facf11_area51_records_2cc0c5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_declassified_records_facf11_corona_missile_gap_7_39a23a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_declassified_records_facf11_gambit_hexagon_recor_bac072": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_declassified_records_facf11_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_declassified_records_facf11_release_pathways_121649": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_declassified_records_facf11_u2_cover_story_d7f6d5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_declassified_records_facf11_venona_intercepts_09b816": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_disclosure_timelines_f00941": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_disclosure_timelines_f00941_acknowledgment_vs_de_c206ce": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_disclosure_timelines_f00941_b2_early_public_roll_ce8951": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_disclosure_timelines_f00941_corona_imagery_decla_03380b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_disclosure_timelines_f00941_f117_operational_sec_2dc439": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_disclosure_timelines_f00941_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_disclosure_timelines_f00941_manhattan_selective_3ca2d7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_disclosure_timelines_f00941_u2_forced_acknowledg_5c7d28": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_electronic_counterme_e00424": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_electronic_counterme_e00424_changing_radar_threa_805040": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_electronic_counterme_e00424_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_electronic_counterme_e00424_passive_radar_detect_b58a23": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_electronic_counterme_e00424_radar_deception_fals_a726a4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_electronic_counterme_e00424_stealth_jamming_emis_2a9292": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_electronic_counterme_e00424_support_jamming_stea_2fe421": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_electronic_counterme_e00424_tacit_blue_radar_ste_165b9a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_f117_nighthawk_75a3d9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_f117_nighthawk_75a3d9_f117_1988_reveal_068016": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_f117_nighthawk_75a3d9_f117_not_fighter_977458": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_f117_nighthawk_75a3d9_f117_stealth_mainten_e98156": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_f117_nighthawk_75a3d9_faceted_stealth_fly_62185b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_f117_nighthawk_75a3d9_have_blue_to_f117_1e2f7d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_f117_nighthawk_75a3d9_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_f117_nighthawk_75a3d9_tonopah_secret_base_bb506c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_groom_lake_testing_db41d4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_groom_lake_testing_db41d4_a12_groom_lake_expan_6d327f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_groom_lake_testing_db41d4_dry_lake_flight_safe_2604e6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_groom_lake_testing_db41d4_groom_lake_air_shutt_2c8879": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_groom_lake_testing_db41d4_groom_lake_restricte_d8fb37": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_groom_lake_testing_db41d4_groom_lake_stealth_t_ad4c61": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_groom_lake_testing_db41d4_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_groom_lake_testing_db41d4_u2_testing_groom_lak_11a3cc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_have_blue_95f6fc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_have_blue_95f6fc_have_blue_crashes_su_d6722f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_have_blue_95f6fc_have_blue_fly_by_wir_b06687": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_have_blue_95f6fc_have_blue_radar_pred_e8de20": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_have_blue_95f6fc_have_blue_stealth_de_0d31b0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_have_blue_95f6fc_have_blue_to_f117_1e2f7d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_have_blue_95f6fc_hopeless_diamond_ste_bf5e7b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_have_blue_95f6fc_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_hidden_budget_costs_798d69": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_hidden_budget_costs_798d69_a12_fixed_price_fail_c11928": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_hidden_budget_costs_798d69_aggregate_budgets_hi_d3939d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_hidden_budget_costs_798d69_b2_cost_surge_13a530": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_hidden_budget_costs_798d69_classified_contracto_a2b4a6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_hidden_budget_costs_798d69_compartmentation_del_ef8fcb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_hidden_budget_costs_798d69_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_hidden_budget_costs_798d69_secret_program_cost_42414b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_intelligence_sources_e3f298": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_intelligence_sources_e3f298_classification_guide_6884ea": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_intelligence_sources_e3f298_compartmentation_fra_ed4674": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_intelligence_sources_e3f298_cover_companies_prog_9b74d4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_intelligence_sources_e3f298_human_source_identif_91b97c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_intelligence_sources_e3f298_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_intelligence_sources_e3f298_mosaic_problem_secre_d28e78": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_intelligence_sources_e3f298_sensor_limits_real_s_1cdd95": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_operational_surprise_15e46e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_operational_surprise_15e46e_adaptation_window_6a61f2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_operational_surprise_15e46e_air_defence_network_25dfe1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_operational_surprise_15e46e_capability_uncertain_b99d09": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_operational_surprise_15e46e_f117_desert_storm_op_81811c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_operational_surprise_15e46e_first_use_intelligen_8a2b8c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_operational_surprise_15e46e_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_operational_surprise_15e46e_u2_altitude_advantag_e1c4d6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_overclassification_t_f052cc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_overclassification_t_f052cc_classification_creep_a7c0fe": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_overclassification_t_f052cc_classification_damag_b750c5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_overclassification_t_f052cc_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_overclassification_t_f052cc_obsolete_secrets_3e6c57": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_overclassification_t_f052cc_oversight_access_gap_de19f6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_overclassification_t_f052cc_redaction_inconsiste_87f626": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_overclassification_t_f052cc_sharing_failures_42ac8d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_popular_culture_myth_5d22b9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_popular_culture_myth_5d22b9_blue_book_unidentifi_5a99e6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_popular_culture_myth_5d22b9_bob_lazar_claims_end_4de062": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_popular_culture_myth_5d22b9_hollywood_area51_ali_765d16": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_popular_culture_myth_5d22b9_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_popular_culture_myth_5d22b9_secrecy_ufo_credibil_3df960": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_popular_culture_myth_5d22b9_secret_aircraft_ufo_0e47e7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_popular_culture_myth_5d22b9_storm_area51_meme_fo_7b3054": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_recon_surprise_92a79_32341b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_recon_surprise_92a79_32341b_a12_east_asia_secrec_733d36": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_recon_surprise_92a79_32341b_behavioral_counterme_2348e4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_recon_surprise_92a79_32341b_hidden_sensor_limits_24f0d0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_recon_surprise_92a79_32341b_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_recon_surprise_92a79_32341b_satellite_acknowledg_0da4fd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_recon_surprise_92a79_32341b_u2_surprise_window_638c3b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_recon_surprise_92a79_32341b_unpredictable_flight_b7669b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_remote_basing_418e55": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_remote_basing_418e55_cover_units_secret_a_3da604": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_remote_basing_418e55_foreign_base_secrecy_1995b9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_remote_basing_418e55_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_remote_basing_418e55_kadena_a12_black_shi_5151dd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_remote_basing_418e55_peshawar_u2_routes_56131d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_remote_basing_418e55_powers_transit_missi_7fb903": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_remote_basing_418e55_tonopah_f117_trainin_588a92": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_rumors_vs_evidence_258660": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_rumors_vs_evidence_258660_aurora_documentary_g_12e0f3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_rumors_vs_evidence_258660_classified_budget_cl_5c99f3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_rumors_vs_evidence_258660_f117_rumor_trail_0a755c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_rumors_vs_evidence_258660_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_rumors_vs_evidence_258660_retrospective_disclo_362089": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_rumors_vs_evidence_258660_test_range_activity_5882c5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_rumors_vs_evidence_258660_u2_a12_verifiable_tr_836c71": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_secrecy_accountabili_6ccbcd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_secrecy_accountabili_6ccbcd_church_committee_ove_80452a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_secrecy_accountabili_6ccbcd_classification_misus_2e9415": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_secrecy_accountabili_6ccbcd_congress_special_acc_c71b4f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_secrecy_accountabili_6ccbcd_future_imagery_archi_d7fdd5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_secrecy_accountabili_6ccbcd_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_secrecy_accountabili_6ccbcd_intelligence_inspect_0b7573": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_secrecy_accountabili_6ccbcd_public_knowledge_sec_032e74": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_skunk_works_3828a1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_skunk_works_3828a1_a12_oxcart_mach3_sec_55c18b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_skunk_works_3828a1_area51_secret_aircra_cd40b0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_skunk_works_3828a1_f117_supplier_secrec_fd8a35": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_skunk_works_3828a1_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_skunk_works_3828a1_kelly_rules_contract_b0c585": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_skunk_works_3828a1_rapid_timelines_hidd_4e12f8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_skunk_works_3828a1_u2_contracting_cia_a_70105b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_special_access_progr_550fe1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_special_access_progr_550fe1_acknowledged_unackno_d51f30": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_special_access_progr_550fe1_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_special_access_progr_550fe1_sap_access_gates_ae9d2d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_special_access_progr_550fe1_sap_compartments_cbdf6f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_special_access_progr_550fe1_sap_oversight_watche_9d8ed9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_special_access_progr_550fe1_sap_read_in_training_290abe": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_special_access_progr_550fe1_waived_sap_reporting_36bd49": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_sr71_blackbird_3084c1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_sr71_blackbird_3084c1_a11_selective_disclo_de2de3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_sr71_blackbird_3084c1_a12_oxcart_roots_b3f992": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_sr71_blackbird_3084c1_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_sr71_blackbird_3084c1_mach32_design_secrec_636b35": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_sr71_blackbird_3084c1_museum_blackbird_aft_4ce84e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_sr71_blackbird_3084c1_sr71_early_stealth_eff988": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_sr71_blackbird_3084c1_sr71_record_proof_f8f9e7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_stealth_secrecy_6c60c7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_stealth_secrecy_6c60c7_air_defense_stealth_2db532": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_stealth_secrecy_6c60c7_b2_stealth_design_le_5b5056": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_stealth_secrecy_6c60c7_f117_first_exposure_577a18": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_stealth_secrecy_6c60c7_f117_serbia_predicta_f68eab": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_stealth_secrecy_6c60c7_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_stealth_secrecy_6c60c7_radar_cross_section_5ee169": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_stealth_secrecy_6c60c7_stealth_weak_points_7ed267": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_tacit_blue_b94c60": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_tacit_blue_b94c60_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_tacit_blue_b94c60_tacit_blue_all_aspec_7f7942": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_tacit_blue_b94c60_tacit_blue_b2_protot_036ae0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_tacit_blue_b94c60_tacit_blue_curved_st_1b2084": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_tacit_blue_b94c60_tacit_blue_digital_f_f194a4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_tacit_blue_b94c60_tacit_blue_hidden_ra_011613": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_tacit_blue_b94c60_tacit_blue_radar_fir_64d99d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_u2_spy_plane_88d3f3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_u2_spy_plane_88d3f3_area51_u2_test_site_985c6d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_u2_spy_plane_88d3f3_eisenhower_u2_approv_96e190": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_u2_spy_plane_88d3f3_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_u2_spy_plane_88d3f3_powers_u2_shootdown_66f7be": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_u2_spy_plane_88d3f3_u2_bomber_gap_photos_2fa0f2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_u2_spy_plane_88d3f3_u2_civilian_cover_st_5c5602": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "black_projects_87e9a4_u2_spy_plane_88d3f3_u2_to_spy_satellites_c954f7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      }
+    }
+  },
+  "shared_pages_compared": 242,
+  "regressions": []
+}

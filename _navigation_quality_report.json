@@ -1,0 +1,2507 @@
+{
+  "generated_at_utc": "2026-07-23T14:26:33.023921Z",
+  "summary": {
+    "total_pages_with_permalink": 242,
+    "visible_pages": 211,
+    "hidden_pages": 31,
+    "visible_pages_without_inbound_links": 0,
+    "visible_orphan_pages": 0,
+    "visible_pages_with_empty_branch_sections": 0,
+    "visible_pages_with_missing_parent_target": 0,
+    "branch_navigation_coverage_percent": 100.0,
+    "inline_internal_edge_count": 1325,
+    "inline_internal_target_page_count": 211,
+    "visible_pages_gaining_inbound_from_inline_links": 0,
+    "visible_pages_without_inline_inbound_links": 0,
+    "visible_pages_with_inline_outbound_links": 208,
+    "visible_pages_without_inline_outbound_links": 3,
+    "average_inline_inbound_links_per_visible_page": 6.28,
+    "unresolved_inline_internal_target_count": 0,
+    "related_report_edge_count": 0,
+    "related_report_cross_root_edge_count": 0,
+    "related_report_target_page_count": 0,
+    "visible_pages_with_related_report_panel": 0,
+    "visible_pages_without_related_report_panel": 211,
+    "related_report_panel_coverage_percent": 0.0,
+    "average_related_report_links_per_visible_page": 0.0,
+    "unresolved_related_report_target_count": 0,
+    "sample_edge_count": 200
+  },
+  "samples": {
+    "visible_without_inbound_links": [],
+    "visible_orphan_pages": [],
+    "visible_empty_branch_sections": [],
+    "visible_missing_parent_target": [],
+    "visible_gaining_inbound_from_inline_links": [],
+    "visible_without_inline_inbound_links": [],
+    "visible_without_inline_outbound_links": [
+      {
+        "basename": "black_projects_87e9a4_congressional_oversi_ca0139_annual_sap_reports_d395b4",
+        "title": "Annual Reports",
+        "permalink": "/annual-reports/"
+      },
+      {
+        "basename": "black_projects_87e9a4_crypto_cyber_secrecy_f6988a_enigma_operating_mis_db13e6",
+        "title": "Enigma Mistakes",
+        "permalink": "/enigma-mistakes/"
+      },
+      {
+        "basename": "black_projects_87e9a4_electronic_counterme_e00424_radar_deception_fals_a726a4",
+        "title": "Radar Deception",
+        "permalink": "/radar-deception/"
+      }
+    ],
+    "visible_without_related_report_panel": [
+      {
+        "basename": "black_projects_87e9a4",
+        "title": "What Secret Programs Reveal Years Later",
+        "permalink": "/black-projects/"
+      },
+      {
+        "basename": "black_projects_87e9a4_a12_oxcart_73d759",
+        "title": "A 12 OXCART",
+        "permalink": "/a-12-oxcart/"
+      },
+      {
+        "basename": "black_projects_87e9a4_a12_oxcart_73d759_a12_outrun_missiles_6655a0",
+        "title": "Outrunning SAMs",
+        "permalink": "/outrunning-sams/"
+      },
+      {
+        "basename": "black_projects_87e9a4_a12_oxcart_73d759_a12_titanium_challen_509d4a",
+        "title": "Titanium Build",
+        "permalink": "/titanium-build/"
+      },
+      {
+        "basename": "black_projects_87e9a4_a12_oxcart_73d759_a12_vs_sr71_tradeoff_d30373",
+        "title": "A 12 vs SR 71",
+        "permalink": "/a-12-vs-sr-71/"
+      },
+      {
+        "basename": "black_projects_87e9a4_a12_oxcart_73d759_black_shield_mission_ca4a2e",
+        "title": "BLACK SHIELD",
+        "permalink": "/black-shield/"
+      },
+      {
+        "basename": "black_projects_87e9a4_a12_oxcart_73d759_groom_lake_oxcart_te_190944",
+        "title": "Groom Lake",
+        "permalink": "/groom-lake-330758/"
+      },
+      {
+        "basename": "black_projects_87e9a4_a12_oxcart_73d759_why_oxcart_ended_4be920",
+        "title": "Why It Ended",
+        "permalink": "/why-it-ended/"
+      },
+      {
+        "basename": "black_projects_87e9a4_area51_rumors_14a0e7",
+        "title": "Area 51",
+        "permalink": "/area-51/"
+      },
+      {
+        "basename": "black_projects_87e9a4_area51_rumors_14a0e7_area51_late_disclosu_f97697",
+        "title": "Late Disclosure",
+        "permalink": "/late-disclosure/"
+      },
+      {
+        "basename": "black_projects_87e9a4_area51_rumors_14a0e7_groom_lake_secret_ba_ba903e",
+        "title": "Groom Lake",
+        "permalink": "/groom-lake-80f167/"
+      },
+      {
+        "basename": "black_projects_87e9a4_area51_rumors_14a0e7_groom_lake_waste_exe_06576c",
+        "title": "Waste Exemption",
+        "permalink": "/waste-exemption/"
+      },
+      {
+        "basename": "black_projects_87e9a4_area51_rumors_14a0e7_restricted_roads_myt_5ca775",
+        "title": "Warning Signs",
+        "permalink": "/warning-signs/"
+      },
+      {
+        "basename": "black_projects_87e9a4_area51_rumors_14a0e7_storm_area51_spectac_a52fb2",
+        "title": "Storm Area 51",
+        "permalink": "/storm-area-51/"
+      },
+      {
+        "basename": "black_projects_87e9a4_area51_rumors_14a0e7_u2_ufo_reports_90e455",
+        "title": "U 2 Sightings",
+        "permalink": "/u-2-sightings/"
+      },
+      {
+        "basename": "black_projects_87e9a4_b2_spirit_863e66",
+        "title": "B 2",
+        "permalink": "/b-2/"
+      },
+      {
+        "basename": "black_projects_87e9a4_b2_spirit_863e66_b2_1988_public_rollo_5a41f7",
+        "title": "Rollout",
+        "permalink": "/rollout/"
+      },
+      {
+        "basename": "black_projects_87e9a4_b2_spirit_863e66_b2_flying_wing_shape_bb4c87",
+        "title": "Flying Wing",
+        "permalink": "/flying-wing/"
+      },
+      {
+        "basename": "black_projects_87e9a4_b2_spirit_863e66_b2_internal_weapons_18bbf0",
+        "title": "Weapons Bays",
+        "permalink": "/weapons-bays/"
+      },
+      {
+        "basename": "black_projects_87e9a4_b2_spirit_863e66_b2_stealth_cost_trad_332ef5",
+        "title": "Cost",
+        "permalink": "/cost/"
+      },
+      {
+        "basename": "black_projects_87e9a4_b2_spirit_863e66_b2_stealth_not_invis_0687b7",
+        "title": "Stealth Limits",
+        "permalink": "/stealth-limits/"
+      },
+      {
+        "basename": "black_projects_87e9a4_b2_spirit_863e66_tacit_blue_curved_st_1b2084",
+        "title": "Tacit Blue",
+        "permalink": "/tacit-blue-22dc2b/"
+      },
+      {
+        "basename": "black_projects_87e9a4_beyond_aircraft_96c311",
+        "title": "Beyond Aircraft",
+        "permalink": "/beyond-aircraft/"
+      },
+      {
+        "basename": "black_projects_87e9a4_beyond_aircraft_96c311_corona_cover_story_9dfdb1",
+        "title": "CORONA Cover",
+        "permalink": "/corona-cover/"
+      },
+      {
+        "basename": "black_projects_87e9a4_beyond_aircraft_96c311_directed_energy_tran_7d0857",
+        "title": "Energy Weapons",
+        "permalink": "/energy-weapons/"
+      },
+      {
+        "basename": "black_projects_87e9a4_beyond_aircraft_96c311_manhattan_compartmen_3094c1",
+        "title": "Manhattan Secrecy",
+        "permalink": "/manhattan-secrecy/"
+      },
+      {
+        "basename": "black_projects_87e9a4_beyond_aircraft_96c311_project_pluto_failur_225004",
+        "title": "Project Pluto",
+        "permalink": "/project-pluto/"
+      },
+      {
+        "basename": "black_projects_87e9a4_beyond_aircraft_96c311_signals_satellite_ra_dbe6b5",
+        "title": "Radar Satellites",
+        "permalink": "/radar-satellites/"
+      },
+      {
+        "basename": "black_projects_87e9a4_beyond_aircraft_96c311_surveillance_method_b2b9b7",
+        "title": "Hidden Methods",
+        "permalink": "/hidden-methods/"
+      },
+      {
+        "basename": "black_projects_87e9a4_black_budget_dea93a",
+        "title": "Black Budget",
+        "permalink": "/black-budget/"
+      },
+      {
+        "basename": "black_projects_87e9a4_black_budget_dea93a_black_budget_oversig_c52034",
+        "title": "Who Sees",
+        "permalink": "/who-sees/"
+      },
+      {
+        "basename": "black_projects_87e9a4_black_budget_dea93a_black_budget_trend_r_546ef5",
+        "title": "Trend Reading",
+        "permalink": "/trend-reading/"
+      },
+      {
+        "basename": "black_projects_87e9a4_black_budget_dea93a_classified_budget_an_43d95b",
+        "title": "Hidden Lines",
+        "permalink": "/hidden-lines/"
+      },
+      {
+        "basename": "black_projects_87e9a4_black_budget_dea93a_hidden_contractor_ac_7e041c",
+        "title": "Contractors",
+        "permalink": "/contractors/"
+      },
+      {
+        "basename": "black_projects_87e9a4_black_budget_dea93a_intelligence_budget_ac5a94",
+        "title": "Budget Games",
+        "permalink": "/budget-games/"
+      },
+      {
+        "basename": "black_projects_87e9a4_black_budget_dea93a_intelligence_top_lin_56c51c",
+        "title": "Top Lines",
+        "permalink": "/top-lines/"
+      },
+      {
+        "basename": "black_projects_87e9a4_compartmented_teams_8af5ba",
+        "title": "Teams",
+        "permalink": "/teams/"
+      },
+      {
+        "basename": "black_projects_87e9a4_compartmented_teams_8af5ba_carve_out_contract_r_30ce25",
+        "title": "Carve Outs",
+        "permalink": "/carve-outs-95feed/"
+      },
+      {
+        "basename": "black_projects_87e9a4_compartmented_teams_8af5ba_need_to_know_enginee_6e1acc",
+        "title": "Need to Know",
+        "permalink": "/need-to-know/"
+      },
+      {
+        "basename": "black_projects_87e9a4_compartmented_teams_8af5ba_ownership_limits_cla_6a433f",
+        "title": "Ownership Limits",
+        "permalink": "/ownership-limits/"
+      },
+      {
+        "basename": "black_projects_87e9a4_compartmented_teams_8af5ba_oxcart_supplier_netw_cb6646",
+        "title": "OXCART Network",
+        "permalink": "/oxcart-network/"
+      },
+      {
+        "basename": "black_projects_87e9a4_compartmented_teams_8af5ba_prime_contractor_gat_64ce17",
+        "title": "Prime Gatekeepers",
+        "permalink": "/prime-gatekeepers/"
+      },
+      {
+        "basename": "black_projects_87e9a4_compartmented_teams_8af5ba_sanitized_interface_b7b1e4",
+        "title": "Integration Failures",
+        "permalink": "/integration-failures/"
+      },
+      {
+        "basename": "black_projects_87e9a4_congressional_oversi_ca0139",
+        "title": "Oversight",
+        "permalink": "/oversight/"
+      },
+      {
+        "basename": "black_projects_87e9a4_congressional_oversi_ca0139_alternative_control_1dfe1a",
+        "title": "Alt Controls",
+        "permalink": "/alt-controls/"
+      },
+      {
+        "basename": "black_projects_87e9a4_congressional_oversi_ca0139_annual_sap_reports_d395b4",
+        "title": "Annual Reports",
+        "permalink": "/annual-reports/"
+      },
+      {
+        "basename": "black_projects_87e9a4_congressional_oversi_ca0139_committee_staff_acce_d14cc7",
+        "title": "Staff Access",
+        "permalink": "/staff-access/"
+      },
+      {
+        "basename": "black_projects_87e9a4_congressional_oversi_ca0139_new_sap_duplication_11b50c",
+        "title": "New Notices",
+        "permalink": "/new-notices/"
+      },
+      {
+        "basename": "black_projects_87e9a4_congressional_oversi_ca0139_sap_declassification_c4cd08",
+        "title": "Going Public",
+        "permalink": "/going-public/"
+      },
+      {
+        "basename": "black_projects_87e9a4_congressional_oversi_ca0139_sapco_congressional_5fea75",
+        "title": "SAPCO Gate",
+        "permalink": "/sapco-gate/"
+      },
+      {
+        "basename": "black_projects_87e9a4_cover_stories_cb3f5f",
+        "title": "Cover Stories",
+        "permalink": "/cover-stories/"
+      },
+      {
+        "basename": "black_projects_87e9a4_cover_stories_cb3f5f_carveout_contract_ov_d53022",
+        "title": "Carve Outs",
+        "permalink": "/carve-outs/"
+      },
+      {
+        "basename": "black_projects_87e9a4_cover_stories_cb3f5f_classified_budget_at_05682a",
+        "title": "Hidden Budgets",
+        "permalink": "/hidden-budgets/"
+      },
+      {
+        "basename": "black_projects_87e9a4_cover_stories_cb3f5f_neutral_project_name_c4a598",
+        "title": "Neutral Names",
+        "permalink": "/neutral-names/"
+      },
+      {
+        "basename": "black_projects_87e9a4_cover_stories_cb3f5f_oak_ridge_compartmen_8cada5",
+        "title": "Oak Ridge",
+        "permalink": "/oak-ridge/"
+      },
+      {
+        "basename": "black_projects_87e9a4_cover_stories_cb3f5f_paradise_ranch_cover_dab71b",
+        "title": "Paradise Ranch",
+        "permalink": "/paradise-ranch/"
+      },
+      {
+        "basename": "black_projects_87e9a4_cover_stories_cb3f5f_visible_facility_foo_66692a",
+        "title": "Visible Footprints",
+        "permalink": "/visible-footprints/"
+      },
+      {
+        "basename": "black_projects_87e9a4_crypto_cyber_secrecy_f6988a",
+        "title": "Crypto Cyber",
+        "permalink": "/crypto-cyber/"
+      },
+      {
+        "basename": "black_projects_87e9a4_crypto_cyber_secrecy_f6988a_burning_secret_sourc_60fa1c",
+        "title": "Burning Sources",
+        "permalink": "/burning-sources/"
+      },
+      {
+        "basename": "black_projects_87e9a4_crypto_cyber_secrecy_f6988a_enigma_operating_mis_db13e6",
+        "title": "Enigma Mistakes",
+        "permalink": "/enigma-mistakes/"
+      },
+      {
+        "basename": "black_projects_87e9a4_crypto_cyber_secrecy_f6988a_eternalblue_wannacry_978a49",
+        "title": "Eternal Blue",
+        "permalink": "/eternal-blue/"
+      },
+      {
+        "basename": "black_projects_87e9a4_crypto_cyber_secrecy_f6988a_traffic_analysis_sig_7c4daa",
+        "title": "Traffic Analysis",
+        "permalink": "/traffic-analysis/"
+      },
+      {
+        "basename": "black_projects_87e9a4_crypto_cyber_secrecy_f6988a_venona_pad_reuse_4f8e24",
+        "title": "VENONA Reuse",
+        "permalink": "/venona-reuse/"
+      },
+      {
+        "basename": "black_projects_87e9a4_crypto_cyber_secrecy_f6988a_zero_day_disclosure_97bf1a",
+        "title": "Zero Day Exposure",
+        "permalink": "/zero-day-exposure/"
+      },
+      {
+        "basename": "black_projects_87e9a4_declassified_records_facf11",
+        "title": "Declassified",
+        "permalink": "/declassified/"
+      },
+      {
+        "basename": "black_projects_87e9a4_declassified_records_facf11_area51_records_2cc0c5",
+        "title": "Area 51",
+        "permalink": "/area-51-acacfb/"
+      },
+      {
+        "basename": "black_projects_87e9a4_declassified_records_facf11_corona_missile_gap_7_39a23a",
+        "title": "CORONA",
+        "permalink": "/corona/"
+      },
+      {
+        "basename": "black_projects_87e9a4_declassified_records_facf11_gambit_hexagon_recor_bac072",
+        "title": "GAMBIT HEXAGON",
+        "permalink": "/gambit-hexagon/"
+      },
+      {
+        "basename": "black_projects_87e9a4_declassified_records_facf11_release_pathways_121649",
+        "title": "Release Paths",
+        "permalink": "/release-paths/"
+      },
+      {
+        "basename": "black_projects_87e9a4_declassified_records_facf11_u2_cover_story_d7f6d5",
+        "title": "U 2 Cover",
+        "permalink": "/u-2-cover/"
+      },
+      {
+        "basename": "black_projects_87e9a4_declassified_records_facf11_venona_intercepts_09b816",
+        "title": "VENONA",
+        "permalink": "/venona/"
+      },
+      {
+        "basename": "black_projects_87e9a4_disclosure_timelines_f00941",
+        "title": "Reveals",
+        "permalink": "/reveals/"
+      },
+      {
+        "basename": "black_projects_87e9a4_disclosure_timelines_f00941_acknowledgment_vs_de_c206ce",
+        "title": "Acknowledgment Gap",
+        "permalink": "/acknowledgment-gap/"
+      },
+      {
+        "basename": "black_projects_87e9a4_disclosure_timelines_f00941_b2_early_public_roll_ce8951",
+        "title": "B 2 Rollout",
+        "permalink": "/b-2-rollout/"
+      },
+      {
+        "basename": "black_projects_87e9a4_disclosure_timelines_f00941_corona_imagery_decla_03380b",
+        "title": "CORONA Release",
+        "permalink": "/corona-release/"
+      },
+      {
+        "basename": "black_projects_87e9a4_disclosure_timelines_f00941_f117_operational_sec_2dc439",
+        "title": "F 117 Reveal",
+        "permalink": "/f-117-reveal/"
+      },
+      {
+        "basename": "black_projects_87e9a4_disclosure_timelines_f00941_manhattan_selective_3ca2d7",
+        "title": "Smyth Report",
+        "permalink": "/smyth-report/"
+      },
+      {
+        "basename": "black_projects_87e9a4_disclosure_timelines_f00941_u2_forced_acknowledg_5c7d28",
+        "title": "U 2 Shootdown",
+        "permalink": "/u-2-shootdown/"
+      },
+      {
+        "basename": "black_projects_87e9a4_electronic_counterme_e00424",
+        "title": "Electronic Countermeasures Inside Secret Aircraft...",
+        "permalink": "/electronic-countermeasures-inside/"
+      },
+      {
+        "basename": "black_projects_87e9a4_electronic_counterme_e00424_changing_radar_threa_805040",
+        "title": "Threat Libraries",
+        "permalink": "/threat-libraries/"
+      },
+      {
+        "basename": "black_projects_87e9a4_electronic_counterme_e00424_passive_radar_detect_b58a23",
+        "title": "Passive Detection",
+        "permalink": "/passive-detection/"
+      },
+      {
+        "basename": "black_projects_87e9a4_electronic_counterme_e00424_radar_deception_fals_a726a4",
+        "title": "Radar Deception",
+        "permalink": "/radar-deception/"
+      },
+      {
+        "basename": "black_projects_87e9a4_electronic_counterme_e00424_stealth_jamming_emis_2a9292",
+        "title": "Jamming Tradeoff",
+        "permalink": "/jamming-tradeoff/"
+      },
+      {
+        "basename": "black_projects_87e9a4_electronic_counterme_e00424_support_jamming_stea_2fe421",
+        "title": "Support Jamming",
+        "permalink": "/support-jamming/"
+      },
+      {
+        "basename": "black_projects_87e9a4_electronic_counterme_e00424_tacit_blue_radar_ste_165b9a",
+        "title": "Tacit Blue",
+        "permalink": "/tacit-blue-b75e88/"
+      },
+      {
+        "basename": "black_projects_87e9a4_f117_nighthawk_75a3d9",
+        "title": "F 117",
+        "permalink": "/f-117/"
+      },
+      {
+        "basename": "black_projects_87e9a4_f117_nighthawk_75a3d9_f117_1988_reveal_068016",
+        "title": "The Public Acknowledgement Of The F 117 A Nighthawk On...",
+        "permalink": "/the-public-acknowledgement-of-the-f/"
+      },
+      {
+        "basename": "black_projects_87e9a4_f117_nighthawk_75a3d9_f117_not_fighter_977458",
+        "title": "Not Fighter",
+        "permalink": "/not-fighter/"
+      },
+      {
+        "basename": "black_projects_87e9a4_f117_nighthawk_75a3d9_f117_stealth_mainten_e98156",
+        "title": "Maintenance",
+        "permalink": "/maintenance/"
+      },
+      {
+        "basename": "black_projects_87e9a4_f117_nighthawk_75a3d9_faceted_stealth_fly_62185b",
+        "title": "Fly by Wire",
+        "permalink": "/fly-by-wire-12dba8/"
+      },
+      {
+        "basename": "black_projects_87e9a4_f117_nighthawk_75a3d9_have_blue_to_f117_1e2f7d",
+        "title": "Have Blue",
+        "permalink": "/have-blue-9bbaad/"
+      },
+      {
+        "basename": "black_projects_87e9a4_f117_nighthawk_75a3d9_tonopah_secret_base_bb506c",
+        "title": "Tonopah",
+        "permalink": "/tonopah/"
+      },
+      {
+        "basename": "black_projects_87e9a4_groom_lake_testing_db41d4",
+        "title": "Groom Lake",
+        "permalink": "/groom-lake/"
+      },
+      {
+        "basename": "black_projects_87e9a4_groom_lake_testing_db41d4_a12_groom_lake_expan_6d327f",
+        "title": "A 12 Expansion",
+        "permalink": "/a-12-expansion/"
+      },
+      {
+        "basename": "black_projects_87e9a4_groom_lake_testing_db41d4_dry_lake_flight_safe_2604e6",
+        "title": "Lake Bed",
+        "permalink": "/lake-bed/"
+      },
+      {
+        "basename": "black_projects_87e9a4_groom_lake_testing_db41d4_groom_lake_air_shutt_2c8879",
+        "title": "Air Shuttles",
+        "permalink": "/air-shuttles/"
+      },
+      {
+        "basename": "black_projects_87e9a4_groom_lake_testing_db41d4_groom_lake_restricte_d8fb37",
+        "title": "Airspace",
+        "permalink": "/airspace/"
+      },
+      {
+        "basename": "black_projects_87e9a4_groom_lake_testing_db41d4_groom_lake_stealth_t_ad4c61",
+        "title": "Stealth Tests",
+        "permalink": "/stealth-tests/"
+      },
+      {
+        "basename": "black_projects_87e9a4_groom_lake_testing_db41d4_u2_testing_groom_lak_11a3cc",
+        "title": "U 2 Testing",
+        "permalink": "/u-2-testing/"
+      },
+      {
+        "basename": "black_projects_87e9a4_have_blue_95f6fc",
+        "title": "Have Blue",
+        "permalink": "/have-blue/"
+      },
+      {
+        "basename": "black_projects_87e9a4_have_blue_95f6fc_have_blue_crashes_su_d6722f",
+        "title": "Two Crashes",
+        "permalink": "/two-crashes/"
+      },
+      {
+        "basename": "black_projects_87e9a4_have_blue_95f6fc_have_blue_fly_by_wir_b06687",
+        "title": "Fly by Wire",
+        "permalink": "/fly-by-wire/"
+      },
+      {
+        "basename": "black_projects_87e9a4_have_blue_95f6fc_have_blue_radar_pred_e8de20",
+        "title": "Radar Proof",
+        "permalink": "/radar-proof/"
+      },
+      {
+        "basename": "black_projects_87e9a4_have_blue_95f6fc_have_blue_stealth_de_0d31b0",
+        "title": "Stealth Details",
+        "permalink": "/stealth-details/"
+      },
+      {
+        "basename": "black_projects_87e9a4_have_blue_95f6fc_have_blue_to_f117_1e2f7d",
+        "title": "Path to F 117",
+        "permalink": "/path-to-f-117/"
+      },
+      {
+        "basename": "black_projects_87e9a4_have_blue_95f6fc_hopeless_diamond_ste_bf5e7b",
+        "title": "Hopeless Diamond",
+        "permalink": "/hopeless-diamond/"
+      },
+      {
+        "basename": "black_projects_87e9a4_hidden_budget_costs_798d69",
+        "title": "Cost Risk",
+        "permalink": "/cost-risk/"
+      },
+      {
+        "basename": "black_projects_87e9a4_hidden_budget_costs_798d69_a12_fixed_price_fail_c11928",
+        "title": "A 12 Failure",
+        "permalink": "/a-12-failure/"
+      },
+      {
+        "basename": "black_projects_87e9a4_hidden_budget_costs_798d69_aggregate_budgets_hi_d3939d",
+        "title": "Hidden Overruns",
+        "permalink": "/hidden-overruns/"
+      },
+      {
+        "basename": "black_projects_87e9a4_hidden_budget_costs_798d69_b2_cost_surge_13a530",
+        "title": "B 2 Costs",
+        "permalink": "/b-2-costs/"
+      },
+      {
+        "basename": "black_projects_87e9a4_hidden_budget_costs_798d69_classified_contracto_a2b4a6",
+        "title": "Contractor Lock In",
+        "permalink": "/contractor-lock-in/"
+      },
+      {
+        "basename": "black_projects_87e9a4_hidden_budget_costs_798d69_compartmentation_del_ef8fcb",
+        "title": "Delayed Warnings",
+        "permalink": "/delayed-warnings/"
+      },
+      {
+        "basename": "black_projects_87e9a4_hidden_budget_costs_798d69_secret_program_cost_42414b",
+        "title": "Cost Controls",
+        "permalink": "/cost-controls/"
+      },
+      {
+        "basename": "black_projects_87e9a4_intelligence_sources_e3f298",
+        "title": "Intelligence sources",
+        "permalink": "/intelligence-sources/"
+      },
+      {
+        "basename": "black_projects_87e9a4_intelligence_sources_e3f298_classification_guide_6884ea",
+        "title": "Guide Rules",
+        "permalink": "/guide-rules/"
+      },
+      {
+        "basename": "black_projects_87e9a4_intelligence_sources_e3f298_compartmentation_fra_ed4674",
+        "title": "Compartmentation",
+        "permalink": "/compartmentation/"
+      },
+      {
+        "basename": "black_projects_87e9a4_intelligence_sources_e3f298_cover_companies_prog_9b74d4",
+        "title": "Cover Networks",
+        "permalink": "/cover-networks/"
+      },
+      {
+        "basename": "black_projects_87e9a4_intelligence_sources_e3f298_human_source_identif_91b97c",
+        "title": "Human Sources",
+        "permalink": "/human-sources/"
+      },
+      {
+        "basename": "black_projects_87e9a4_intelligence_sources_e3f298_mosaic_problem_secre_d28e78",
+        "title": "Mosaic Risk",
+        "permalink": "/mosaic-risk/"
+      },
+      {
+        "basename": "black_projects_87e9a4_intelligence_sources_e3f298_sensor_limits_real_s_1cdd95",
+        "title": "Sensor Limits",
+        "permalink": "/sensor-limits/"
+      }
+    ],
+    "top_inline_internal_targets": [
+      {
+        "basename": "black_projects_87e9a4",
+        "title": "What Secret Programs Reveal Years Later",
+        "permalink": "/black-projects/",
+        "inline_inbound_count": 149
+      },
+      {
+        "basename": "black_projects_87e9a4_u2_spy_plane_88d3f3",
+        "title": "U 2",
+        "permalink": "/u-2/",
+        "inline_inbound_count": 60
+      },
+      {
+        "basename": "black_projects_87e9a4_declassified_records_facf11",
+        "title": "Declassified",
+        "permalink": "/declassified/",
+        "inline_inbound_count": 58
+      },
+      {
+        "basename": "black_projects_87e9a4_f117_nighthawk_75a3d9",
+        "title": "F 117",
+        "permalink": "/f-117/",
+        "inline_inbound_count": 50
+      },
+      {
+        "basename": "black_projects_87e9a4_secrecy_accountabili_6ccbcd",
+        "title": "Accountability",
+        "permalink": "/accountability/",
+        "inline_inbound_count": 49
+      },
+      {
+        "basename": "black_projects_87e9a4_stealth_secrecy_6c60c7_radar_cross_section_5ee169",
+        "title": "Radar Signature",
+        "permalink": "/radar-signature/",
+        "inline_inbound_count": 46
+      },
+      {
+        "basename": "black_projects_87e9a4_black_budget_dea93a_hidden_contractor_ac_7e041c",
+        "title": "Contractors",
+        "permalink": "/contractors/",
+        "inline_inbound_count": 44
+      },
+      {
+        "basename": "black_projects_87e9a4_groom_lake_testing_db41d4_groom_lake_restricte_d8fb37",
+        "title": "Airspace",
+        "permalink": "/airspace/",
+        "inline_inbound_count": 42
+      },
+      {
+        "basename": "black_projects_87e9a4_f117_nighthawk_75a3d9_f117_stealth_mainten_e98156",
+        "title": "Maintenance",
+        "permalink": "/maintenance/",
+        "inline_inbound_count": 40
+      },
+      {
+        "basename": "black_projects_87e9a4_b2_spirit_863e66",
+        "title": "B 2",
+        "permalink": "/b-2/",
+        "inline_inbound_count": 31
+      },
+      {
+        "basename": "black_projects_87e9a4_skunk_works_3828a1",
+        "title": "Skunk Works",
+        "permalink": "/skunk-works/",
+        "inline_inbound_count": 30
+      },
+      {
+        "basename": "black_projects_87e9a4_u2_spy_plane_88d3f3_u2_to_spy_satellites_c954f7",
+        "title": "Satellites",
+        "permalink": "/satellites/",
+        "inline_inbound_count": 30
+      },
+      {
+        "basename": "black_projects_87e9a4_compartmented_teams_8af5ba",
+        "title": "Teams",
+        "permalink": "/teams/",
+        "inline_inbound_count": 29
+      },
+      {
+        "basename": "black_projects_87e9a4_popular_culture_myth_5d22b9",
+        "title": "Culture",
+        "permalink": "/culture/",
+        "inline_inbound_count": 29
+      },
+      {
+        "basename": "black_projects_87e9a4_intelligence_sources_e3f298",
+        "title": "Intelligence sources",
+        "permalink": "/intelligence-sources/",
+        "inline_inbound_count": 28
+      },
+      {
+        "basename": "black_projects_87e9a4_compartmented_teams_8af5ba_need_to_know_enginee_6e1acc",
+        "title": "Need to Know",
+        "permalink": "/need-to-know/",
+        "inline_inbound_count": 26
+      },
+      {
+        "basename": "black_projects_87e9a4_disclosure_timelines_f00941",
+        "title": "Reveals",
+        "permalink": "/reveals/",
+        "inline_inbound_count": 26
+      },
+      {
+        "basename": "black_projects_87e9a4_intelligence_sources_e3f298_compartmentation_fra_ed4674",
+        "title": "Compartmentation",
+        "permalink": "/compartmentation/",
+        "inline_inbound_count": 26
+      },
+      {
+        "basename": "black_projects_87e9a4_operational_surprise_15e46e",
+        "title": "Surprise",
+        "permalink": "/surprise/",
+        "inline_inbound_count": 26
+      },
+      {
+        "basename": "black_projects_87e9a4_overclassification_t_f052cc",
+        "title": "Trust",
+        "permalink": "/trust/",
+        "inline_inbound_count": 25
+      },
+      {
+        "basename": "black_projects_87e9a4_sr71_blackbird_3084c1",
+        "title": "SR 71",
+        "permalink": "/sr-71/",
+        "inline_inbound_count": 20
+      },
+      {
+        "basename": "black_projects_87e9a4_secrecy_accountabili_6ccbcd_public_knowledge_sec_032e74",
+        "title": "Public Disclosure",
+        "permalink": "/public-disclosure/",
+        "inline_inbound_count": 19
+      },
+      {
+        "basename": "black_projects_87e9a4_u2_spy_plane_88d3f3_eisenhower_u2_approv_96e190",
+        "title": "Approval",
+        "permalink": "/approval/",
+        "inline_inbound_count": 16
+      },
+      {
+        "basename": "black_projects_87e9a4_cover_stories_cb3f5f",
+        "title": "Cover Stories",
+        "permalink": "/cover-stories/",
+        "inline_inbound_count": 15
+      },
+      {
+        "basename": "black_projects_87e9a4_special_access_progr_550fe1_sap_compartments_cbdf6f",
+        "title": "Compartments",
+        "permalink": "/compartments/",
+        "inline_inbound_count": 14
+      },
+      {
+        "basename": "black_projects_87e9a4_u2_spy_plane_88d3f3_u2_civilian_cover_st_5c5602",
+        "title": "Cover Story",
+        "permalink": "/cover-story/",
+        "inline_inbound_count": 14
+      },
+      {
+        "basename": "black_projects_87e9a4_operational_surprise_15e46e_air_defence_network_25dfe1",
+        "title": "Air Defence Disruption",
+        "permalink": "/air-defence-disruption/",
+        "inline_inbound_count": 13
+      },
+      {
+        "basename": "black_projects_87e9a4_remote_basing_418e55",
+        "title": "Basing",
+        "permalink": "/basing/",
+        "inline_inbound_count": 13
+      },
+      {
+        "basename": "black_projects_87e9a4_b2_spirit_863e66_b2_flying_wing_shape_bb4c87",
+        "title": "Flying Wing",
+        "permalink": "/flying-wing/",
+        "inline_inbound_count": 12
+      },
+      {
+        "basename": "black_projects_87e9a4_a12_oxcart_73d759_black_shield_mission_ca4a2e",
+        "title": "BLACK SHIELD",
+        "permalink": "/black-shield/",
+        "inline_inbound_count": 9
+      },
+      {
+        "basename": "black_projects_87e9a4_b2_spirit_863e66_b2_internal_weapons_18bbf0",
+        "title": "Weapons Bays",
+        "permalink": "/weapons-bays/",
+        "inline_inbound_count": 9
+      },
+      {
+        "basename": "black_projects_87e9a4_black_budget_dea93a",
+        "title": "Black Budget",
+        "permalink": "/black-budget/",
+        "inline_inbound_count": 9
+      },
+      {
+        "basename": "black_projects_87e9a4_f117_nighthawk_75a3d9_tonopah_secret_base_bb506c",
+        "title": "Tonopah",
+        "permalink": "/tonopah/",
+        "inline_inbound_count": 9
+      },
+      {
+        "basename": "black_projects_87e9a4_declassified_records_facf11_corona_missile_gap_7_39a23a",
+        "title": "CORONA",
+        "permalink": "/corona/",
+        "inline_inbound_count": 8
+      },
+      {
+        "basename": "black_projects_87e9a4_rumors_vs_evidence_258660_u2_a12_verifiable_tr_836c71",
+        "title": "U 2 and A 12",
+        "permalink": "/u-2-and-a-12/",
+        "inline_inbound_count": 8
+      },
+      {
+        "basename": "black_projects_87e9a4_black_budget_dea93a_intelligence_budget_ac5a94",
+        "title": "Budget Games",
+        "permalink": "/budget-games/",
+        "inline_inbound_count": 7
+      },
+      {
+        "basename": "black_projects_87e9a4_congressional_oversi_ca0139_annual_sap_reports_d395b4",
+        "title": "Annual Reports",
+        "permalink": "/annual-reports/",
+        "inline_inbound_count": 7
+      },
+      {
+        "basename": "black_projects_87e9a4_sr71_blackbird_3084c1_sr71_early_stealth_eff988",
+        "title": "Early Stealth",
+        "permalink": "/early-stealth/",
+        "inline_inbound_count": 7
+      },
+      {
+        "basename": "black_projects_87e9a4_area51_rumors_14a0e7_restricted_roads_myt_5ca775",
+        "title": "Warning Signs",
+        "permalink": "/warning-signs/",
+        "inline_inbound_count": 6
+      },
+      {
+        "basename": "black_projects_87e9a4_tacit_blue_b94c60_tacit_blue_curved_st_1b2084",
+        "title": "Curved Stealth",
+        "permalink": "/curved-stealth/",
+        "inline_inbound_count": 6
+      }
+    ],
+    "top_related_report_targets": [],
+    "unresolved_inline_internal_targets": [],
+    "unresolved_related_report_targets": [],
+    "edge_samples": [
+      {
+        "from": "black_projects_87e9a4",
+        "to": "black_projects_87e9a4_a12_oxcart_73d759",
+        "type": "child"
+      },
+      {
+        "from": "black_projects_87e9a4",
+        "to": "black_projects_87e9a4_area51_rumors_14a0e7",
+        "type": "child"
+      },
+      {
+        "from": "black_projects_87e9a4",
+        "to": "black_projects_87e9a4_b2_spirit_863e66",
+        "type": "child"
+      },
+      {
+        "from": "black_projects_87e9a4",
+        "to": "black_projects_87e9a4_beyond_aircraft_96c311",
+        "type": "child"
+      },
+      {
+        "from": "black_projects_87e9a4",
+        "to": "black_projects_87e9a4_black_budget_dea93a",
+        "type": "child"
+      },
+      {
+        "from": "black_projects_87e9a4",
+        "to": "black_projects_87e9a4_compartmented_teams_8af5ba",
+        "type": "child"
+      },
+      {
+        "from": "black_projects_87e9a4",
+        "to": "black_projects_87e9a4_congressional_oversi_ca0139",
+        "type": "child"
+      },
+      {
+        "from": "black_projects_87e9a4",
+        "to": "black_projects_87e9a4_cover_stories_cb3f5f",
+        "type": "child"
+      },
+      {
+        "from": "black_projects_87e9a4",
+        "to": "black_projects_87e9a4_crypto_cyber_secrecy_f6988a",
+        "type": "child"
+      },
+      {
+        "from": "black_projects_87e9a4",
+        "to": "black_projects_87e9a4_declassified_records_facf11",
+        "type": "child"
+      },
+      {
+        "from": "black_projects_87e9a4",
+        "to": "black_projects_87e9a4_disclosure_timelines_f00941",
+        "type": "child"
+      },
+      {
+        "from": "black_projects_87e9a4",
+        "to": "black_projects_87e9a4_electronic_counterme_e00424",
+        "type": "child"
+      },
+      {
+        "from": "black_projects_87e9a4",
+        "to": "black_projects_87e9a4_f117_nighthawk_75a3d9",
+        "type": "child"
+      },
+      {
+        "from": "black_projects_87e9a4",
+        "to": "black_projects_87e9a4_groom_lake_testing_db41d4",
+        "type": "child"
+      },
+      {
+        "from": "black_projects_87e9a4",
+        "to": "black_projects_87e9a4_have_blue_95f6fc",
+        "type": "child"
+      },
+      {
+        "from": "black_projects_87e9a4",
+        "to": "black_projects_87e9a4_hidden_budget_costs_798d69",
+        "type": "child"
+      },
+      {
+        "from": "black_projects_87e9a4",
+        "to": "black_projects_87e9a4_index",
+        "type": "child"
+      },
+      {
+        "from": "black_projects_87e9a4",
+        "to": "black_projects_87e9a4_intelligence_sources_e3f298",
+        "type": "child"
+      },
+      {
+        "from": "black_projects_87e9a4",
+        "to": "black_projects_87e9a4_operational_surprise_15e46e",
+        "type": "child"
+      },
+      {
+        "from": "black_projects_87e9a4",
+        "to": "black_projects_87e9a4_overclassification_t_f052cc",
+        "type": "child"
+      },
+      {
+        "from": "black_projects_87e9a4",
+        "to": "black_projects_87e9a4_popular_culture_myth_5d22b9",
+        "type": "child"
+      },
+      {
+        "from": "black_projects_87e9a4",
+        "to": "black_projects_87e9a4_recon_surprise_92a79_32341b",
+        "type": "child"
+      },
+      {
+        "from": "black_projects_87e9a4",
+        "to": "black_projects_87e9a4_remote_basing_418e55",
+        "type": "child"
+      },
+      {
+        "from": "black_projects_87e9a4",
+        "to": "black_projects_87e9a4_rumors_vs_evidence_258660",
+        "type": "child"
+      },
+      {
+        "from": "black_projects_87e9a4",
+        "to": "black_projects_87e9a4_secrecy_accountabili_6ccbcd",
+        "type": "child"
+      },
+      {
+        "from": "black_projects_87e9a4",
+        "to": "black_projects_87e9a4_skunk_works_3828a1",
+        "type": "child"
+      },
+      {
+        "from": "black_projects_87e9a4",
+        "to": "black_projects_87e9a4_special_access_progr_550fe1",
+        "type": "child"
+      },
+      {
+        "from": "black_projects_87e9a4",
+        "to": "black_projects_87e9a4_sr71_blackbird_3084c1",
+        "type": "child"
+      },
+      {
+        "from": "black_projects_87e9a4",
+        "to": "black_projects_87e9a4_stealth_secrecy_6c60c7",
+        "type": "child"
+      },
+      {
+        "from": "black_projects_87e9a4",
+        "to": "black_projects_87e9a4_tacit_blue_b94c60",
+        "type": "child"
+      },
+      {
+        "from": "black_projects_87e9a4",
+        "to": "black_projects_87e9a4_u2_spy_plane_88d3f3",
+        "type": "child"
+      },
+      {
+        "from": "black_projects_87e9a4_b2_spirit_863e66",
+        "to": "black_projects_87e9a4",
+        "type": "parent"
+      },
+      {
+        "from": "black_projects_87e9a4_b2_spirit_863e66",
+        "to": "black_projects_87e9a4_a12_oxcart_73d759",
+        "type": "sibling"
+      },
+      {
+        "from": "black_projects_87e9a4_b2_spirit_863e66",
+        "to": "black_projects_87e9a4_area51_rumors_14a0e7",
+        "type": "sibling"
+      },
+      {
+        "from": "black_projects_87e9a4_b2_spirit_863e66",
+        "to": "black_projects_87e9a4_beyond_aircraft_96c311",
+        "type": "sibling"
+      },
+      {
+        "from": "black_projects_87e9a4_b2_spirit_863e66",
+        "to": "black_projects_87e9a4_black_budget_dea93a",
+        "type": "sibling"
+      },
+      {
+        "from": "black_projects_87e9a4_b2_spirit_863e66",
+        "to": "black_projects_87e9a4_compartmented_teams_8af5ba",
+        "type": "sibling"
+      },
+      {
+        "from": "black_projects_87e9a4_b2_spirit_863e66",
+        "to": "black_projects_87e9a4_congressional_oversi_ca0139",
+        "type": "sibling"
+      },
+      {
+        "from": "black_projects_87e9a4_b2_spirit_863e66",
+        "to": "black_projects_87e9a4_cover_stories_cb3f5f",
+        "type": "sibling"
+      },
+      {
+        "from": "black_projects_87e9a4_b2_spirit_863e66",
+        "to": "black_projects_87e9a4_crypto_cyber_secrecy_f6988a",
+        "type": "sibling"
+      },
+      {
+        "from": "black_projects_87e9a4_b2_spirit_863e66",
+        "to": "black_projects_87e9a4_declassified_records_facf11",
+        "type": "sibling"
+      },
+      {
+        "from": "black_projects_87e9a4_b2_spirit_863e66",
+        "to": "black_projects_87e9a4_disclosure_timelines_f00941",
+        "type": "sibling"
+      },
+      {
+        "from": "black_projects_87e9a4_b2_spirit_863e66",
+        "to": "black_projects_87e9a4_electronic_counterme_e00424",
+        "type": "sibling"
+      },
+      {
+        "from": "black_projects_87e9a4_b2_spirit_863e66",
+        "to": "black_projects_87e9a4_f117_nighthawk_75a3d9",
+        "type": "sibling"
+      },
+      {
+        "from": "black_projects_87e9a4_b2_spirit_863e66",
+        "to": "black_projects_87e9a4_groom_lake_testing_db41d4",
+        "type": "sibling"
+      },
+      {
+        "from": "black_projects_87e9a4_b2_spirit_863e66",
+        "to": "black_projects_87e9a4_have_blue_95f6fc",
+        "type": "sibling"
+      },
+      {
+        "from": "black_projects_87e9a4_b2_spirit_863e66",
+        "to": "black_projects_87e9a4_hidden_budget_costs_798d69",
+        "type": "sibling"
+      },
+      {
+        "from": "black_projects_87e9a4_b2_spirit_863e66",
+        "to": "black_projects_87e9a4_intelligence_sources_e3f298",
+        "type": "sibling"
+      },
+      {
+        "from": "black_projects_87e9a4_b2_spirit_863e66",
+        "to": "black_projects_87e9a4_operational_surprise_15e46e",
+        "type": "sibling"
+      },
+      {
+        "from": "black_projects_87e9a4_b2_spirit_863e66",
+        "to": "black_projects_87e9a4_overclassification_t_f052cc",
+        "type": "sibling"
+      },
+      {
+        "from": "black_projects_87e9a4_b2_spirit_863e66",
+        "to": "black_projects_87e9a4_popular_culture_myth_5d22b9",
+        "type": "sibling"
+      },
+      {
+        "from": "black_projects_87e9a4_b2_spirit_863e66",
+        "to": "black_projects_87e9a4_recon_surprise_92a79_32341b",
+        "type": "sibling"
+      },
+      {
+        "from": "black_projects_87e9a4_b2_spirit_863e66",
+        "to": "black_projects_87e9a4_remote_basing_418e55",
+        "type": "sibling"
+      },
+      {
+        "from": "black_projects_87e9a4_b2_spirit_863e66",
+        "to": "black_projects_87e9a4_rumors_vs_evidence_258660",
+        "type": "sibling"
+      },
+      {
+        "from": "black_projects_87e9a4_b2_spirit_863e66",
+        "to": "black_projects_87e9a4_secrecy_accountabili_6ccbcd",
+        "type": "sibling"
+      },
+      {
+        "from": "black_projects_87e9a4_b2_spirit_863e66",
+        "to": "black_projects_87e9a4_skunk_works_3828a1",
+        "type": "sibling"
+      },
+      {
+        "from": "black_projects_87e9a4_b2_spirit_863e66",
+        "to": "black_projects_87e9a4_special_access_progr_550fe1",
+        "type": "sibling"
+      },
+      {
+        "from": "black_projects_87e9a4_b2_spirit_863e66",
+        "to": "black_projects_87e9a4_sr71_blackbird_3084c1",
+        "type": "sibling"
+      },
+      {
+        "from": "black_projects_87e9a4_b2_spirit_863e66",
+        "to": "black_projects_87e9a4_stealth_secrecy_6c60c7",
+        "type": "sibling"
+      },
+      {
+        "from": "black_projects_87e9a4_b2_spirit_863e66",
+        "to": "black_projects_87e9a4_tacit_blue_b94c60",
+        "type": "sibling"
+      },
+      {
+        "from": "black_projects_87e9a4_b2_spirit_863e66",
+        "to": "black_projects_87e9a4_u2_spy_plane_88d3f3",
+        "type": "sibling"
+      },
+      {
+        "from": "black_projects_87e9a4_b2_spirit_863e66",
+        "to": "black_projects_87e9a4_b2_spirit_863e66_b2_1988_public_rollo_5a41f7",
+        "type": "child"
+      },
+      {
+        "from": "black_projects_87e9a4_b2_spirit_863e66",
+        "to": "black_projects_87e9a4_b2_spirit_863e66_b2_flying_wing_shape_bb4c87",
+        "type": "child"
+      },
+      {
+        "from": "black_projects_87e9a4_b2_spirit_863e66",
+        "to": "black_projects_87e9a4_b2_spirit_863e66_b2_internal_weapons_18bbf0",
+        "type": "child"
+      },
+      {
+        "from": "black_projects_87e9a4_b2_spirit_863e66",
+        "to": "black_projects_87e9a4_b2_spirit_863e66_b2_stealth_cost_trad_332ef5",
+        "type": "child"
+      },
+      {
+        "from": "black_projects_87e9a4_b2_spirit_863e66",
+        "to": "black_projects_87e9a4_b2_spirit_863e66_b2_stealth_not_invis_0687b7",
+        "type": "child"
+      },
+      {
+        "from": "black_projects_87e9a4_b2_spirit_863e66",
+        "to": "black_projects_87e9a4_b2_spirit_863e66_index",
+        "type": "child"
+      },
+      {
+        "from": "black_projects_87e9a4_b2_spirit_863e66",
+        "to": "black_projects_87e9a4_b2_spirit_863e66_tacit_blue_curved_st_1b2084",
+        "type": "child"
+      },
+      {
+        "from": "black_projects_87e9a4_b2_spirit_863e66",
+        "to": "black_projects_87e9a4",
+        "type": "ancestor"
+      },
+      {
+        "from": "black_projects_87e9a4_have_blue_95f6fc",
+        "to": "black_projects_87e9a4",
+        "type": "parent"
+      },
+      {
+        "from": "black_projects_87e9a4_have_blue_95f6fc",
+        "to": "black_projects_87e9a4_a12_oxcart_73d759",
+        "type": "sibling"
+      },
+      {
+        "from": "black_projects_87e9a4_have_blue_95f6fc",
+        "to": "black_projects_87e9a4_area51_rumors_14a0e7",
+        "type": "sibling"
+      },
+      {
+        "from": "black_projects_87e9a4_have_blue_95f6fc",
+        "to": "black_projects_87e9a4_b2_spirit_863e66",
+        "type": "sibling"
+      },
+      {
+        "from": "black_projects_87e9a4_have_blue_95f6fc",
+        "to": "black_projects_87e9a4_beyond_aircraft_96c311",
+        "type": "sibling"
+      },
+      {
+        "from": "black_projects_87e9a4_have_blue_95f6fc",
+        "to": "black_projects_87e9a4_black_budget_dea93a",
+        "type": "sibling"
+      },
+      {
+        "from": "black_projects_87e9a4_have_blue_95f6fc",
+        "to": "black_projects_87e9a4_compartmented_teams_8af5ba",
+        "type": "sibling"
+      },
+      {
+        "from": "black_projects_87e9a4_have_blue_95f6fc",
+        "to": "black_projects_87e9a4_congressional_oversi_ca0139",
+        "type": "sibling"
+      },
+      {
+        "from": "black_projects_87e9a4_have_blue_95f6fc",
+        "to": "black_projects_87e9a4_cover_stories_cb3f5f",
+        "type": "sibling"
+      },
+      {
+        "from": "black_projects_87e9a4_have_blue_95f6fc",
+        "to": "black_projects_87e9a4_crypto_cyber_secrecy_f6988a",
+        "type": "sibling"
+      },
+      {
+        "from": "black_projects_87e9a4_have_blue_95f6fc",
+        "to": "black_projects_87e9a4_declassified_records_facf11",
+        "type": "sibling"
+      },
+      {
+        "from": "black_projects_87e9a4_have_blue_95f6fc",
+        "to": "black_projects_87e9a4_disclosure_timelines_f00941",
+        "type": "sibling"
+      },
+      {
+        "from": "black_projects_87e9a4_have_blue_95f6fc",
+        "to": "black_projects_87e9a4_electronic_counterme_e00424",
+        "type": "sibling"
+      },
+      {
+        "from": "black_projects_87e9a4_have_blue_95f6fc",
+        "to": "black_projects_87e9a4_f117_nighthawk_75a3d9",
+        "type": "sibling"
+      },
+      {
+        "from": "black_projects_87e9a4_have_blue_95f6fc",
+        "to": "black_projects_87e9a4_groom_lake_testing_db41d4",
+        "type": "sibling"
+      },
+      {
+        "from": "black_projects_87e9a4_have_blue_95f6fc",
+        "to": "black_projects_87e9a4_hidden_budget_costs_798d69",
+        "type": "sibling"
+      },
+      {
+        "from": "black_projects_87e9a4_have_blue_95f6fc",
+        "to": "black_projects_87e9a4_intelligence_sources_e3f298",
+        "type": "sibling"
+      },
+      {
+        "from": "black_projects_87e9a4_have_blue_95f6fc",
+        "to": "black_projects_87e9a4_operational_surprise_15e46e",
+        "type": "sibling"
+      },
+      {
+        "from": "black_projects_87e9a4_have_blue_95f6fc",
+        "to": "black_projects_87e9a4_overclassification_t_f052cc",
+        "type": "sibling"
+      },
+      {
+        "from": "black_projects_87e9a4_have_blue_95f6fc",
+        "to": "black_projects_87e9a4_popular_culture_myth_5d22b9",
+        "type": "sibling"
+      },
+      {
+        "from": "black_projects_87e9a4_have_blue_95f6fc",
+        "to": "black_projects_87e9a4_recon_surprise_92a79_32341b",
+        "type": "sibling"
+      },
+      {
+        "from": "black_projects_87e9a4_have_blue_95f6fc",
+        "to": "black_projects_87e9a4_remote_basing_418e55",
+        "type": "sibling"
+      },
+      {
+        "from": "black_projects_87e9a4_have_blue_95f6fc",
+        "to": "black_projects_87e9a4_rumors_vs_evidence_258660",
+        "type": "sibling"
+      },
+      {
+        "from": "black_projects_87e9a4_have_blue_95f6fc",
+        "to": "black_projects_87e9a4_secrecy_accountabili_6ccbcd",
+        "type": "sibling"
+      },
+      {
+        "from": "black_projects_87e9a4_have_blue_95f6fc",
+        "to": "black_projects_87e9a4_skunk_works_3828a1",
+        "type": "sibling"
+      },
+      {
+        "from": "black_projects_87e9a4_have_blue_95f6fc",
+        "to": "black_projects_87e9a4_special_access_progr_550fe1",
+        "type": "sibling"
+      },
+      {
+        "from": "black_projects_87e9a4_have_blue_95f6fc",
+        "to": "black_projects_87e9a4_sr71_blackbird_3084c1",
+        "type": "sibling"
+      },
+      {
+        "from": "black_projects_87e9a4_have_blue_95f6fc",
+        "to": "black_projects_87e9a4_stealth_secrecy_6c60c7",
+        "type": "sibling"
+      },
+      {
+        "from": "black_projects_87e9a4_have_blue_95f6fc",
+        "to": "black_projects_87e9a4_tacit_blue_b94c60",
+        "type": "sibling"
+      },
+      {
+        "from": "black_projects_87e9a4_have_blue_95f6fc",
+        "to": "black_projects_87e9a4_u2_spy_plane_88d3f3",
+        "type": "sibling"
+      },
+      {
+        "from": "black_projects_87e9a4_have_blue_95f6fc",
+        "to": "black_projects_87e9a4_have_blue_95f6fc_have_blue_crashes_su_d6722f",
+        "type": "child"
+      },
+      {
+        "from": "black_projects_87e9a4_have_blue_95f6fc",
+        "to": "black_projects_87e9a4_have_blue_95f6fc_have_blue_fly_by_wir_b06687",
+        "type": "child"
+      },
+      {
+        "from": "black_projects_87e9a4_have_blue_95f6fc",
+        "to": "black_projects_87e9a4_have_blue_95f6fc_have_blue_radar_pred_e8de20",
+        "type": "child"
+      },
+      {
+        "from": "black_projects_87e9a4_have_blue_95f6fc",
+        "to": "black_projects_87e9a4_have_blue_95f6fc_have_blue_stealth_de_0d31b0",
+        "type": "child"
+      },
+      {
+        "from": "black_projects_87e9a4_have_blue_95f6fc",
+        "to": "black_projects_87e9a4_have_blue_95f6fc_have_blue_to_f117_1e2f7d",
+        "type": "child"
+      },
+      {
+        "from": "black_projects_87e9a4_have_blue_95f6fc",
+        "to": "black_projects_87e9a4_have_blue_95f6fc_hopeless_diamond_ste_bf5e7b",
+        "type": "child"
+      },
+      {
+        "from": "black_projects_87e9a4_have_blue_95f6fc",
+        "to": "black_projects_87e9a4_have_blue_95f6fc_index",
+        "type": "child"
+      },
+      {
+        "from": "black_projects_87e9a4_have_blue_95f6fc",
+        "to": "black_projects_87e9a4",
+        "type": "ancestor"
+      },
+      {
+        "from": "black_projects_87e9a4_a12_oxcart_73d759",
+        "to": "black_projects_87e9a4",
+        "type": "parent"
+      },
+      {
+        "from": "black_projects_87e9a4_a12_oxcart_73d759",
+        "to": "black_projects_87e9a4_area51_rumors_14a0e7",
+        "type": "sibling"
+      },
+      {
+        "from": "black_projects_87e9a4_a12_oxcart_73d759",
+        "to": "black_projects_87e9a4_b2_spirit_863e66",
+        "type": "sibling"
+      },
+      {
+        "from": "black_projects_87e9a4_a12_oxcart_73d759",
+        "to": "black_projects_87e9a4_beyond_aircraft_96c311",
+        "type": "sibling"
+      },
+      {
+        "from": "black_projects_87e9a4_a12_oxcart_73d759",
+        "to": "black_projects_87e9a4_black_budget_dea93a",
+        "type": "sibling"
+      },
+      {
+        "from": "black_projects_87e9a4_a12_oxcart_73d759",
+        "to": "black_projects_87e9a4_compartmented_teams_8af5ba",
+        "type": "sibling"
+      },
+      {
+        "from": "black_projects_87e9a4_a12_oxcart_73d759",
+        "to": "black_projects_87e9a4_congressional_oversi_ca0139",
+        "type": "sibling"
+      },
+      {
+        "from": "black_projects_87e9a4_a12_oxcart_73d759",
+        "to": "black_projects_87e9a4_cover_stories_cb3f5f",
+        "type": "sibling"
+      },
+      {
+        "from": "black_projects_87e9a4_a12_oxcart_73d759",
+        "to": "black_projects_87e9a4_crypto_cyber_secrecy_f6988a",
+        "type": "sibling"
+      },
+      {
+        "from": "black_projects_87e9a4_a12_oxcart_73d759",
+        "to": "black_projects_87e9a4_declassified_records_facf11",
+        "type": "sibling"
+      },
+      {
+        "from": "black_projects_87e9a4_a12_oxcart_73d759",
+        "to": "black_projects_87e9a4_disclosure_timelines_f00941",
+        "type": "sibling"
+      },
+      {
+        "from": "black_projects_87e9a4_a12_oxcart_73d759",
+        "to": "black_projects_87e9a4_electronic_counterme_e00424",
+        "type": "sibling"
+      },
+      {
+        "from": "black_projects_87e9a4_a12_oxcart_73d759",
+        "to": "black_projects_87e9a4_f117_nighthawk_75a3d9",
+        "type": "sibling"
+      },
+      {
+        "from": "black_projects_87e9a4_a12_oxcart_73d759",
+        "to": "black_projects_87e9a4_groom_lake_testing_db41d4",
+        "type": "sibling"
+      },
+      {
+        "from": "black_projects_87e9a4_a12_oxcart_73d759",
+        "to": "black_projects_87e9a4_have_blue_95f6fc",
+        "type": "sibling"
+      },
+      {
+        "from": "black_projects_87e9a4_a12_oxcart_73d759",
+        "to": "black_projects_87e9a4_hidden_budget_costs_798d69",
+        "type": "sibling"
+      },
+      {
+        "from": "black_projects_87e9a4_a12_oxcart_73d759",
+        "to": "black_projects_87e9a4_intelligence_sources_e3f298",
+        "type": "sibling"
+      },
+      {
+        "from": "black_projects_87e9a4_a12_oxcart_73d759",
+        "to": "black_projects_87e9a4_operational_surprise_15e46e",
+        "type": "sibling"
+      },
+      {
+        "from": "black_projects_87e9a4_a12_oxcart_73d759",
+        "to": "black_projects_87e9a4_overclassification_t_f052cc",
+        "type": "sibling"
+      },
+      {
+        "from": "black_projects_87e9a4_a12_oxcart_73d759",
+        "to": "black_projects_87e9a4_popular_culture_myth_5d22b9",
+        "type": "sibling"
+      },
+      {
+        "from": "black_projects_87e9a4_a12_oxcart_73d759",
+        "to": "black_projects_87e9a4_recon_surprise_92a79_32341b",
+        "type": "sibling"
+      },
+      {
+        "from": "black_projects_87e9a4_a12_oxcart_73d759",
+        "to": "black_projects_87e9a4_remote_basing_418e55",
+        "type": "sibling"
+      },
+      {
+        "from": "black_projects_87e9a4_a12_oxcart_73d759",
+        "to": "black_projects_87e9a4_rumors_vs_evidence_258660",
+        "type": "sibling"
+      },
+      {
+        "from": "black_projects_87e9a4_a12_oxcart_73d759",
+        "to": "black_projects_87e9a4_secrecy_accountabili_6ccbcd",
+        "type": "sibling"
+      },
+      {
+        "from": "black_projects_87e9a4_a12_oxcart_73d759",
+        "to": "black_projects_87e9a4_skunk_works_3828a1",
+        "type": "sibling"
+      },
+      {
+        "from": "black_projects_87e9a4_a12_oxcart_73d759",
+        "to": "black_projects_87e9a4_special_access_progr_550fe1",
+        "type": "sibling"
+      },
+      {
+        "from": "black_projects_87e9a4_a12_oxcart_73d759",
+        "to": "black_projects_87e9a4_sr71_blackbird_3084c1",
+        "type": "sibling"
+      },
+      {
+        "from": "black_projects_87e9a4_a12_oxcart_73d759",
+        "to": "black_projects_87e9a4_stealth_secrecy_6c60c7",
+        "type": "sibling"
+      },
+      {
+        "from": "black_projects_87e9a4_a12_oxcart_73d759",
+        "to": "black_projects_87e9a4_tacit_blue_b94c60",
+        "type": "sibling"
+      },
+      {
+        "from": "black_projects_87e9a4_a12_oxcart_73d759",
+        "to": "black_projects_87e9a4_u2_spy_plane_88d3f3",
+        "type": "sibling"
+      },
+      {
+        "from": "black_projects_87e9a4_a12_oxcart_73d759",
+        "to": "black_projects_87e9a4_a12_oxcart_73d759_a12_outrun_missiles_6655a0",
+        "type": "child"
+      },
+      {
+        "from": "black_projects_87e9a4_a12_oxcart_73d759",
+        "to": "black_projects_87e9a4_a12_oxcart_73d759_a12_titanium_challen_509d4a",
+        "type": "child"
+      },
+      {
+        "from": "black_projects_87e9a4_a12_oxcart_73d759",
+        "to": "black_projects_87e9a4_a12_oxcart_73d759_a12_vs_sr71_tradeoff_d30373",
+        "type": "child"
+      },
+      {
+        "from": "black_projects_87e9a4_a12_oxcart_73d759",
+        "to": "black_projects_87e9a4_a12_oxcart_73d759_black_shield_mission_ca4a2e",
+        "type": "child"
+      },
+      {
+        "from": "black_projects_87e9a4_a12_oxcart_73d759",
+        "to": "black_projects_87e9a4_a12_oxcart_73d759_groom_lake_oxcart_te_190944",
+        "type": "child"
+      },
+      {
+        "from": "black_projects_87e9a4_a12_oxcart_73d759",
+        "to": "black_projects_87e9a4_a12_oxcart_73d759_index",
+        "type": "child"
+      },
+      {
+        "from": "black_projects_87e9a4_a12_oxcart_73d759",
+        "to": "black_projects_87e9a4_a12_oxcart_73d759_why_oxcart_ended_4be920",
+        "type": "child"
+      },
+      {
+        "from": "black_projects_87e9a4_a12_oxcart_73d759",
+        "to": "black_projects_87e9a4",
+        "type": "ancestor"
+      },
+      {
+        "from": "black_projects_87e9a4_tacit_blue_b94c60",
+        "to": "black_projects_87e9a4",
+        "type": "parent"
+      },
+      {
+        "from": "black_projects_87e9a4_tacit_blue_b94c60",
+        "to": "black_projects_87e9a4_a12_oxcart_73d759",
+        "type": "sibling"
+      },
+      {
+        "from": "black_projects_87e9a4_tacit_blue_b94c60",
+        "to": "black_projects_87e9a4_area51_rumors_14a0e7",
+        "type": "sibling"
+      },
+      {
+        "from": "black_projects_87e9a4_tacit_blue_b94c60",
+        "to": "black_projects_87e9a4_b2_spirit_863e66",
+        "type": "sibling"
+      },
+      {
+        "from": "black_projects_87e9a4_tacit_blue_b94c60",
+        "to": "black_projects_87e9a4_beyond_aircraft_96c311",
+        "type": "sibling"
+      },
+      {
+        "from": "black_projects_87e9a4_tacit_blue_b94c60",
+        "to": "black_projects_87e9a4_black_budget_dea93a",
+        "type": "sibling"
+      },
+      {
+        "from": "black_projects_87e9a4_tacit_blue_b94c60",
+        "to": "black_projects_87e9a4_compartmented_teams_8af5ba",
+        "type": "sibling"
+      },
+      {
+        "from": "black_projects_87e9a4_tacit_blue_b94c60",
+        "to": "black_projects_87e9a4_congressional_oversi_ca0139",
+        "type": "sibling"
+      },
+      {
+        "from": "black_projects_87e9a4_tacit_blue_b94c60",
+        "to": "black_projects_87e9a4_cover_stories_cb3f5f",
+        "type": "sibling"
+      },
+      {
+        "from": "black_projects_87e9a4_tacit_blue_b94c60",
+        "to": "black_projects_87e9a4_crypto_cyber_secrecy_f6988a",
+        "type": "sibling"
+      },
+      {
+        "from": "black_projects_87e9a4_tacit_blue_b94c60",
+        "to": "black_projects_87e9a4_declassified_records_facf11",
+        "type": "sibling"
+      },
+      {
+        "from": "black_projects_87e9a4_tacit_blue_b94c60",
+        "to": "black_projects_87e9a4_disclosure_timelines_f00941",
+        "type": "sibling"
+      },
+      {
+        "from": "black_projects_87e9a4_tacit_blue_b94c60",
+        "to": "black_projects_87e9a4_electronic_counterme_e00424",
+        "type": "sibling"
+      },
+      {
+        "from": "black_projects_87e9a4_tacit_blue_b94c60",
+        "to": "black_projects_87e9a4_f117_nighthawk_75a3d9",
+        "type": "sibling"
+      },
+      {
+        "from": "black_projects_87e9a4_tacit_blue_b94c60",
+        "to": "black_projects_87e9a4_groom_lake_testing_db41d4",
+        "type": "sibling"
+      },
+      {
+        "from": "black_projects_87e9a4_tacit_blue_b94c60",
+        "to": "black_projects_87e9a4_have_blue_95f6fc",
+        "type": "sibling"
+      },
+      {
+        "from": "black_projects_87e9a4_tacit_blue_b94c60",
+        "to": "black_projects_87e9a4_hidden_budget_costs_798d69",
+        "type": "sibling"
+      },
+      {
+        "from": "black_projects_87e9a4_tacit_blue_b94c60",
+        "to": "black_projects_87e9a4_intelligence_sources_e3f298",
+        "type": "sibling"
+      },
+      {
+        "from": "black_projects_87e9a4_tacit_blue_b94c60",
+        "to": "black_projects_87e9a4_operational_surprise_15e46e",
+        "type": "sibling"
+      },
+      {
+        "from": "black_projects_87e9a4_tacit_blue_b94c60",
+        "to": "black_projects_87e9a4_overclassification_t_f052cc",
+        "type": "sibling"
+      },
+      {
+        "from": "black_projects_87e9a4_tacit_blue_b94c60",
+        "to": "black_projects_87e9a4_popular_culture_myth_5d22b9",
+        "type": "sibling"
+      },
+      {
+        "from": "black_projects_87e9a4_tacit_blue_b94c60",
+        "to": "black_projects_87e9a4_recon_surprise_92a79_32341b",
+        "type": "sibling"
+      },
+      {
+        "from": "black_projects_87e9a4_tacit_blue_b94c60",
+        "to": "black_projects_87e9a4_remote_basing_418e55",
+        "type": "sibling"
+      },
+      {
+        "from": "black_projects_87e9a4_tacit_blue_b94c60",
+        "to": "black_projects_87e9a4_rumors_vs_evidence_258660",
+        "type": "sibling"
+      },
+      {
+        "from": "black_projects_87e9a4_tacit_blue_b94c60",
+        "to": "black_projects_87e9a4_secrecy_accountabili_6ccbcd",
+        "type": "sibling"
+      },
+      {
+        "from": "black_projects_87e9a4_tacit_blue_b94c60",
+        "to": "black_projects_87e9a4_skunk_works_3828a1",
+        "type": "sibling"
+      },
+      {
+        "from": "black_projects_87e9a4_tacit_blue_b94c60",
+        "to": "black_projects_87e9a4_special_access_progr_550fe1",
+        "type": "sibling"
+      },
+      {
+        "from": "black_projects_87e9a4_tacit_blue_b94c60",
+        "to": "black_projects_87e9a4_sr71_blackbird_3084c1",
+        "type": "sibling"
+      },
+      {
+        "from": "black_projects_87e9a4_tacit_blue_b94c60",
+        "to": "black_projects_87e9a4_stealth_secrecy_6c60c7",
+        "type": "sibling"
+      },
+      {
+        "from": "black_projects_87e9a4_tacit_blue_b94c60",
+        "to": "black_projects_87e9a4_u2_spy_plane_88d3f3",
+        "type": "sibling"
+      },
+      {
+        "from": "black_projects_87e9a4_tacit_blue_b94c60",
+        "to": "black_projects_87e9a4_tacit_blue_b94c60_index",
+        "type": "child"
+      },
+      {
+        "from": "black_projects_87e9a4_tacit_blue_b94c60",
+        "to": "black_projects_87e9a4_tacit_blue_b94c60_tacit_blue_all_aspec_7f7942",
+        "type": "child"
+      },
+      {
+        "from": "black_projects_87e9a4_tacit_blue_b94c60",
+        "to": "black_projects_87e9a4_tacit_blue_b94c60_tacit_blue_b2_protot_036ae0",
+        "type": "child"
+      },
+      {
+        "from": "black_projects_87e9a4_tacit_blue_b94c60",
+        "to": "black_projects_87e9a4_tacit_blue_b94c60_tacit_blue_curved_st_1b2084",
+        "type": "child"
+      },
+      {
+        "from": "black_projects_87e9a4_tacit_blue_b94c60",
+        "to": "black_projects_87e9a4_tacit_blue_b94c60_tacit_blue_digital_f_f194a4",
+        "type": "child"
+      },
+      {
+        "from": "black_projects_87e9a4_tacit_blue_b94c60",
+        "to": "black_projects_87e9a4_tacit_blue_b94c60_tacit_blue_hidden_ra_011613",
+        "type": "child"
+      },
+      {
+        "from": "black_projects_87e9a4_tacit_blue_b94c60",
+        "to": "black_projects_87e9a4_tacit_blue_b94c60_tacit_blue_radar_fir_64d99d",
+        "type": "child"
+      },
+      {
+        "from": "black_projects_87e9a4_tacit_blue_b94c60",
+        "to": "black_projects_87e9a4",
+        "type": "ancestor"
+      },
+      {
+        "from": "black_projects_87e9a4_skunk_works_3828a1",
+        "to": "black_projects_87e9a4",
+        "type": "parent"
+      },
+      {
+        "from": "black_projects_87e9a4_skunk_works_3828a1",
+        "to": "black_projects_87e9a4_a12_oxcart_73d759",
+        "type": "sibling"
+      },
+      {
+        "from": "black_projects_87e9a4_skunk_works_3828a1",
+        "to": "black_projects_87e9a4_area51_rumors_14a0e7",
+        "type": "sibling"
+      },
+      {
+        "from": "black_projects_87e9a4_skunk_works_3828a1",
+        "to": "black_projects_87e9a4_b2_spirit_863e66",
+        "type": "sibling"
+      },
+      {
+        "from": "black_projects_87e9a4_skunk_works_3828a1",
+        "to": "black_projects_87e9a4_beyond_aircraft_96c311",
+        "type": "sibling"
+      },
+      {
+        "from": "black_projects_87e9a4_skunk_works_3828a1",
+        "to": "black_projects_87e9a4_black_budget_dea93a",
+        "type": "sibling"
+      },
+      {
+        "from": "black_projects_87e9a4_skunk_works_3828a1",
+        "to": "black_projects_87e9a4_compartmented_teams_8af5ba",
+        "type": "sibling"
+      },
+      {
+        "from": "black_projects_87e9a4_skunk_works_3828a1",
+        "to": "black_projects_87e9a4_congressional_oversi_ca0139",
+        "type": "sibling"
+      },
+      {
+        "from": "black_projects_87e9a4_skunk_works_3828a1",
+        "to": "black_projects_87e9a4_cover_stories_cb3f5f",
+        "type": "sibling"
+      },
+      {
+        "from": "black_projects_87e9a4_skunk_works_3828a1",
+        "to": "black_projects_87e9a4_crypto_cyber_secrecy_f6988a",
+        "type": "sibling"
+      },
+      {
+        "from": "black_projects_87e9a4_skunk_works_3828a1",
+        "to": "black_projects_87e9a4_declassified_records_facf11",
+        "type": "sibling"
+      },
+      {
+        "from": "black_projects_87e9a4_skunk_works_3828a1",
+        "to": "black_projects_87e9a4_disclosure_timelines_f00941",
+        "type": "sibling"
+      },
+      {
+        "from": "black_projects_87e9a4_skunk_works_3828a1",
+        "to": "black_projects_87e9a4_electronic_counterme_e00424",
+        "type": "sibling"
+      },
+      {
+        "from": "black_projects_87e9a4_skunk_works_3828a1",
+        "to": "black_projects_87e9a4_f117_nighthawk_75a3d9",
+        "type": "sibling"
+      },
+      {
+        "from": "black_projects_87e9a4_skunk_works_3828a1",
+        "to": "black_projects_87e9a4_groom_lake_testing_db41d4",
+        "type": "sibling"
+      },
+      {
+        "from": "black_projects_87e9a4_skunk_works_3828a1",
+        "to": "black_projects_87e9a4_have_blue_95f6fc",
+        "type": "sibling"
+      },
+      {
+        "from": "black_projects_87e9a4_skunk_works_3828a1",
+        "to": "black_projects_87e9a4_hidden_budget_costs_798d69",
+        "type": "sibling"
+      }
+    ],
+    "inline_edge_samples": [
+      {
+        "from": "black_projects_87e9a4",
+        "to": "black_projects_87e9a4_sr71_blackbird_3084c1",
+        "type": "inline_internal"
+      },
+      {
+        "from": "black_projects_87e9a4",
+        "to": "black_projects_87e9a4_f117_nighthawk_75a3d9",
+        "type": "inline_internal"
+      },
+      {
+        "from": "black_projects_87e9a4",
+        "to": "black_projects_87e9a4_intelligence_sources_e3f298",
+        "type": "inline_internal"
+      },
+      {
+        "from": "black_projects_87e9a4",
+        "to": "black_projects_87e9a4_declassified_records_facf11",
+        "type": "inline_internal"
+      },
+      {
+        "from": "black_projects_87e9a4",
+        "to": "black_projects_87e9a4_remote_basing_418e55",
+        "type": "inline_internal"
+      },
+      {
+        "from": "black_projects_87e9a4",
+        "to": "black_projects_87e9a4_secrecy_accountabili_6ccbcd",
+        "type": "inline_internal"
+      },
+      {
+        "from": "black_projects_87e9a4_b2_spirit_863e66",
+        "to": "black_projects_87e9a4_b2_spirit_863e66_b2_flying_wing_shape_bb4c87",
+        "type": "inline_internal"
+      },
+      {
+        "from": "black_projects_87e9a4_b2_spirit_863e66",
+        "to": "black_projects_87e9a4_operational_surprise_15e46e_air_defence_network_25dfe1",
+        "type": "inline_internal"
+      },
+      {
+        "from": "black_projects_87e9a4_b2_spirit_863e66",
+        "to": "black_projects_87e9a4",
+        "type": "inline_internal"
+      },
+      {
+        "from": "black_projects_87e9a4_b2_spirit_863e66",
+        "to": "black_projects_87e9a4_f117_nighthawk_75a3d9",
+        "type": "inline_internal"
+      },
+      {
+        "from": "black_projects_87e9a4_b2_spirit_863e66",
+        "to": "black_projects_87e9a4_b2_spirit_863e66_b2_internal_weapons_18bbf0",
+        "type": "inline_internal"
+      },
+      {
+        "from": "black_projects_87e9a4_b2_spirit_863e66",
+        "to": "black_projects_87e9a4_b2_spirit_863e66_b2_1988_public_rollo_5a41f7",
+        "type": "inline_internal"
+      },
+      {
+        "from": "black_projects_87e9a4_b2_spirit_863e66",
+        "to": "black_projects_87e9a4_operational_surprise_15e46e",
+        "type": "inline_internal"
+      },
+      {
+        "from": "black_projects_87e9a4_b2_spirit_863e66",
+        "to": "black_projects_87e9a4_remote_basing_418e55",
+        "type": "inline_internal"
+      },
+      {
+        "from": "black_projects_87e9a4_have_blue_95f6fc",
+        "to": "black_projects_87e9a4_skunk_works_3828a1",
+        "type": "inline_internal"
+      },
+      {
+        "from": "black_projects_87e9a4_have_blue_95f6fc",
+        "to": "black_projects_87e9a4_f117_nighthawk_75a3d9",
+        "type": "inline_internal"
+      },
+      {
+        "from": "black_projects_87e9a4_have_blue_95f6fc",
+        "to": "black_projects_87e9a4",
+        "type": "inline_internal"
+      },
+      {
+        "from": "black_projects_87e9a4_have_blue_95f6fc",
+        "to": "black_projects_87e9a4_stealth_secrecy_6c60c7_radar_cross_section_5ee169",
+        "type": "inline_internal"
+      },
+      {
+        "from": "black_projects_87e9a4_have_blue_95f6fc",
+        "to": "black_projects_87e9a4_have_blue_95f6fc_hopeless_diamond_ste_bf5e7b",
+        "type": "inline_internal"
+      },
+      {
+        "from": "black_projects_87e9a4_have_blue_95f6fc",
+        "to": "black_projects_87e9a4_f117_nighthawk_75a3d9_f117_stealth_mainten_e98156",
+        "type": "inline_internal"
+      },
+      {
+        "from": "black_projects_87e9a4_have_blue_95f6fc",
+        "to": "black_projects_87e9a4_b2_spirit_863e66",
+        "type": "inline_internal"
+      },
+      {
+        "from": "black_projects_87e9a4_a12_oxcart_73d759",
+        "to": "black_projects_87e9a4_u2_spy_plane_88d3f3",
+        "type": "inline_internal"
+      },
+      {
+        "from": "black_projects_87e9a4_a12_oxcart_73d759",
+        "to": "black_projects_87e9a4_skunk_works_3828a1",
+        "type": "inline_internal"
+      },
+      {
+        "from": "black_projects_87e9a4_a12_oxcart_73d759",
+        "to": "black_projects_87e9a4",
+        "type": "inline_internal"
+      },
+      {
+        "from": "black_projects_87e9a4_a12_oxcart_73d759",
+        "to": "black_projects_87e9a4_f117_nighthawk_75a3d9",
+        "type": "inline_internal"
+      },
+      {
+        "from": "black_projects_87e9a4_a12_oxcart_73d759",
+        "to": "black_projects_87e9a4_declassified_records_facf11",
+        "type": "inline_internal"
+      },
+      {
+        "from": "black_projects_87e9a4_a12_oxcart_73d759",
+        "to": "black_projects_87e9a4_sr71_blackbird_3084c1",
+        "type": "inline_internal"
+      },
+      {
+        "from": "black_projects_87e9a4_a12_oxcart_73d759",
+        "to": "black_projects_87e9a4_popular_culture_myth_5d22b9",
+        "type": "inline_internal"
+      },
+      {
+        "from": "black_projects_87e9a4_a12_oxcart_73d759",
+        "to": "black_projects_87e9a4_a12_oxcart_73d759_black_shield_mission_ca4a2e",
+        "type": "inline_internal"
+      },
+      {
+        "from": "black_projects_87e9a4_tacit_blue_b94c60",
+        "to": "black_projects_87e9a4_f117_nighthawk_75a3d9",
+        "type": "inline_internal"
+      },
+      {
+        "from": "black_projects_87e9a4_tacit_blue_b94c60",
+        "to": "black_projects_87e9a4_tacit_blue_b94c60_tacit_blue_all_aspec_7f7942",
+        "type": "inline_internal"
+      },
+      {
+        "from": "black_projects_87e9a4_tacit_blue_b94c60",
+        "to": "black_projects_87e9a4_b2_spirit_863e66",
+        "type": "inline_internal"
+      },
+      {
+        "from": "black_projects_87e9a4_tacit_blue_b94c60",
+        "to": "black_projects_87e9a4_tacit_blue_b94c60_tacit_blue_curved_st_1b2084",
+        "type": "inline_internal"
+      },
+      {
+        "from": "black_projects_87e9a4_tacit_blue_b94c60",
+        "to": "black_projects_87e9a4_tacit_blue_b94c60_tacit_blue_digital_f_f194a4",
+        "type": "inline_internal"
+      },
+      {
+        "from": "black_projects_87e9a4_tacit_blue_b94c60",
+        "to": "black_projects_87e9a4",
+        "type": "inline_internal"
+      },
+      {
+        "from": "black_projects_87e9a4_tacit_blue_b94c60",
+        "to": "black_projects_87e9a4_compartmented_teams_8af5ba",
+        "type": "inline_internal"
+      },
+      {
+        "from": "black_projects_87e9a4_skunk_works_3828a1",
+        "to": "black_projects_87e9a4",
+        "type": "inline_internal"
+      },
+      {
+        "from": "black_projects_87e9a4_skunk_works_3828a1",
+        "to": "black_projects_87e9a4_cover_stories_cb3f5f",
+        "type": "inline_internal"
+      },
+      {
+        "from": "black_projects_87e9a4_skunk_works_3828a1",
+        "to": "black_projects_87e9a4_u2_spy_plane_88d3f3",
+        "type": "inline_internal"
+      },
+      {
+        "from": "black_projects_87e9a4_skunk_works_3828a1",
+        "to": "black_projects_87e9a4_declassified_records_facf11",
+        "type": "inline_internal"
+      },
+      {
+        "from": "black_projects_87e9a4_skunk_works_3828a1",
+        "to": "black_projects_87e9a4_popular_culture_myth_5d22b9",
+        "type": "inline_internal"
+      },
+      {
+        "from": "black_projects_87e9a4_skunk_works_3828a1",
+        "to": "black_projects_87e9a4_f117_nighthawk_75a3d9",
+        "type": "inline_internal"
+      },
+      {
+        "from": "black_projects_87e9a4_skunk_works_3828a1",
+        "to": "black_projects_87e9a4_secrecy_accountabili_6ccbcd",
+        "type": "inline_internal"
+      },
+      {
+        "from": "black_projects_87e9a4_black_budget_dea93a",
+        "to": "black_projects_87e9a4",
+        "type": "inline_internal"
+      },
+      {
+        "from": "black_projects_87e9a4_black_budget_dea93a",
+        "to": "black_projects_87e9a4_black_budget_dea93a_intelligence_budget_ac5a94",
+        "type": "inline_internal"
+      },
+      {
+        "from": "black_projects_87e9a4_black_budget_dea93a",
+        "to": "black_projects_87e9a4_compartmented_teams_8af5ba_need_to_know_enginee_6e1acc",
+        "type": "inline_internal"
+      },
+      {
+        "from": "black_projects_87e9a4_black_budget_dea93a",
+        "to": "black_projects_87e9a4_operational_surprise_15e46e",
+        "type": "inline_internal"
+      },
+      {
+        "from": "black_projects_87e9a4_black_budget_dea93a",
+        "to": "black_projects_87e9a4_secrecy_accountabili_6ccbcd",
+        "type": "inline_internal"
+      },
+      {
+        "from": "black_projects_87e9a4_black_budget_dea93a",
+        "to": "black_projects_87e9a4_declassified_records_facf11",
+        "type": "inline_internal"
+      },
+      {
+        "from": "black_projects_87e9a4_black_budget_dea93a",
+        "to": "black_projects_87e9a4_black_budget_dea93a_hidden_contractor_ac_7e041c",
+        "type": "inline_internal"
+      },
+      {
+        "from": "black_projects_87e9a4_black_budget_dea93a",
+        "to": "black_projects_87e9a4_disclosure_timelines_f00941",
+        "type": "inline_internal"
+      },
+      {
+        "from": "black_projects_87e9a4_u2_spy_plane_88d3f3",
+        "to": "black_projects_87e9a4_skunk_works_3828a1",
+        "type": "inline_internal"
+      },
+      {
+        "from": "black_projects_87e9a4_u2_spy_plane_88d3f3",
+        "to": "black_projects_87e9a4_cover_stories_cb3f5f",
+        "type": "inline_internal"
+      },
+      {
+        "from": "black_projects_87e9a4_u2_spy_plane_88d3f3",
+        "to": "black_projects_87e9a4_u2_spy_plane_88d3f3_u2_civilian_cover_st_5c5602",
+        "type": "inline_internal"
+      },
+      {
+        "from": "black_projects_87e9a4_u2_spy_plane_88d3f3",
+        "to": "black_projects_87e9a4_u2_spy_plane_88d3f3_u2_to_spy_satellites_c954f7",
+        "type": "inline_internal"
+      },
+      {
+        "from": "black_projects_87e9a4_u2_spy_plane_88d3f3",
+        "to": "black_projects_87e9a4_u2_spy_plane_88d3f3_u2_bomber_gap_photos_2fa0f2",
+        "type": "inline_internal"
+      },
+      {
+        "from": "black_projects_87e9a4_u2_spy_plane_88d3f3",
+        "to": "black_projects_87e9a4_declassified_records_facf11",
+        "type": "inline_internal"
+      },
+      {
+        "from": "black_projects_87e9a4_u2_spy_plane_88d3f3",
+        "to": "black_projects_87e9a4",
+        "type": "inline_internal"
+      },
+      {
+        "from": "black_projects_87e9a4_area51_rumors_14a0e7",
+        "to": "black_projects_87e9a4_popular_culture_myth_5d22b9",
+        "type": "inline_internal"
+      },
+      {
+        "from": "black_projects_87e9a4_area51_rumors_14a0e7",
+        "to": "black_projects_87e9a4_declassified_records_facf11",
+        "type": "inline_internal"
+      },
+      {
+        "from": "black_projects_87e9a4_area51_rumors_14a0e7",
+        "to": "black_projects_87e9a4",
+        "type": "inline_internal"
+      },
+      {
+        "from": "black_projects_87e9a4_area51_rumors_14a0e7",
+        "to": "black_projects_87e9a4_u2_spy_plane_88d3f3",
+        "type": "inline_internal"
+      },
+      {
+        "from": "black_projects_87e9a4_area51_rumors_14a0e7",
+        "to": "black_projects_87e9a4_overclassification_t_f052cc",
+        "type": "inline_internal"
+      },
+      {
+        "from": "black_projects_87e9a4_area51_rumors_14a0e7",
+        "to": "black_projects_87e9a4_secrecy_accountabili_6ccbcd",
+        "type": "inline_internal"
+      },
+      {
+        "from": "black_projects_87e9a4_cover_stories_cb3f5f",
+        "to": "black_projects_87e9a4_u2_spy_plane_88d3f3",
+        "type": "inline_internal"
+      },
+      {
+        "from": "black_projects_87e9a4_cover_stories_cb3f5f",
+        "to": "black_projects_87e9a4_secrecy_accountabili_6ccbcd",
+        "type": "inline_internal"
+      },
+      {
+        "from": "black_projects_87e9a4_cover_stories_cb3f5f",
+        "to": "black_projects_87e9a4_cover_stories_cb3f5f_oak_ridge_compartmen_8cada5",
+        "type": "inline_internal"
+      },
+      {
+        "from": "black_projects_87e9a4_cover_stories_cb3f5f",
+        "to": "black_projects_87e9a4_cover_stories_cb3f5f_paradise_ranch_cover_dab71b",
+        "type": "inline_internal"
+      },
+      {
+        "from": "black_projects_87e9a4_cover_stories_cb3f5f",
+        "to": "black_projects_87e9a4_declassified_records_facf11",
+        "type": "inline_internal"
+      },
+      {
+        "from": "black_projects_87e9a4_cover_stories_cb3f5f",
+        "to": "black_projects_87e9a4",
+        "type": "inline_internal"
+      },
+      {
+        "from": "black_projects_87e9a4_cover_stories_cb3f5f",
+        "to": "black_projects_87e9a4_cover_stories_cb3f5f_neutral_project_name_c4a598",
+        "type": "inline_internal"
+      },
+      {
+        "from": "black_projects_87e9a4_remote_basing_418e55",
+        "to": "black_projects_87e9a4",
+        "type": "inline_internal"
+      },
+      {
+        "from": "black_projects_87e9a4_remote_basing_418e55",
+        "to": "black_projects_87e9a4_u2_spy_plane_88d3f3",
+        "type": "inline_internal"
+      },
+      {
+        "from": "black_projects_87e9a4_remote_basing_418e55",
+        "to": "black_projects_87e9a4_f117_nighthawk_75a3d9",
+        "type": "inline_internal"
+      },
+      {
+        "from": "black_projects_87e9a4_remote_basing_418e55",
+        "to": "black_projects_87e9a4_compartmented_teams_8af5ba",
+        "type": "inline_internal"
+      },
+      {
+        "from": "black_projects_87e9a4_remote_basing_418e55",
+        "to": "black_projects_87e9a4_disclosure_timelines_f00941",
+        "type": "inline_internal"
+      },
+      {
+        "from": "black_projects_87e9a4_remote_basing_418e55",
+        "to": "black_projects_87e9a4_declassified_records_facf11",
+        "type": "inline_internal"
+      },
+      {
+        "from": "black_projects_87e9a4_remote_basing_418e55",
+        "to": "black_projects_87e9a4_overclassification_t_f052cc",
+        "type": "inline_internal"
+      },
+      {
+        "from": "black_projects_87e9a4_f117_nighthawk_75a3d9",
+        "to": "black_projects_87e9a4_stealth_secrecy_6c60c7_radar_cross_section_5ee169",
+        "type": "inline_internal"
+      },
+      {
+        "from": "black_projects_87e9a4_f117_nighthawk_75a3d9",
+        "to": "black_projects_87e9a4",
+        "type": "inline_internal"
+      },
+      {
+        "from": "black_projects_87e9a4_f117_nighthawk_75a3d9",
+        "to": "black_projects_87e9a4_cover_stories_cb3f5f",
+        "type": "inline_internal"
+      },
+      {
+        "from": "black_projects_87e9a4_f117_nighthawk_75a3d9",
+        "to": "black_projects_87e9a4_f117_nighthawk_75a3d9_f117_stealth_mainten_e98156",
+        "type": "inline_internal"
+      },
+      {
+        "from": "black_projects_87e9a4_f117_nighthawk_75a3d9",
+        "to": "black_projects_87e9a4_f117_nighthawk_75a3d9_tonopah_secret_base_bb506c",
+        "type": "inline_internal"
+      },
+      {
+        "from": "black_projects_87e9a4_f117_nighthawk_75a3d9",
+        "to": "black_projects_87e9a4_secrecy_accountabili_6ccbcd",
+        "type": "inline_internal"
+      },
+      {
+        "from": "black_projects_87e9a4_f117_nighthawk_75a3d9",
+        "to": "black_projects_87e9a4_remote_basing_418e55",
+        "type": "inline_internal"
+      },
+      {
+        "from": "black_projects_87e9a4_sr71_blackbird_3084c1",
+        "to": "black_projects_87e9a4",
+        "type": "inline_internal"
+      },
+      {
+        "from": "black_projects_87e9a4_sr71_blackbird_3084c1",
+        "to": "black_projects_87e9a4_skunk_works_3828a1",
+        "type": "inline_internal"
+      },
+      {
+        "from": "black_projects_87e9a4_sr71_blackbird_3084c1",
+        "to": "black_projects_87e9a4_operational_surprise_15e46e",
+        "type": "inline_internal"
+      },
+      {
+        "from": "black_projects_87e9a4_sr71_blackbird_3084c1",
+        "to": "black_projects_87e9a4_declassified_records_facf11",
+        "type": "inline_internal"
+      },
+      {
+        "from": "black_projects_87e9a4_sr71_blackbird_3084c1",
+        "to": "black_projects_87e9a4_u2_spy_plane_88d3f3",
+        "type": "inline_internal"
+      },
+      {
+        "from": "black_projects_87e9a4_sr71_blackbird_3084c1",
+        "to": "black_projects_87e9a4_popular_culture_myth_5d22b9",
+        "type": "inline_internal"
+      },
+      {
+        "from": "black_projects_87e9a4_sr71_blackbird_3084c1",
+        "to": "black_projects_87e9a4_compartmented_teams_8af5ba",
+        "type": "inline_internal"
+      },
+      {
+        "from": "black_projects_87e9a4_beyond_aircraft_96c311",
+        "to": "black_projects_87e9a4",
+        "type": "inline_internal"
+      },
+      {
+        "from": "black_projects_87e9a4_beyond_aircraft_96c311",
+        "to": "black_projects_87e9a4_cover_stories_cb3f5f",
+        "type": "inline_internal"
+      },
+      {
+        "from": "black_projects_87e9a4_beyond_aircraft_96c311",
+        "to": "black_projects_87e9a4_beyond_aircraft_96c311_project_pluto_failur_225004",
+        "type": "inline_internal"
+      },
+      {
+        "from": "black_projects_87e9a4_beyond_aircraft_96c311",
+        "to": "black_projects_87e9a4_compartmented_teams_8af5ba",
+        "type": "inline_internal"
+      },
+      {
+        "from": "black_projects_87e9a4_beyond_aircraft_96c311",
+        "to": "black_projects_87e9a4_secrecy_accountabili_6ccbcd",
+        "type": "inline_internal"
+      },
+      {
+        "from": "black_projects_87e9a4_beyond_aircraft_96c311",
+        "to": "black_projects_87e9a4_declassified_records_facf11",
+        "type": "inline_internal"
+      },
+      {
+        "from": "black_projects_87e9a4_beyond_aircraft_96c311",
+        "to": "black_projects_87e9a4_operational_surprise_15e46e",
+        "type": "inline_internal"
+      },
+      {
+        "from": "black_projects_87e9a4_beyond_aircraft_96c311",
+        "to": "black_projects_87e9a4_stealth_secrecy_6c60c7_radar_cross_section_5ee169",
+        "type": "inline_internal"
+      },
+      {
+        "from": "black_projects_87e9a4_stealth_secrecy_6c60c7",
+        "to": "black_projects_87e9a4",
+        "type": "inline_internal"
+      },
+      {
+        "from": "black_projects_87e9a4_stealth_secrecy_6c60c7",
+        "to": "black_projects_87e9a4_operational_surprise_15e46e",
+        "type": "inline_internal"
+      },
+      {
+        "from": "black_projects_87e9a4_stealth_secrecy_6c60c7",
+        "to": "black_projects_87e9a4_f117_nighthawk_75a3d9",
+        "type": "inline_internal"
+      },
+      {
+        "from": "black_projects_87e9a4_stealth_secrecy_6c60c7",
+        "to": "black_projects_87e9a4_black_budget_dea93a",
+        "type": "inline_internal"
+      },
+      {
+        "from": "black_projects_87e9a4_groom_lake_testing_db41d4",
+        "to": "black_projects_87e9a4_u2_spy_plane_88d3f3",
+        "type": "inline_internal"
+      },
+      {
+        "from": "black_projects_87e9a4_groom_lake_testing_db41d4",
+        "to": "black_projects_87e9a4_groom_lake_testing_db41d4_dry_lake_flight_safe_2604e6",
+        "type": "inline_internal"
+      },
+      {
+        "from": "black_projects_87e9a4_groom_lake_testing_db41d4",
+        "to": "black_projects_87e9a4",
+        "type": "inline_internal"
+      },
+      {
+        "from": "black_projects_87e9a4_groom_lake_testing_db41d4",
+        "to": "black_projects_87e9a4_skunk_works_3828a1",
+        "type": "inline_internal"
+      },
+      {
+        "from": "black_projects_87e9a4_groom_lake_testing_db41d4",
+        "to": "black_projects_87e9a4_groom_lake_testing_db41d4_groom_lake_restricte_d8fb37",
+        "type": "inline_internal"
+      },
+      {
+        "from": "black_projects_87e9a4_groom_lake_testing_db41d4",
+        "to": "black_projects_87e9a4_declassified_records_facf11",
+        "type": "inline_internal"
+      },
+      {
+        "from": "black_projects_87e9a4_groom_lake_testing_db41d4",
+        "to": "black_projects_87e9a4_beyond_aircraft_96c311",
+        "type": "inline_internal"
+      },
+      {
+        "from": "black_projects_87e9a4_groom_lake_testing_db41d4",
+        "to": "black_projects_87e9a4_operational_surprise_15e46e",
+        "type": "inline_internal"
+      },
+      {
+        "from": "black_projects_87e9a4_rumors_vs_evidence_258660",
+        "to": "black_projects_87e9a4",
+        "type": "inline_internal"
+      },
+      {
+        "from": "black_projects_87e9a4_rumors_vs_evidence_258660",
+        "to": "black_projects_87e9a4_u2_spy_plane_88d3f3",
+        "type": "inline_internal"
+      },
+      {
+        "from": "black_projects_87e9a4_rumors_vs_evidence_258660",
+        "to": "black_projects_87e9a4_f117_nighthawk_75a3d9",
+        "type": "inline_internal"
+      },
+      {
+        "from": "black_projects_87e9a4_rumors_vs_evidence_258660",
+        "to": "black_projects_87e9a4_declassified_records_facf11",
+        "type": "inline_internal"
+      },
+      {
+        "from": "black_projects_87e9a4_rumors_vs_evidence_258660",
+        "to": "black_projects_87e9a4_sr71_blackbird_3084c1",
+        "type": "inline_internal"
+      },
+      {
+        "from": "black_projects_87e9a4_rumors_vs_evidence_258660",
+        "to": "black_projects_87e9a4_remote_basing_418e55",
+        "type": "inline_internal"
+      },
+      {
+        "from": "black_projects_87e9a4_rumors_vs_evidence_258660",
+        "to": "black_projects_87e9a4_area51_rumors_14a0e7_restricted_roads_myt_5ca775",
+        "type": "inline_internal"
+      },
+      {
+        "from": "black_projects_87e9a4_compartmented_teams_8af5ba",
+        "to": "black_projects_87e9a4",
+        "type": "inline_internal"
+      }
+    ],
+    "related_report_edge_samples": []
+  }
+}
