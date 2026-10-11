@@ -891,5 +891,5 @@ Equally important, the programme accelerated American expertise in titanium fabr
 22.<a id="endnote-22"></a>
    Source: rocketcenter.com  
    Title: Aircraft: A-12, Article 127, Oxcart | U.S  
-   Link:<a href="https://www.rocketcenter.com/tour/ac/A12Oxcart" target="_blank" rel="noopener noreferrer nofollow">https://www.rocketcenter.com/tour/ac/A12Oxcart</a>  
+   Link:https://www.rocketcenter.com/tour/ac/A12Oxcart  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Space &amp; Rocket CenterImage: A-12, Article 127, Oxcart The A-12 is the clandestine forerunner of the famous SR-71 Blackbird. The aircraft...</p></details>

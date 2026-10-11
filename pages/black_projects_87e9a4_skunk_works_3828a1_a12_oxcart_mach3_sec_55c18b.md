@@ -891,6 +891,6 @@ The programme required breakthroughs in titanium structures, propulsion integrat
 26.<a id="endnote-26"></a>
    Source: spacecamp.com  
    Title: Aircraft: A-12, Article 127, Oxcart | U.S  
-   Link:<a href="https://www.spacecamp.com/tour/ac/A12Oxcart" target="_blank" rel="noopener noreferrer nofollow">https://www.spacecamp.com/tour/ac/A12Oxcart</a>  
+   Link:https://www.spacecamp.com/tour/ac/A12Oxcart  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Space &amp; Rocket CenterOn April 25, 1962, the first A-12 took off from the covert airbase at Groom Lake, sometimes called Area 51. One week...</p></details>
    Published: April 25, 1962  

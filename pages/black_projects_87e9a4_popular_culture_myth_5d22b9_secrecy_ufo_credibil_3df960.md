@@ -917,7 +917,7 @@ Historical records therefore suggest a more nuanced conclusion than either extre
 
 23.<a id="endnote-23"></a>
    Source: ufotransparency.com  
-   Link:<a href="https://ufotransparency.com/files/decade-2020s-aaro-historical-record-report-vol1-2024-aaro-historical-record-report-volume" target="_blank" rel="noopener noreferrer nofollow">https://ufotransparency.com/files/decade-2020s-aaro-historical-record-report-vol1-2024-aaro-historical-record-report-volume</a>  
+   Link:https://ufotransparency.com/files/decade-2020s-aaro-historical-record-report-vol1-2024-aaro-historical-record-report-volume  
 
 24.<a id="endnote-24"></a>
    Source: secretsdeclassified.af.mil  
