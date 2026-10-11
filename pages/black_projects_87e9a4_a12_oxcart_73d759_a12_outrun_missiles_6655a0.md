@@ -851,7 +851,6 @@ That approach shaped not only the A-12 itself but also its successors. Although 
 
 16.<a id="endnote-16"></a>
    Source: twz.com  
-   Link:https://www.twz.com/32722/cias-predecessor-to-the-[sr-71-blackbird  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>CIA&#x27;s Predecessor To The SR-71 Blackbird Tested Electron Guns To Hide From RadarsMarch 25, 2020 — CIA’S PREDECESSOR TO THE SR-71 BLACKBIR...</p></details>
    Published: March 25, 2020  
 

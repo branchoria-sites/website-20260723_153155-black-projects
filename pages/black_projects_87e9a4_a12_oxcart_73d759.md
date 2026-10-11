@@ -1066,7 +1066,6 @@ That is why OXCART remains a useful case rather than just an aviation legend. It
 
 27.<a id="endnote-27"></a>
    Source: spacecamp.com  
-   Link:https://www.spacecamp.com/tour/ac/A12Oxcart  
 
 28.<a id="endnote-28"></a>
    Source: airandspaceforces.com  

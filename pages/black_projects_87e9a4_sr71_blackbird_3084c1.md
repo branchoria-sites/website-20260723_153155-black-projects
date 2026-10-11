@@ -1098,7 +1098,6 @@ That is why its public afterlife is not nostalgia alone. The SR-71 helps explain
 
 24.<a id="endnote-24"></a>
    Source: spacecamp.com  
-   Link:https://www.spacecamp.com/tour/ac/A12Oxcart  
 
 25.<a id="endnote-25"></a>
    Source: nsarchive2.gwu.edu  
