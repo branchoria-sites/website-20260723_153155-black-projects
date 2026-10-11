@@ -502,7 +502,7 @@ The requirements were punishing because the aircraft had to live in an aerodynam
 
 The engine problem was just as central. The aircraft depended on Pratt & Whitney J58 engines, which had to operate in a zone between turbojet and ramjet-like behaviour at very high speed. A test and air-park summary notes that the J58 engines were not available for the first A-12 flights, forcing early test aircraft to fly with less capable J75 engines before the full propulsion system matured. That detail matters because it shows the project’s black-world logic: the programme moved ahead before every component was ready, accepting risk because the intelligence requirement and schedule pressure were judged urgent.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://flighttestmuseum.org/blackbird-airpark/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flighttestmuseum.org">[FLIGHT TEST HISTORICAL FOUNDATION]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flighttestmuseum.org</span><span class="citation-popover-snippet">Open source on flighttestmuseum.org.</span></span></span>
 
-The sensor requirement also shaped the aircraft. The A-12 was a single-seat reconnaissance platform designed around high-resolution photography rather than the broader, heavier multi-sensor package associated with the later [SR-71]({{ 'sr-71/' | relative_url }}). The U.S. Space & Rocket Center’s summary says the A-12’s down-looking camera was designed, in clear weather, to photograph a 12-inch object from 90,000 feet. The later SR-71, by contrast, carried side-looking and electronic collection capabilities that made it a more flexible Air Force reconnaissance platform, even if the A-12 remained the purer high-speed photographic collector.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.spacecamp.com/tour/ac/A12Oxcart" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spacecamp.com">[Space Camp]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spacecamp.com</span><span class="citation-popover-snippet">Open source on spacecamp.com.</span></span></span>
+The sensor requirement also shaped the aircraft. The A-12 was a single-seat reconnaissance platform designed around high-resolution photography rather than the broader, heavier multi-sensor package associated with the later [SR-71]({{ 'sr-71/' | relative_url }}). The U.S. Space & Rocket Center’s summary says the A-12’s down-looking camera was designed, in clear weather, to photograph a 12-inch object from 90,000 feet. The later SR-71, by contrast, carried side-looking and electronic collection capabilities that made it a more flexible Air Force reconnaissance platform, even if the A-12 remained the purer high-speed photographic collector.<span class="citation-link-wrap">[Space Camp]<span class="citation-popover" role="note"><span class="citation-popover-source">spacecamp.com</span><span class="citation-popover-snippet">Open source on spacecamp.com.</span></span></span>
 
 
 
@@ -1066,7 +1066,7 @@ That is why OXCART remains a useful case rather than just an aviation legend. It
 
 27.<a id="endnote-27"></a>
    Source: spacecamp.com  
-   Link:<a href="https://www.spacecamp.com/tour/ac/A12Oxcart" target="_blank" rel="noopener noreferrer nofollow">https://www.spacecamp.com/tour/ac/A12Oxcart</a>  
+   Link:https://www.spacecamp.com/tour/ac/A12Oxcart  
 
 28.<a id="endnote-28"></a>
    Source: airandspaceforces.com  
